@@ -5,7 +5,7 @@ layout: page
 
 ## Part One: Commodities and Money ##
 
-### 1 The Commodity&nbsp;[*(+)*](chapter-01-commentary) ###
+### Chapter 1: The Commodity&nbsp;[*(+)*](chapter-01-commentary) ###
 
 > The wealth of societies in which the capitalist mode of production prevails
 > appears as an 'immense collection of commodities'; the individual commodity
@@ -78,7 +78,7 @@ indirectly in the relation between commodities. This does not follow from the
 division of labour but from the particular mode of production: private
 production for exchange.
 
-### 2 The Process of Exchange&nbsp;[*(+)*](chapter-02-commentary) ###
+### Chapter 2: The Process of Exchange&nbsp;[*(+)*](chapter-02-commentary) ###
 
 Marx picks up on the commodity owners and their intends only now to determine
 them as character masks of their commodities. The process of exchange
@@ -86,7 +86,7 @@ presupposes that the exchanges recognise each other as free and equal *persons* 
 a status guaranteed by the state. Their power over each other is only the power
 of their commodities.
 
-### 3 Money, or the Circulation of Commodities ###
+### Chapter 3: Money, or the Circulation of Commodities ###
 
 #### The Measure of Values ####
 
@@ -146,7 +146,7 @@ suffices.
 
 ## Part Two: The Transformation of Money into Capital&nbsp;[*(+)*](chapter-03-04-transition) ##
 
-### 4 The General Formula for Capital ###
+### Chapter 4: The General Formula for Capital ###
 
 The form of simple commodity circulation is $C-M-C$. The form of *capital* is
 Money-Commodity-Money ($M-C-M$): value is the expressed purpose. This form would
@@ -157,7 +157,7 @@ the case with $C-M-C$ where the first and last commodity were different. In itse
 $M-C-M'$ has no limit. The bearer of the movement $M-C-M'$ is a capitalist and
 $M-C-M'$ the general formula of capital.
 
-### 5 Contradictions in the General Formula ###
+### Chapter 5: Contradictions in the General Formula ###
 
 $M-C-M'$ seems to fly in the face of the laws of commodity exchange where equal
 exchanges for equal. $M' = M + m$ cannot come from circulation. At the same time,
@@ -168,7 +168,7 @@ circulation. “Capital cannot therefore arise from circulation, and it is equal
 impossible for it to arise apart from circulation. It must have its, origin both
 in circulation and not in circulation.” (268)
 
-### 6 The Sale and Purchase of Labour-Power ###
+### Chapter 6: The Sale and Purchase of Labour-Power ###
 
 The apparent contradiction is resolved by the purchase of a special commodity:
 *labour-power*. Labour-power, the ability to work, can be bought on the
@@ -184,7 +184,7 @@ Capital is hence confronted with the determinations of the labour process.
 
 ## Part Three: The Production of Absolute Surplus-Value ##
 
-### 7 The Labour Process and the Valorization Process&nbsp;[*(+)*](chapter-07-commentary) ###
+### Chapter 7: The Labour Process and the Valorization Process&nbsp;[*(+)*](chapter-07-commentary) ###
 
 Labour is the purposeful interaction with nature. The *labour process* uses
 tools and material, application of the laws of nature (physics etc.) to
@@ -203,7 +203,7 @@ production and the new value created by labour during production.
 Capital hence structures and coordinate the production process such that its
 purpose realises itself.
 
-### 8 Constant Capital and Variable Capital&nbsp;[*(+)*](chapter-08-commentary) ###
+### Chapter 8: Constant Capital and Variable Capital&nbsp;[*(+)*](chapter-08-commentary) ###
 
 The moments of the labour process appear differently in the valorisation
 process.
@@ -219,7 +219,7 @@ of value it produces is variable and not dependent on its value itself. Its
 value is not transferred but reproduced. Furthermore, it is the part of capital
 that produces surplus-value.
 
-### 9 The Rate of Surplus-Value ###
+### Chapter 9: The Rate of Surplus-Value ###
 
 The movement $M-C-M'$ depends on the expansion that v can accomplish. The
 *rate of surplus value* is the rate of exploitation of labour-power. It is given
@@ -235,7 +235,7 @@ is hence also equally expressed as (surplus labour-time)/(necessary
 labour-time). The sum of necessary labour-time and surplus labour-time is
 absolute extend of labour-time, i.e. the *working day*.
 
-### 10 The Working Day ###
+### Chapter 10: The Working Day ###
 
 The rate of surplus-value is expressed by the ratio of surplus labour-time to
 necessary labour-time. For a given necessary labour-time capital can hence
@@ -261,7 +261,7 @@ Capital not only has an interest in extending the working day per worker but
 also in keeping production going all night and day. The preservation and
 utilisation of constant capital is here the main incentive: the *shift system*.
 
-### 11 The Rate and Mass of Surplus-Value ###
+### Chapter 11: The Rate and Mass of Surplus-Value ###
 
 1. The *mass of surplus-value* $S$ is given by $S = \frac{s}{v} \cdot V$
    where $s$ is the surplus-value supplied by a single worker per day, $v$
@@ -281,7 +281,7 @@ limit for $S$ for a given capital (resp. overall).
 
 ## Part Four: The Production of Relative Surplus-Value ##
 
-### 12 The Concept of Relative Surplus-Value ###
+### Chapter 12: The Concept of Relative Surplus-Value ###
 
 Improving the rate of surplus-value by lengthening the working day is the
 production of *absolute surplus-value*. The production of absolute surplus-value
@@ -314,7 +314,7 @@ labour-time, but to save necessary labour-time in order to increase surplus
 labour-time. Hence, labour saving technologies do not reduce in a reduction of
 work.
 
-### 13 Co-operation ###
+### Chapter 13: Co-operation ###
 
 It is a condition for capital that it employs several workers at the same
 time. This allows for the first method of relative surplus-value production. It
@@ -343,7 +343,7 @@ requires a new strata of workers which exercise this control and supervision.
 Cooperation is the logically and historically first method of production of
 relative surplus-value.
 
-### 14 The Division of Labour and Manufacture&nbsp;[*(+)*](chapter-14-commentary) ###
+### Chapter 14: The Division of Labour and Manufacture&nbsp;[*(+)*](chapter-14-commentary) ###
 
 #### The Dual Origin of Manufacture ####
 
@@ -398,7 +398,7 @@ Yet, in manufacture capital remains dependent on the skill of its
 workers. However, manufacture creates the technical basis for large scale
 machinery which overcomes this obstacle.
 
-### 15 Machinery and Large-Scale Industry ###
+### Chapter 15: Machinery and Large-Scale Industry ###
 
 #### The Development of Machinery ####
 
@@ -520,7 +520,7 @@ labourers.
 
 ## Part Five: The Production of Absolute and Relative Surplus-Value ##
 
-### 16 Absolute and Relative Surplus-Value ###
+### Chapter 16: Absolute and Relative Surplus-Value ###
 
 In Chapter 7 the concept of *productive labour was initially defined as
 purposeful interaction with nature. Under the capitalist mode of production this
@@ -545,7 +545,7 @@ surplus-value production where capital uses its command over the labour process
 to restructure it according to its needs: *real subsumption*. The previously
 established time relation is improved toward surplus labour-time.
 
-### 17 Changes of Magnitude in the Price of Labour-Power and in Surplus-Value ###
+### Chapter 17: Changes of Magnitude in the Price of Labour-Power and in Surplus-Value ###
 
 Assuming that commodities are sold at value and that labour-power never sells
 below its value, we have three determinants for the relative magnitudes of
@@ -559,7 +559,7 @@ These are hence levers for capital to diminish the value of labour power
 relatively to surplus-value. The combination of these levers allows capital to
 deal with the limits of all these levers on their own.
 
-### 18 Different Formulae for the Rate of Surplus-Value ###
+### Chapter 18: Different Formulae for the Rate of Surplus-Value ###
 
 The correct formula for the rate of surplus-value is
 
@@ -583,7 +583,7 @@ labour-power is bought.
 
 ## Part Six: Wages ##
 
-### 19 The Transformation of the Value (and Respectively the Price) of Labour-Power into Wages&nbsp;[*(+)*](chapter-19-detailed-commentary) ###
+### Chapter 19: The Transformation of the Value (and Respectively the Price) of Labour-Power into Wages&nbsp;[*(+)*](chapter-19-detailed-commentary) ###
 
 The wage form expresses the value of labour-power as a *price of labour*. This
 expression is irrational as labour has no value and it is labour-power which is
@@ -602,7 +602,7 @@ Time and intensity are the two determinations which characterise the magnitude
 of value produced by labour. Each wage form is a reflection on these
 determinants.
 
-### 20 Time-Wages&nbsp;[*(+)*](chapter-20-commentary) ###
+### Chapter 20: Time-Wages&nbsp;[*(+)*](chapter-20-commentary) ###
 
 The price of labour for an hour is calculated as
 
@@ -625,7 +625,7 @@ of such long hours. A low hourly wage creates the interest with workers for
 overtime, so the same workers supply more labour, capital can hence suppress the
 price of labour per hour further.
 
-### 21 Piece-Wages ###
+### Chapter 21: Piece-Wages ###
 
 The price of labour per piece produced is calculated as:
 
@@ -642,7 +642,7 @@ This wage form does away with many otherwise necessary forms of supervision, but
 it necessitates *quality control*, where workers are only paid for products of
 sufficient quality.
 
-### 22 National Differences in Wages ###
+### Chapter 22: National Differences in Wages ###
 
 Real wage levels may vary from country to country. What is considered a normal
 level of reproduction on one country may be considered beyond this level in
@@ -657,9 +657,9 @@ a high rate of surplus-value.
 
 ## Part Seven: The Process of Accumulation of Capital ##
 
-### 23 Simple Reproduction ###
+### Chapter 23: Simple Reproduction ###
 
-### 24 The Transformation of Surplus-Value into Capital ###
+### Chapter 24: The Transformation of Surplus-Value into Capital ###
 
 #### Capitalist Production on a Progressively Increasing Scale. The Inversion which Converts the Property Laws of Commodity Production into Laws of Capitalist Appropriation ####
 
@@ -671,7 +671,7 @@ a high rate of surplus-value.
 
 #### The So-Called Labour Fund ####
 
-### 25 The General Law of Capitalist Accumulation ###
+### Chapter 25: The General Law of Capitalist Accumulation ###
 
 #### A Growing Demand for Labour-Power Accompanies Accumulation if the Composition of Capital Remains the Same ####
 
@@ -685,19 +685,19 @@ a high rate of surplus-value.
 
 ## Part Eight: So-Called Primitive Accumulation ##
 
-### 26 The Secret of Primitive Accumulation ###
+### Chapter 26: The Secret of Primitive Accumulation ###
 
-### 27 The Expropriation of the Agricultural Population from the Land ###
+### Chapter 27: The Expropriation of the Agricultural Population from the Land ###
 
-### 28 Bloody Legislation against the Expropriated since the End of the Fifteenth Century. The Forcing Down of Wages by Act of Parliament ###
+### Chapter 28: Bloody Legislation against the Expropriated since the End of the Fifteenth Century. The Forcing Down of Wages by Act of Parliament ###
 
-### 29 The Genesis of the Capitalist Farmer ###
+### Chapter 29: The Genesis of the Capitalist Farmer ###
 
-### 30 Impact of the Agricultural Revolution on Industry. The Creation of a Home Market for Industrial Capital ###
+### Chapter 30: Impact of the Agricultural Revolution on Industry. The Creation of a Home Market for Industrial Capital ###
 
-### 31 The Genesis of the Industrial Capitalist ###
+### Chapter 31: The Genesis of the Industrial Capitalist ###
 
-### 32 The Historical Tendency of Capitalist Accumulation ###
+### Chapter 32: The Historical Tendency of Capitalist Accumulation ###
 
-### 33 The Modern Theory of Colonization ###
+### Chapter 33: The Modern Theory of Colonization ###
 
