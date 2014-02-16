@@ -15,6 +15,9 @@ intensity are the two main features of labour which make it a means for
 surplus-value production, time and piece wages are the dominant forms. This
 chapter deals with time-wages.
 
+Time-wages
+----------
+
 > The sale of labour-power, as will be remembered, always takes place for
 > definite periods of time. The converted form in which the daily value, weekly
 > value, etc. of labour-power is directly presented is hence that of time-wages,
@@ -68,22 +71,22 @@ labour time dependent on surplus labour.
 Short-time work
 ---------------
 
-“The unit of measurement for time-wages, the price of the working hour, is the
-value of a day’s labour-power divided by the number of hours in the average
-working day. Let the latter be 12 hours, and the daily value of labour-power 3
-shillings, the value-product of 6 hours of labour.  Under these circumstances,
-the price of a working hour is 3d., and the value produced in it is 6d. If the
-worker is now employed for less than 12 hours a day (or for less than 6 days in
-the week), for instance only for 6 or 8 hours, he receives, at the price of
-labour just mentioned, only 2s. or 1s. 6d. a day.5 As, on our hypothesis, he
-must work on average 6 hours a day in order to produce a day’s wage which
-corresponds to nothing more than the value of his labour-power, and as, on the
-same hypothesis, he works only half of every hour for himself, and half for the
-capitalist, it is clear that he cannot obtain for himself the value-product of 6
-hours if he is employed for less than 12 hours. In previous chapters we saw the
-destructive consequences of overwork; but here we come upon the origin of the
-sufferings which arise for the worker out of his being insufficiently employed.”
-(685/686)
+> The unit of measurement for time-wages, the price of the working hour, is the
+> value of a day’s labour-power divided by the number of hours in the average
+> working day. Let the latter be 12 hours, and the daily value of labour-power 3
+> shillings, the value-product of 6 hours of labour.  Under these circumstances,
+> the price of a working hour is 3d., and the value produced in it is 6d. If the
+> worker is now employed for less than 12 hours a day (or for less than 6 days
+> in the week), for instance only for 6 or 8 hours, he receives, at the price of
+> labour just mentioned, only 2s. or 1s. 6d. a day As, on our hypothesis, he
+> must work on average 6 hours a day in order to produce a day’s wage which
+> corresponds to nothing more than the value of his labour-power, and as, on the
+> same hypothesis, he works only half of every hour for himself, and half for
+> the capitalist, it is clear that he cannot obtain for himself the
+> value-product of 6 hours if he is employed for less than 12 hours. In previous
+> chapters we saw the destructive consequences of overwork; but here we come
+> upon the origin of the sufferings which arise for the worker out of his being
+> insufficiently employed.  (685/686)
 
 Overtime
 --------
@@ -109,14 +112,11 @@ It seems that – on average – the longer the working day in a certain factory
 lower the wage (688). To explain this:
 
 > From the law stated above, namely that the price of labour being given, the
-> needed to maintain him/herdaily or weekly wage depends on the quantity of
-> needed to maintain him/herlabour expended, it follows, first of all, that the
-> needed to maintain him/herlower the price
-> of labour, the greater must be the quantity of labour, or the longer must be
-> needed to maintain him/herthe working day, for the worker to secure even a
-> needed to maintain him/hermiserable average wage. The low
-> level of the price of labour acts here as a stimulus to the extension of the
-> labour-time. (688)
+> daily or weekly wage depends on the quantity of labour expended, it follows,
+> first of all, that lower the price of labour, the greater must be the quantity
+> of labour, or the longer must be the working day, for the worker to secure
+> even a miserable average wage. The low level of the price of labour acts here
+> as a stimulus to the extension of the labour-time. (688)
 
 However, longer working hours also bring down the price of labour.
 
@@ -158,7 +158,7 @@ Finally, an example for the “notions of justice held by … the capitalist” 
 
 ---
 
-[^1]: Note that this does not imply that the value of labour-power increases
-    *because* a worker produces more value. A side effect of producing more
-    needed to maintain him/her value may be quicker deterioration of the worker
-    which may imply that more money is needed.
+[^1]: This does not imply that the value of labour-power increases *because* a
+      worker produces more value. A side effect of producing more needed to
+      maintain him/her value may be quicker deterioration of the worker which
+      may imply that more money is needed.

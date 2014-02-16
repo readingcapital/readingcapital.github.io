@@ -548,27 +548,27 @@ established time relation is improved toward surplus labour-time.
 ### 17 Changes of Magnitude in the Price of Labour-Power and in Surplus-Value ###
 
 Assuming that commodities are sold at value and that labour-power never sells
-below its value, we have three determinants for the relative magnitutes of
+below its value, we have three determinants for the relative magnitudes of
 surplus-value and price of labour-power.
 
 1. the length of the working day,
 2. the normal intensity of labour, and
 3. the productivity of labour.
 
-These are hence levers for capital to diminuish the value of labour power
-relatively to surplus-value. The comination of these levers allows capital to
+These are hence levers for capital to diminish the value of labour power
+relatively to surplus-value. The combination of these levers allows capital to
 deal with the limits of all these levers on their own.
 
 ### 18 Different Formulae for the Rate of Surplus-Value ###
 
 The correct formula for the rate of surplus-value is
 
-$(I) \frac{\mbox{surplus-value}}{\mbox{variable capital}} = \frac{s}{v} = \frac{\mbox{surplus-value}}{\mbox{value of labour-power}} = \frac{\mbox{surplus labour}}{\mbox{necessary labour}}$
+$(I) \frac{\mbox{surplus-value}}{\mbox{variable capital}} = \frac{\mbox{surplus-value}}{\mbox{value of labour-power}} = \frac{\mbox{surplus labour}}{\mbox{necessary labour}}$
 
 which relates surplus-value to its source (in value terms and in time terms) and
-is thus conceptually sound. Another formular is
+is thus conceptually sound. Another formula is
 
-$(II) \frac{\mbox{surplus labour}}{\mbox{working day}}  = \frac{\mbox{surplus-value}}{\mbox{value of the product}} = \frac{\mbox{surplus product}}{\mbox{total product}}.$
+$(II) \frac{\mbox{surplus labour}}{\mbox{working day}} = \frac{\mbox{surplus-value}}{\mbox{value of the product}} = \frac{\mbox{surplus product}}{\mbox{total product}}.$
 
 This formula is not sound as it has no relation to how surplus-value is actually
 produced. Instead, it relates it to the total product and implies a sharing of
@@ -583,13 +583,77 @@ labour-power is bought.
 
 ## Part Six: Wages ##
 
-### 19 The Transformation of the Value (and Respectively the Price) of Labour-Power into Wages ###
+### 19 The Transformation of the Value (and Respectively the Price) of Labour-Power into Wages&nbsp;[*(+)*](chapter-19-detailed-commentary) ###
+
+The wage form expresses the value of labour-power as a *price of labour*. This
+expression is irrational as labour has no value and it is labour-power which is
+bought.
+
+However, it is not a mere false idea. Since the production of surplus-value is
+the purpose of the capitalist production process, the worker's labour-power is
+bought in order to put her to work long enough to realise a surplus-value:
+$m$. The wage is the form in which the purchase of labour power and the purpose
+of this purchase are consolidated. A capitalist buys labour-power to make it
+work for a certain amount of time. The form of payment expresses the truth that
+necessary labour is conditioned on surplus labour under the rule of capital, not
+the other way around.
+
+Time and intensity are the two determinations which characterise the magnitude
+of value produced by labour. Each wage form is a reflection on these
+determinants.
 
 ### 20 Time-Wages&nbsp;[*(+)*](chapter-20-commentary) ###
 
+The price of labour for an hour is calculated as
+
+$\mbox{price of 1 hour} = \frac{\mbox{working day}}{\mbox{value of labour-power}}.$
+
+But this is not merely an arithmetic operation. The production of surplus-value
+necessitates that a worker produces longer than needed to reproduce her
+labour-power. *Time-wages* implement this interest of capital in the worker. A
+worker is only paid the full value of labour-power if she produced not only the
+value equivalent of her labour-power but also surplus-value.
+
+Now if capital employs a worker for less than a full day (*short-time work*), a
+worker is not able to reproduce herself, as she is not paid the value of her
+labour-power. It is irrelevant here if she worked more or less than necessary
+labour-time, as payment is attached to the full working day which includes both
+necessary and surplus labour-time.
+
+Capital pays extra for *overtime* to compensate for the additional devastation
+of such long hours. A low hourly wage creates the interest with workers for
+overtime, so the same workers supply more labour, capital can hence suppress the
+price of labour per hour further.
+
 ### 21 Piece-Wages ###
 
+The price of labour per piece produced is calculated as:
+
+$\mbox{price per piece} = \frac{\mbox{price per hour}}{\mbox{pieces per hour}}.$
+
+Again, this is not merely an arithmetic operation. With *piece wages* the
+interest of capital in high intensity of labour is implanted in the worker: work
+fast and concentrated to earn more. As workers therewith increase intensity,
+they provide capital with the means to lower the piece wage: the new level of
+intensity becomes the norm and workers still only get paid the value of their
+labour-power.
+
+This wage form does away with many otherwise necessary forms of supervision, but
+it necessitates *quality control*, where workers are only paid for products of
+sufficient quality.
+
 ### 22 National Differences in Wages ###
+
+Real wage levels may vary from country to country. What is considered a normal
+level of reproduction on one country may be considered beyond this level in
+another. The production of the means of subsistence might be cheaper in one
+country than another (agriculture and its reliance on climate, quality of the
+soil, etc.).
+
+Yet, the production of surplus-value does not rely on absolute wage levels,
+though, but on the rate of surplus-value. This rate might be lower in a country
+with a low wage level and vice versa. Capital does not need low wages, it needs
+a high rate of surplus-value.
 
 ## Part Seven: The Process of Accumulation of Capital ##
 
