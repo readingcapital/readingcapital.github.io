@@ -6,9 +6,9 @@ layout: page
 1.1 The Two Factors of the Commodity: Use-Value and Value (Substance of Value, Magnitude of Value)
 --------------------------------------------------------------------------------------------------
 
-> The wealth of societies in which the capitalist mode of production prevails
-> appears as an ‘immense collection of commodities’; the individual commodity
-> appears as its elementary form. (125)[^1]
+> 125:1 The wealth of societies in which the capitalist mode of production
+> prevails appears as an ‘immense collection of commodities’; the individual
+> commodity appears as its elementary form.[^1]
 
 Marx starts with what “appears”, something taken from observation.  However, how
 something appears does not necessarily match how it is, it's jut how that what
@@ -62,8 +62,8 @@ society.
 
 ### Exchange-Value
 
-> In the form of society to be considered here they are also the material
-> bearers of … exchange-value. (126)
+> 126:1 In the form of society to be considered here they are also the material
+> bearers of … exchange-value.
 
 In all societies people need to eat and in all possible social organisations
 people need to work to produce the stuff to consume. This cannot change. What
@@ -72,9 +72,9 @@ to production. One such form is the market which makes exchange-value a
 particular social quality of wealth in societies in which the capitalist mode of
 production prevails.
 
-> Exchange-value appears first of all as the quantitative relation, the
+> 126:2 Exchange-value appears first of all as the quantitative relation, the
 > proportion, in which use-value of one kind exchange for use-values of another
-> kind. (126)
+> kind.
 
 For now, exchange-value appears as a relation between two use-values. If one can
 get two chairs for a metric ton of apples, then two chairs are the
@@ -91,9 +91,9 @@ access chairs” or “chair access resources” (both of which are ways to say
 appease hunger, their exchange-value – as far as we have determined it so far –
 as a property of apples is to get access to chairs.
 
-> This relation changes constantly with time and place. Hence exchange-value
-> that is inseparably connected with the commodity, inherent in it, seems a
-> contradiction in terms. (126)
+> 126:2 This relation changes constantly with time and place. Hence
+> exchange-value that is inseparably connected with the commodity, inherent in
+> it, seems a contradiction in terms.
 
 A year ago one metric ton of apples might have allowed to get three chairs. In
 Northern England this might still be the case, while in London one only gets
@@ -126,10 +126,10 @@ relations. The apple is not only a “chair access resource” or has not only
 access resource etc. Apples are access resources to all other use-values in this
 society, if those are available on the market.
 
-> It follows from this that, firstly, the valid exchange-values of a particular
-> commodity express something equal, and secondly, exchange-value cannot be
-> anything other than the mode of expression, the ‘form of appearance’, of a
-> content distinguishable from it. (127)
+> 127:1 It follows from this that, firstly, the valid exchange-values of a
+> particular commodity express something equal, and secondly, exchange-value
+> cannot be anything other than the mode of expression, the ‘form of
+> appearance’, of a content distinguishable from it.
 
 The “content distinguishable from it” in exchange-value is the “exchangeability
 as such” as a property of the apple. Who owns apples can therewith access all
@@ -149,15 +149,15 @@ remains is the quality of apples to be exchangeable for them. Quantitatively a
 lot might change but the quality of the apple to become anything else in
 exchange remains.
 
-> Let us now take two commodities, for example corn and iron. Whatever their
-> exchange relation may be, it can always be represented by an equation in which
-> a given quantity of corn is equated to some quantity of iron, for instance 1
-> quarter of corn = x cwt of iron. What does this equation signify? It signifies
-> that a common element of identical magnitude exists in two different things,
-> in 1 quarter of corn and similarly in x cwt of iron. Both are therefore equal
-> to a third thing, which in itself is neither the one nor the other. Each of
-> them, so far as it is exchange-value, must therefore be reducible to this
-> third thing. (127)
+> 127:2 Let us now take two commodities, for example corn and iron. Whatever
+> their exchange relation may be, it can always be represented by an equation in
+> which a given quantity of corn is equated to some quantity of iron, for
+> instance 1 quarter of corn = x cwt of iron. What does this equation signify?
+> It signifies that a common element of identical magnitude exists in two
+> different things, in 1 quarter of corn and similarly in x cwt of iron. Both
+> are therefore equal to a third thing, which in itself is neither the one nor
+> the other. Each of them, so far as it is exchange-value, must therefore be
+> reducible to this third thing.
 
 If a metric ton of apples gives access to two chairs, then it is also true that
 two chairs allow one to get one metric ton of apples. All those arguments from
@@ -226,8 +226,8 @@ poverty.
 
 ### Substance of Value
 
-> But clearly, the exchange relation of commodities is characterized precisely
-> by its abstraction from their use-values. (127)
+> 127:4 But clearly, the exchange relation of commodities is characterized
+> precisely by its abstraction from their use-values.
 
 If we look at the exchange-value side of the commodity then its particular
 quality does not matter, given the right quantity all commodities are the
@@ -305,8 +305,8 @@ say, tea by exchanging it in my pub.
 
 ### Labour
 
-> If then we disregard the use-value of commodities, only one property remains,
-> that of being products of labour. (128)
+> 128:2 If then we disregard the use-value of commodities, only one property
+> remains, that of being products of labour.
 
 Whatever I buy must be produced first and so does my commodity which I give up
 in exchange. We don't need all these arguments Marx made so far to understand
@@ -347,9 +347,9 @@ Anyway, value is apparently somewhat related to labour. How?
 
 ### Abstract Labour
 
-> But even the product of labour has already been transformed in our hands. […]
-> They can no longer be distinguished, but are all together reduced to the same
-> kind of labour, human labour in the abstract. (128)
+> 128:2 But even the product of labour has already been transformed in our
+> hands. […] They can no longer be distinguished, but are all together reduced
+> to the same kind of labour, human labour in the abstract.
 
 By producing a chair, a use-value, carpentering is concrete. By producing a
 chair which has value carpentering is value producing. The value of the chair is
@@ -523,11 +523,11 @@ their activity to it.
 1.2 The Dual Character of the labour embodied in the Commodities
 ----------------------------------------------------------------
 
-> Initially the commodity appeared to us as an object with a dual character,
-> possessing both use-value and exchange-value. Later on it was seen that
-> labour, too, has a dual character: in so far as it finds its expression in
-> value, it no longer possesses the same characteristics as when it is the
-> creator of use-values. (131)
+> 131:2 Initially the commodity appeared to us as an object with a dual
+> character, possessing both use-value and exchange-value. Later on it was seen
+> that labour, too, has a dual character: in so far as it finds its expression
+> in value, it no longer possesses the same characteristics as when it is the
+> creator of use-values.
 
 ### Private Labour and Social Division of Labour
 
@@ -545,8 +545,8 @@ purpose of labour is known in the head of the foreman a priori and in accordance
 with this purpose labour is divided up into tasks and related. Yet, in a factory
 workers do not exchange intermediate products, they are not commodities.
 
-> Only the products of mutually independent self-directed private labors face
-> each other as commodities. (132)[^2]
+> 132:4 Only the products of mutually independent self-directed private labors
+> face each other as commodities.[^2]
 
 In capitalist societies, too, labours depend on each other. Intermediate
 products, like windscreen wipers and tyres are offered as commodities and
@@ -564,7 +564,7 @@ result. Everybody gets busy himself and what the outcome of this activity is
 presents itself afterwards. In contrast to the division of labour in factories
 the division of labour in capitalist societies does not follow a plan.
 
-> Coats cannot be exchanged for coats. (132),
+> 132:3 Coats cannot be exchanged for coats.
 
 because the basis for exchange is the neediness of the other. If she already has
 a coat why should she be interested in coat in the hands of others. The
@@ -589,11 +589,11 @@ social labour through the process of competition.
 
 ### Development of the Social Division of Labour
 
-> In a society in which products generally take the form of commodities, i.e.,
-> in a society of commodity producers, this qualitative difference between the
-> useful labors that are carried on independently from each other as the private
-> businesses of self-directed producers, develops into a system with many
-> components, a social division of labor. (132)[^3]
+> 132:5 In a society in which products generally take the form of commodities,
+> i.e., in a society of commodity producers, this qualitative difference between
+> the useful labors that are carried on independently from each other as the
+> private businesses of self-directed producers, develops into a system with
+> many components, a social division of labor.[^3]
 
 In capitalist societies there doesn't simply exist a social division of labour,
 it develops constantly with a tendency to smaller and smaller intermediate
@@ -618,10 +618,10 @@ producing and exploiting dependencies for value.
 
 ### Simple and Complicated Labour
 
-> Moreover, we see at a glance that, in our capitalist society, a given portion
-> of human labor is, in accordance with the varying demand, at one time supplied
-> in the form of spinning, and at another in the form of weaving. This change
-> may not always take place without friction, but take place it must. (134)
+> 134:2 Moreover, we see at a glance that, in our capitalist society, a given
+> portion of human labor is, in accordance with the varying demand, at one time
+> supplied in the form of spinning, and at another in the form of weaving. This
+> change may not always take place without friction, but take place it must.
 
 That sometimes more tailoring is required, sometimes less, sometimes more house
 building, sometimes less, is not only a fact but from what we learned so far a
@@ -629,17 +629,17 @@ necessary consequence. The indifference towards concrete labour does not mean
 that one does not need to care, but the standard every producers has to live up
 to and which constantly changes what socially necessary labour means.
 
-> Of course, human labour-power must itself have attained a certain level of
-> development before it can be expended in this or that form. But the value of a
-> commodity represents human labour pure and simple, the expenditure of human
-> labour in general. (…) It is the expenditure of simple labour-power, i.e. of
-> the labour-power possessed in his bodily organism by every ordinary man, on
-> the average, without being developed in any special way. Simple average
-> labour, it is true, varies in character in different countries and at
+> 134:3 Of course, human labour-power must itself have attained a certain level
+> of development before it can be expended in this or that form. But the value
+> of a commodity represents human labour pure and simple, the expenditure of
+> human labour in general. (…) It is the expenditure of simple labour-power,
+> i.e. of the labour-power possessed in his bodily organism by every ordinary
+> man, on the average, without being developed in any special way. Simple
+> average labour, it is true, varies in character in different countries and at
 > different cultural epochs, but in a particular society it is given. More
 > complex labour counts only as intensified, or rather multiplied simple labour,
 > so that a smaller quantity of complex labour is considered equal to a larger
-> quantity of simple labour. (134)
+> quantity of simple labour.
 
 Value producing labour is ruthless against a certain branch of industry or
 activity, what implies that producers have to be flexible to fulfil this
@@ -697,7 +697,7 @@ In themselves commodities are only useful objects, things, stuff.  However, what
 characterises these objects as commodities is that they have a dual nature they
 are
 
-> at the same time objects of utility and bearers of value (138)
+> 138:1 at the same time objects of utility and bearers of value
 
 This double character must find expression, otherwise these commodities are only
 objects. However, the value character of commodities has its substance in
@@ -735,7 +735,7 @@ commodities in this sub-chapter.
 
 ### The Simple, Isolated, or Accidental Form of Value
 
-> 20 yards of linen = 1 coat, or: 20 yards of linen are worth 1 coat (139)
+> 139:3 20 yards of linen = 1 coat, or: 20 yards of linen are worth 1 coat
 
 In this form of value two commodities are related to each other, each of which
 plays a very different role. The first commodity – the linen – is in the
@@ -781,17 +781,17 @@ in itself. In equating itself with the coat, the linen also claims I am not only
 linen, I am also coat equal. Sure, linen does not claim that you can wear it
 like a coat, yet it is coat equal.
 
-> This is a roundabout way of saying that weaving too, in so far as it weaves
-> value, has nothing to distinguish it from tailoring, and, consequently, is
-> abstract human labour. (142)
+> 142:1 This is a roundabout way of saying that weaving too, in so far as it
+> weaves value, has nothing to distinguish it from tailoring, and, consequently,
+> is abstract human labour.
 
 In relation to the labour that produced linen the linen makes a similar claim. I
 am not the result of weaving I am also result of the same labour that produced
 coats.
 
-> The value of the linen as a congealed mass of human labour can be expressed
-> only as an ‘objectivity’, a thing which is materially different from the linen
-> itself and yet common to the linen and all other commodities. (142)
+> 142:2 The value of the linen as a congealed mass of human labour can be
+> expressed only as an ‘objectivity’, a thing which is materially different from
+> the linen itself and yet common to the linen and all other commodities.
 
 In this society labour creates value, the quality to command social wealth. This
 quality the linen attempts to express: I am a means of access, social command
@@ -814,10 +814,10 @@ a quantity of linen with quantities of coats. This means:
     same proportions then the expression of the value of the linen does
     change. The value of the linen changed but its expression did not.
 
-> Thus real changes in the magnitude of value are neither unequivocally nor
-> exhaustively reflected in their relative expression, or, in other words, in
-> the magnitude of the relative value. The relative value of a commodity may
-> vary, although its value remains constant. (146)
+> 146:3 Thus real changes in the magnitude of value are neither unequivocally
+> nor exhaustively reflected in their relative expression, or, in other words,
+> in the magnitude of the relative value. The relative value of a commodity may
+> vary, although its value remains constant.
 
 This is analogous to the International Prototype Metre, i.e., the object which
 used to define what a metre is. As a natural object the International Prototype
@@ -827,11 +827,10 @@ depending on the year and hence the level of decay.
 
 #### The Equivalent Form
 
-> Here it [the coat] is therefore a thing in which value is manifested, or which
-> represents value in its tangible natural form. Yet the coat itself, the
+> 142:3 Here it [the coat] is therefore a thing in which value is manifested, or
+> which represents value in its tangible natural form. Yet the coat itself, the
 > physical aspect of the coat-commodity, is purely a use-value. A coat as such
-> no more expresses value than does the first piece of linen we come
-> across. (142)
+> no more expresses value than does the first piece of linen we come across.
 
 The coat, in the equivalent form, is passive, only material for the linen to
 express its value. Furthermore, the coat has the same dilemma as the linen: for
@@ -853,12 +852,12 @@ The linen by expressing its own value-quality by equating itself with coat, coat
 counts immediately as value for the linen. This also implies that coat can
 always be exchanged for linen:
 
-> The commodity linen brings to view its own existence as a value through the
-> fact that the coat can be equated with the linen although it has not assumed a
-> form of value distinct from its own physical form. The coat is directly
-> exchangeable with the linen; in this way the linen in fact expresses its own
-> existence as a value. The equivalent form of a commodity, accordingly, is the
-> form in which it is directly exchangeable with other commodities. (147)
+> 147:1 The commodity linen brings to view its own existence as a value through
+> the fact that the coat can be equated with the linen although it has not
+> assumed a form of value distinct from its own physical form. The coat is
+> directly exchangeable with the linen; in this way the linen in fact expresses
+> its own existence as a value. The equivalent form of a commodity, accordingly,
+> is the form in which it is directly exchangeable with other commodities.
 
 The linen says: I am value because I am like coat, hence as value I am as good
 as coat, coat is my standard of value which I claim to live up to. This identity
@@ -882,9 +881,9 @@ use the linen as power of access, i.e., the power of access must be made visible
 in order to actually access. Through the expression of the value of the linen in
 the coat, the coat now does not have this problem any more:
 
-> The first peculiarity which strikes us when we reflect on the equivalent form
-> is this, that use-value becomes the form of appearance of its opposite,
-> value. (148)
+> 148:1 The first peculiarity which strikes us when we reflect on the equivalent
+> form is this, that use-value becomes the form of appearance of its opposite,
+> value.
 
 Independent of the value expression of the linen the coat as the same problem as
 the linen. One cannot see its value character. But as equivalent form the coat
@@ -893,12 +892,12 @@ sufficient: coat is value. While linen has to enter a relation with the coat in
 order to express its value-character, the commodity in the equivalent form is
 immediately value and does not need to do this.
 
-> The body of the commodity, which serves as the equivalent, always figures as
-> the embodiment of abstract human labour, and is always the product of some
-> specific useful and concrete labour. This concrete labour therefore becomes
-> the expression of abstract human labour. (…) The equivalent form therefore
-> possesses a second peculiarity: in it, concrete labour becomes the form of
-> manifestation of its opposite, abstract human labour. (150)
+> 150:1 The body of the commodity, which serves as the equivalent, always
+> figures as the embodiment of abstract human labour, and is always the product
+> of some specific useful and concrete labour. This concrete labour therefore
+> becomes the expression of abstract human labour. (…) The equivalent form
+> therefore possesses a second peculiarity: in it, concrete labour becomes the
+> form of manifestation of its opposite, abstract human labour.
 
 If coat counts immediately as value within the value expression, then tailoring
 as concrete useful labour immediately counts as value-creating labour. Tailoring
@@ -923,18 +922,18 @@ commodities. (150)
 
 #### The simple form of value considered as a whole
 
-> A close scrutiny of the expression of the value of commodity A contained in
-> the value-relation of A to B has shown that within that relation the natural
-> form of commodity A figures only as the aspect of use-value, while the natural
-> form of B figures only as the form of value, or aspect of value. The internal
-> opposition between use-value and value, hidden within the commodity, is
-> therefore represented on the surface by an external opposition, i.e. by a
+> 153:1 A close scrutiny of the expression of the value of commodity A contained
+> in the value-relation of A to B has shown that within that relation the
+> natural form of commodity A figures only as the aspect of use-value, while the
+> natural form of B figures only as the form of value, or aspect of value. The
+> internal opposition between use-value and value, hidden within the commodity,
+> is therefore represented on the surface by an external opposition, i.e. by a
 > relation between two commodities such that the one commodity, whose own value
 > is supposed to be expressed, counts directly only as a use-value, whereas the
 > other commodity, in which that value is to be expressed, counts directly only
 > as exchange-value. Hence the simple form of value of a commodity is the simple
 > form of appearance of the opposition between use-value and value which is
-> contained within the commodity. (153)
+> contained within the commodity.
 
 The commodity is use-value and value. It is a component of material wealth, a
 particular branch of it, and it is command or power over this material
@@ -980,8 +979,8 @@ Alice failed to express her quality of being a Marxist.
 
 ### The Total or Expanded Form of Value
 
-> 20 yards of linen = 1 coat or = 10 lb. tea or = 40 lb. coffee or = 1 quarter
-> of corn or = 2 ounces of gold or = 1/2 ton of iron or = etc.  (154)
+> 154:4 20 yards of linen = 1 coat or = 10 lb. tea or = 40 lb. coffee or = 1
+> quarter of corn or = 2 ounces of gold or = 1/2 ton of iron or = etc.
 
 #### The expanded relative form of value
 
@@ -994,24 +993,24 @@ in the simple form of value.
 
 #### The particular equivalent form
 
-> Each commodity, such as coat, tea, iron, etc., figures in the expression of
-> value of the linen as an equivalent, hence as a physical object possessing
+> 156:1 Each commodity, such as coat, tea, iron, etc., figures in the expression
+> of value of the linen as an equivalent, hence as a physical object possessing
 > value. The specific natural form of each of these commodities is now a
 > particular equivalent form alongside many others. In the same way, the many
 > specific, concrete, and useful kinds of labour contained in the physical
 > commodities now count as the same number of particular forms of realization or
-> manifestation of human labour in general. (156)
+> manifestation of human labour in general.
 
 With respect to expressing value adequately this form still has a series of
 defects.
 
 #### Defects of the total or expanded form of value
 
-> Firstly, the relative expression of value of the commodity is incomplete,
-> because the series of its representations never comes to an end. (…) (156)
+> 156:2 Firstly, the relative expression of value of the commodity is incomplete,
+> because the series of its representations never comes to an end. (…)
 
-> Secondly, it is a motley mosaic of disparate and unconnected expressions of
-> value. (156)
+> 156:2 Secondly, it is a motley mosaic of disparate and unconnected expressions
+> of value.
 
 The total form of value does not express the value character of linen as the
 unity of all commodities but simply in a series of simple expressions of
@@ -1019,10 +1018,11 @@ value which are not connected. This way the linen does not express its
 value-character but only that it is equal to coats, to tea, to coffee …
 Insofar the defect of the simple form of value is not actually fixed.
 
-> And lastly, if, as must be the case, the relative value of each commodity is
-> expressed in this expanded form, it follows that the relative form of value
-> of each commodity is an endless series of expressions of value which are all
-> different from the relative form of value of every other commodity. (156)
+> 156:3 And lastly, if, as must be the case, the relative value of each
+> commodity is expressed in this expanded form, it follows that the relative
+> form of value of each commodity is an endless series of expressions of value
+> which are all different from the relative form of value of every other
+> commodity.
 
 The second defect is all the more apparent when each commodity takes on its
 own total form of value, they are all different from each other, are not
@@ -1030,10 +1030,10 @@ commensuable.
 
 These defects correspond to defects in the equivalent form
 
-> Since the natural form of each particular kind of commodity is one
-> particular equivalent form amongst innumerable other equivalent
-> forms, the only equivalent forms which exist are limited ones, and
-> each of them excludes all the others. (156)
+> 156:2 Since the natural form of each particular kind of commodity is one
+> particular equivalent form amongst innumerable other equivalent forms, the
+> only equivalent forms which exist are limited ones, and each of them excludes
+> all the others.
 
 In the simple form of value the coat received the verdict from the linen to
 be immediately value. This way the linen produced the doubt whether it is
@@ -1043,13 +1043,12 @@ of the commodities in the particular equivalent forms. If it is not enough
 to express its value character in coat, well then coat is not the definite
 expression of value.[^4]
 
-> Similarly, the specific, concrete, useful kind of labour contained
-> in each particular commodity-equivalent is only a particular kind of
-> labour and therefore not an exhaustive form of appearance of human
-> labour in general. It is true that the completed or total form of
-> appearance of human labour is constituted by the totality of its
-> particular forms of appearance. But in that case it has no single,
-> unified form of appearance. (157)
+> 156:2 Similarly, the specific, concrete, useful kind of labour contained in
+> each particular commodity-equivalent is only a particular kind of labour and
+> therefore not an exhaustive form of appearance of human labour in general. It
+> is true that the completed or total form of appearance of human labour is
+> constituted by the totality of its particular forms of appearance. But in that
+> case it has no single, unified form of appearance.
 
 The labours that produced the respective commodities in the equivalent form
 do not stand for labour as such by the same argument as above.
@@ -1070,22 +1069,22 @@ has no independent expression and is not adequately expressed. We need a
 value-form in which the relation to all of the commodities is not accomplished
 through a juxtaposition of commodities but through a unified form of appearance.
 
-> If, then, we reverse the series 20 yards of linen = 1 coat, or = 10 lb.  of
-> tea, etc., i.e. if we give expression to the converse relation already implied
-> in the series, we get (157)
+> 157:3 If, then, we reverse the series 20 yards of linen = 1 coat, or = 10 lb.
+> of tea, etc., i.e. if we give expression to the converse relation already
+> implied in the series, we get
 
 ### The General Form of Value
 
 #### The changed character of the form of value
 
-> The two earlier forms express the value of each commodity either in terms of a
-> single commodity of a different kind, or in a series of many commodities which
-> differ from the first one. In both cases it is the private task, so to speak,
-> of the individual commodity to give itself a form of value, and it
-> accomplishes this task without the aid of the others, which play towards it
-> the merely passive role of equivalent. The general form of value, on the other
-> hand, can only arise as the joint contribution of the whole world of
-> commodities. (158)
+> 158:4 The two earlier forms express the value of each commodity either in
+> terms of a single commodity of a different kind, or in a series of many
+> commodities which differ from the first one. In both cases it is the private
+> task, so to speak, of the individual commodity to give itself a form of value,
+> and it accomplishes this task without the aid of the others, which play
+> towards it the merely passive role of equivalent. The general form of value,
+> on the other hand, can only arise as the joint contribution of the whole world
+> of commodities.
 
 In the previous value forms the linen was active and expressed its value using
 the rest of the world of commodities. The general form of value, on the other
@@ -1095,7 +1094,7 @@ for the commodity in that form.
 
 The defects of earlier forms are therewith obliterated:
 
-> The new form we have just obtained expresses the values of the world of
+> 158:3 The new form we have just obtained expresses the values of the world of
 > commodities through one single kind of commodity set apart from the rest,
 > through the linen for example, and thus represents the values of all
 > commodities by means of their equality with linen. Through its equation with
@@ -1103,19 +1102,19 @@ The defects of earlier forms are therewith obliterated:
 > own use-value, but from all use-values, and is, by that very fact, expressed
 > as that which is common to all commodities.  By this form, commodities are,
 > for the first time, really brought into relation with each other as values, or
-> permitted to appear to each other as exchange-values. (158)
+> permitted to appear to each other as exchange-values.
 
 The relation to the whole world of commodities is unified: since all commodities
 relate to linen as the equivalent every commodity relates to all other
 commodities through linen.
 
-> A commodity only acquires a general expression of its value if, at the same
-> time, all other commodities express their values in the same equivalent; and
-> every newly emergent commodity must follow suit. It thus becomes evident that
-> because the objectivity of commodities as values is the purely ‘social
+> 158:4 A commodity only acquires a general expression of its value if, at the
+> same time, all other commodities express their values in the same equivalent;
+> and every newly emergent commodity must follow suit. It thus becomes evident
+> that because the objectivity of commodities as values is the purely ‘social
 > existence’ of these things, it can only be expressed through the whole range
 > of their social relations; consequently the form of their value must possess
-> social validity. (159)
+> social validity.
 
 Every new commodity entering the market does not produce a problem for the
 expression of value, it does not question the value character of all other
@@ -1123,11 +1122,11 @@ commodities as in the previous form (“how much are you worth expressed through
 me?”). Instead, each new commodity is required to submit to the general form of
 value if it wants to be part of the game.
 
-> In this form, when they are all counted as comparable with the linen, all
-> commodities appear not only as qualitatively equal, as values in general, but
-> also as values of quantitatively comparable magnitude.  Because the magnitudes
-> of their values are expressed in one and the same material, the linen, these
-> magnitudes are now reflected in each other.  (159)
+> 159:1 In this form, when they are all counted as comparable with the linen,
+> all commodities appear not only as qualitatively equal, as values in general,
+> but also as values of quantitatively comparable magnitude.  Because the
+> magnitudes of their values are expressed in one and the same material, the
+> linen, these magnitudes are now reflected in each other.
 
 All commodities represent themselves as linen-equal. Linen counts as immediately
 valid abstract wealth and social power of access. By relating to a specific
@@ -1135,18 +1134,18 @@ amount of linen, they all express their own magnitude of value. All commodities
 do this and hence relate their own magnitudes of value by relating their
 respective linen amounts to each other.
 
-> The general relative form of value imposes the character of universal
+> 159:2 The general relative form of value imposes the character of universal
 > equivalent on the linen, which is the commodity excluded, as equivalent, from
 > the whole world of commodities. Its own natural form is the form assumed in
 > common by the values of all commodities; it is therefore directly exchangeable
 > with all other commodities. The physical form of the linen counts as the
-> visible incarnation, the social chrysalis state, of all human labour. (159)
+> visible incarnation, the social chrysalis state, of all human labour.
 
 The equivalent form, here linen, is not sabotaged. Because all commodities
 express their value in it, linen is immediately exchangeable with all
 commodities and hence immediately socially valid power of access.
 
-> The commodity that figures as universal equivalent is on the other hand
+> 161:2 The commodity that figures as universal equivalent is on the other hand
 > excluded from the uniform and therefore universal relative form of value. If
 > the linen, or any other commodity serving as universal equivalent, were, at
 > the same time, to share in the relative form of value, it would have to serve
@@ -1157,7 +1156,7 @@ commodities and hence immediately socially valid power of access.
 > value in common with other commodities; its value is, rather, expressed
 > relatively in the infinite series of all other physical commodities. Thus the
 > expanded relative form of value, or form B, now appears as the specific
-> relative form of value of the equivalent commodity. (161)
+> relative form of value of the equivalent commodity.
 
 All commodities can now express their value except one. The commodity in the
 general equivalent form cannot express its own value quality, but it is value
@@ -1166,17 +1165,17 @@ previous form with all its problems.
 
 #### The transition from the general form of value to the money form
 
-> The universal equivalent form is a form of value in general. It can therefore
-> be assumed by any commodity. On the other hand, a commodity is only to be
-> found in the universal equivalent form (form C) if, and in so far as, it is
-> excluded from the ranks of all other commodities, as being their
+> 162:2 The universal equivalent form is a form of value in general. It can
+> therefore be assumed by any commodity. On the other hand, a commodity is only
+> to be found in the universal equivalent form (form C) if, and in so far as, it
+> is excluded from the ranks of all other commodities, as being their
 > equivalent. Only when this exclusion becomes finally restricted to a specific
 > kind of commodity does the uniform relative form of value of the world of
 > commodities attain objective fixedness and general social validity. The
 > specific kind of commodity with whose natural form the equivalent form is
 > socially interwoven now becomes the money commodity, or serves as money. It
 > becomes its specific social function, and consequently its social monopoly, to
-> play the part of universal equivalent within the world of commodities. (162)
+> play the part of universal equivalent within the world of commodities.
 
 The money form does not differ qualitatively from the general form of value. The
 only difference is which commodity really takes on the equivalent form and hence
@@ -1189,10 +1188,10 @@ Because gold achieved the status of being the universal equivalent form and
 hence of being immediately valid value it is now sufficient to use the simple
 form of value to express value in a socially valid way:
 
-> The simple expression of the relative value of a single commodity, such as
-> linen, in a commodity which is already functioning as the money commodity,
+> 163:1 The simple expression of the relative value of a single commodity, such
+> as linen, in a commodity which is already functioning as the money commodity,
 > such as gold, is the price form. The ‘price form’ of the linen is therefore:
-> 20 yards of linen = 2 ounces of gold. (163)
+> 20 yards of linen = 2 ounces of gold.
 
 The price is the value expression of a commodity in the money commodity.  By
 representing itself as money-equal a commodity expresses its value
@@ -1255,13 +1254,13 @@ know. In particular, that these determinations do not appear as such, but
 wrongly. The weirdness of a social quality of a thing is what they deal with on
 a daily basis but do not understand:
 
-> The equality of the kinds of human labour takes on a physical form in the
-> equal objectivity of the products of labour as values; the measure of the
+> 164:2 The equality of the kinds of human labour takes on a physical form in
+> the equal objectivity of the products of labour as values; the measure of the
 > expenditure of human labour-power by its duration takes on the form of the
 > magnitude of the value of the products of labour; and finally the
 > relationships between the producers, within which the social characteristics
 > of their labours are manifested, take on the form of a social relation between
-> the products of labour. (164)
+> the products of labour.
 
 Hence,
 
@@ -1283,11 +1282,13 @@ doing in this sort of division of labour is expressed through their commodities:
 strange social context but it appears to each of them as if she was reacting so
 objective constraints:
 
-> Their own social movement has for them the form of a movement of things —
-> things which, far from being under their control, in fact control them. (…) I
-> call this the fetishism which attaches itself to the products of labour as
-> soon as they are produced as commodities, and is therefore inseparable from
-> the production of commodities. (165)
+> 167:1 Their own movement within society has for them the form of a movement
+> made by things things, and these things, far from being under their control,
+> in fact control them.
+
+> 164:3 I call this the fetishism which attaches itself to the products of
+> labour as soon as they are produced as commodities, and is therefore
+> inseparable from the production of commodities.
 
 Marx uses the analogy of the fetish, an object which is attributed supernatural
 powers and which ought to inform the actions of people while in reality when
