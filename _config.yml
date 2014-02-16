@@ -1,0 +1,38 @@
+name: Reading Capital
+tagline: Let us consider the matter more closely
+description: Notes and Commentary on Capital by Karl Marx"
+
+url: http://readingcapital.github.io
+paginate: 10
+
+markdown: kramdown
+permalink: pretty
+
+owner:
+  name:           readingcapital
+  avatar:         avatar.png
+
+links:
+  - title: Volume I
+    url: /volume-1
+  - title: Volume II
+    url: /volume-2
+  - title: Volume III
+    url: /volume-3
+  - title: About
+    url: /about
+  - title: Github
+    url: https://github.com/readingcapital
+    external: true
+  - title: Critisticuffs
+    url: https://critisticuffs.org
+    external: true
+  - title: Kittens
+    url: https://antinational.org/en/
+    external: true
+
+include: volume-1
+    
+timezone:    Europe/London
+future:      true
+pygments:    true
