@@ -166,12 +166,12 @@ The question which effect — if any — fixed capital has on the profit
 rate. Consider the following three examples:
 
 
-*  Capital I consists of $10,000c$ fixed capital, wear and tear 10% per year,
+*  Capital I consists of $10,000c$ fixed capital, wear and tear 10\% per year,
    hence $1000c$; $500c$ circulating constant capital and $500v$ variable
    capital. This capital turns over 10 times and has a rate of surplus-value of
    $100\%$. Hence, it produces $5,000m$ surplus-value. Hence:
 
-   $10,000c + 500c + 500v = 11,000C ⇒ p' = 5,000m/11,000C ≈ 45%.$
+   $10,000c + 500c + 500v = 11,000C → p' = 5,000m/11,000C \approx 45\%.$
 
 *  Capital II consists of only $9,000c$ fixed capital, wear and tear stays
    $1000c$, which is more than $10\%$. It also consists of $1000c$ circulating
@@ -179,13 +179,13 @@ rate. Consider the following three examples:
    times in a year and has a rate of surplus-value of $100\%$. This capital also
    produces $5,000m$ surplus-value and we have:
    
-   $9,000c + 1000c + 1000v = 11,000C ⇒ p' = 5,000m/11,000C ≈ 45%.$
+   $9,000c + 1000c + 1000v = 11,000C → p' = 5,000m/11,000C \approx 45\%.$
 
 *  Capital III consists only of circulating capital, but a lot of it: $6,000c +
    5,000v$. It turns over only once per year and $m/v$ still is $100\%$. We
    have:
 
-   $6,000c + 5,000c = 11,000C ⇒ p' = 5,000m/11,000C ≈ 45%.$
+   $6,000c + 5,000c = 11,000C → p' = 5,000m/11,000C \approx 45\%.$
 
 In all three cases we have the same rate of profit. The moral of this story is
 that when we are considering $S/C$ then $S$ and $C$ are of interest. For both it
@@ -202,7 +202,7 @@ Another example to drive the point home:
 * Capital IV consists only of circulating capital: $10,000c + 1,000v$. It turns
    over $5$ times per year (just as Capital II). We then have:
 
-   $10,000c + 1,000v = 11,000C ⇒ 5,000m/11,000C ≈ 45%.$
+   $10,000c + 1,000v = 11,000C → 5,000m/11,000C \approx 45\%.$
 
 The expenditure on $v$, the rate of surplus-value $s/v$ and the number of
 turnovers $n$ determine $S=n\frac{s}{v}$. The expenditure on $v$ and $c$
@@ -219,9 +219,9 @@ Expressed using surplus-value $S$:
 >
 > or the annual product:  
 >
-> $1,000c$ (depreciation) $+ 2,500c + 2,500ν + 2,500s = 8,500;$
+> $1,000c$ (depreciation) $+ 2,500c + 2,500v + 2,500s = 8,500;$
 >
-> $C = 11,000, s = 2,500, p′ = 2,500/11,000 = 22 8/11$ per cent.  
+> $C = 11,000, s = 2,500, p' = 2,500/11,000 = 22 8/11$ per cent.  
 >
 > The profit rate has now fallen by half, as the turnover time has doubled.
 

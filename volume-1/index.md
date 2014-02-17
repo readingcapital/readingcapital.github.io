@@ -5,14 +5,14 @@ layout: page
 
 ## Part One: Commodities and Money ##
 
-### Chapter 1: The Commodity&nbsp;[*(+)*](chapter-01-commentary) ###
+### Chapter 1: [The Commodity](chapter-01-commentary) ###
 
 > The wealth of societies in which the capitalist mode of production prevails
 > appears as an 'immense collection of commodities'; the individual commodity
 > appears as its elementary form. Our investigation therefore begins with the
 > analysis of the commodity. (124)
 
-#### The Two Factors of the Commodity: Use-Value and Value&nbsp;[*(+)*](chapter-01.01-detailed-commentary) ####
+#### [The Two Factors of the Commodity: Use-Value and Value](chapter-01.01-detailed-commentary) ####
 
 A commodity is a thing that is *produced for exchange*. It is use-value and value.
 
@@ -51,7 +51,7 @@ level has no effect on the amount of value produced in, say, one hour. Instead,
 the same value is distributed over more products. However, since *socially
 necessary labour time* determines value, anyone producing faster than average
 stands to gain: she can demand the equivalent of, say, 1 hour worth of abstract
-labour for, say, $\frac{1}{2}$ abstract labour-time actually expended. On the
+labour for, say, $1/2$ abstract labour-time actually expended. On the
 one hand, more labour means more value. On the other hand, less labour relative
 to other producers means more value per labour.
 
@@ -78,7 +78,7 @@ indirectly in the relation between commodities. This does not follow from the
 division of labour but from the particular mode of production: private
 production for exchange.
 
-### Chapter 2: The Process of Exchange&nbsp;[*(+)*](chapter-02-commentary) ###
+### Chapter 2: [The Process of Exchange](chapter-02-commentary) ###
 
 Marx picks up on the commodity owners and their intends only now to determine
 them as character masks of their commodities. The process of exchange
@@ -144,7 +144,7 @@ On the world market where money represents truly abstract wealth and where money
 is *world money* actual gold is required to settle accounts.  No coin or promise
 suffices.
 
-## Part Two: The Transformation of Money into Capital&nbsp;[*(+)*](chapter-03-04-transition) ##
+## Part Two: [The Transformation of Money into Capital](chapter-03-04-transition) ##
 
 ### Chapter 4: The General Formula for Capital ###
 
@@ -184,7 +184,7 @@ Capital is hence confronted with the determinations of the labour process.
 
 ## Part Three: The Production of Absolute Surplus-Value ##
 
-### Chapter 7: The Labour Process and the Valorization Process&nbsp;[*(+)*](chapter-07-commentary) ###
+### Chapter 7: [The Labour Process and the Valorization Process](chapter-07-commentary) ###
 
 Labour is the purposeful interaction with nature. The *labour process* uses
 tools and material, application of the laws of nature (physics etc.) to
@@ -203,7 +203,7 @@ production and the new value created by labour during production.
 Capital hence structures and coordinate the production process such that its
 purpose realises itself.
 
-### Chapter 8: Constant Capital and Variable Capital&nbsp;[*(+)*](chapter-08-commentary) ###
+### Chapter 8: [Constant Capital and Variable Capital](chapter-08-commentary) ###
 
 The moments of the labour process appear differently in the valorisation
 process.
@@ -223,9 +223,9 @@ that produces surplus-value.
 
 The movement $M-C-M'$ depends on the expansion that v can accomplish. The
 *rate of surplus value* is the rate of exploitation of labour-power. It is given
-by surplus-value/variable-capital = $\frac{s}{v}$. Constant capital $c$ does
+by surplus-value/variable-capital = $s/v$. Constant capital $c$ does
 not influence the amount of surplus value $s$, except to provide the necessary
-conditions. Improving the ratio $\frac{s}{v}$ is not the standpoint of
+conditions. Improving the ratio $s/v$ is not the standpoint of
 capitalists, but it expresses the reason of surplus-value and its effectiveness.
 
 The time during which the worker only produces an equivalent of the value of her
@@ -263,15 +263,17 @@ utilisation of constant capital is here the main incentive: the *shift system*.
 
 ### Chapter 11: The Rate and Mass of Surplus-Value ###
 
-1. The *mass of surplus-value* $S$ is given by $S = \frac{s}{v} \cdot V$
+1. The *mass of surplus-value* $S$ is given by $S = V· s/v$
    where $s$ is the surplus-value supplied by a single worker per day, $v$
    is the value of her labour-power and $V$ is the total expenditure on
-   variable capital. Hence, as $m=\frac{s}{v}$ and $V$ determine the mass of
+   variable capital. Hence, as $m=s/v$ and $V$ determine the mass of
    surplus value, a drop in one can be compensated by an increase in the
    other. However:
+
 2. The absolute length of the day - i.e. that it only has 24 hours - puts a
    limit on compensating a reduction of variable capital by an increased rate of
    surplus-value.
+
 3. the mass of surplus-value produced by different capitals - if the value of
    labour-power is given and the rate of exploitation constant - differs
    directly as their outlay in variable capital $V$.
@@ -343,7 +345,7 @@ requires a new strata of workers which exercise this control and supervision.
 Cooperation is the logically and historically first method of production of
 relative surplus-value.
 
-### Chapter 14: The Division of Labour and Manufacture&nbsp;[*(+)*](chapter-14-commentary) ###
+### Chapter 14: [The Division of Labour and Manufacture](chapter-14-commentary) ###
 
 #### The Dual Origin of Manufacture ####
 
@@ -352,6 +354,7 @@ labour-powers by restructuring their activity in accordance with their function
 for, they become proper partial operations. This happens by either
 
 1. splitting up production processes into their steps or 
+
 2. becoming independent of previous partial operations.
 
 However, capital remains dependent on the skill of its labourers in
@@ -373,6 +376,7 @@ This specialisation allow capital to reshape labour processes and tools.
 
 1. heterogeneous manufacture: independent partial products and combination in
    the end (e.g., a watch)
+
 2. organic manufacture: production phases become independent moments that happen
    in parallel by specialised workers.
 
@@ -552,7 +556,9 @@ below its value, we have three determinants for the relative magnitudes of
 surplus-value and price of labour-power.
 
 1. the length of the working day,
+
 2. the normal intensity of labour, and
+
 3. the productivity of labour.
 
 These are hence levers for capital to diminish the value of labour power
@@ -563,12 +569,12 @@ deal with the limits of all these levers on their own.
 
 The correct formula for the rate of surplus-value is
 
-$(I) \frac{\mbox{surplus-value}}{\mbox{variable capital}} = \frac{\mbox{surplus-value}}{\mbox{value of labour-power}} = \frac{\mbox{surplus labour}}{\mbox{necessary labour}}$
+(I) $\frac{\mbox{surplus-value}}{\mbox{variable capital}} = \frac{\mbox{surplus-value}}{\mbox{value of labour-power}} = \frac{\mbox{surplus labour}}{\mbox{necessary labour}}$
 
 which relates surplus-value to its source (in value terms and in time terms) and
 is thus conceptually sound. Another formula is
 
-$(II) \frac{\mbox{surplus labour}}{\mbox{working day}} = \frac{\mbox{surplus-value}}{\mbox{value of the product}} = \frac{\mbox{surplus product}}{\mbox{total product}}.$
+(II) $\frac{\mbox{surplus labour}}{\mbox{working day}} = \frac{\mbox{surplus-value}}{\mbox{value of the product}} = \frac{\mbox{surplus product}}{\mbox{total product}}.$
 
 This formula is not sound as it has no relation to how surplus-value is actually
 produced. Instead, it relates it to the total product and implies a sharing of
@@ -576,14 +582,14 @@ the proceeds of production among capital and labour.
 
 The formula
 
-$(III) \frac{\mbox{unpaid labour}}{\mbox{paid labour}}$
+(III) $\frac{\mbox{unpaid labour}}{\mbox{paid labour}}$
 
 is a synonym for the first formula but invites the confusion that labour and not
 labour-power is bought.
 
 ## Part Six: Wages ##
 
-### Chapter 19: The Transformation of the Value (and Respectively the Price) of Labour-Power into Wages&nbsp;[*(+)*](chapter-19-detailed-commentary) ###
+### Chapter 19: [The Transformation of the Value (and Respectively the Price) of Labour-Power into Wages](chapter-19-detailed-commentary) ###
 
 The wage form expresses the value of labour-power as a *price of labour*. This
 expression is irrational as labour has no value and it is labour-power which is
@@ -602,7 +608,7 @@ Time and intensity are the two determinations which characterise the magnitude
 of value produced by labour. Each wage form is a reflection on these
 determinants.
 
-### Chapter 20: Time-Wages&nbsp;[*(+)*](chapter-20-commentary) ###
+### Chapter 20: [Time-Wages](chapter-20-commentary) ###
 
 The price of labour for an hour is calculated as
 

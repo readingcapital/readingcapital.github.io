@@ -3,7 +3,7 @@ title: Volume 2 — The Process of Circulation of Capital
 layout: page
 ---
 
-## Part One: The Metamorphoses of Capital and their Circuit&nbsp;[*(+)*](chapter-01-04-reading-aid) ##
+## Part One: [The Metamorphoses of Capital and their Circuit](chapter-01-04-reading-aid) ##
 
 ### Chapter 1: The Circuit of Money Capital ###
 

@@ -163,8 +163,6 @@ Glossary
 
  - **Commodity capital**: commodities which bear surplus-value
 
----
-
 [^1]: There also exist the circuit of productive capital and the circuit of
       commodity capital which contain different ends from the circuit of money
       capital and the general circuit of capital and which are discussed in

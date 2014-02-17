@@ -11,7 +11,7 @@ layout: page
 
 ### Chapter 3: The Relation of the Rate of Profit to the Rate of Surplus-Value ###
 
-### Chapter 4: The Effect of the Turnover on the Rate of Profit &nbsp;[*(+)*](chapter-04-commentary) ###
+### Chapter 4: [The Effect of the Turnover on the Rate of Profit](chapter-04-commentary) ###
 
 ### Chapter 5: Economy in the Use of Constant Capital ###
 
