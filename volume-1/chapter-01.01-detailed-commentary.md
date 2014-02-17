@@ -908,6 +908,8 @@ that what counts.
 > useless, so is the labour contained in it; the labour does not count as
 > labour, and therefore creates no value.
 
+---
+
 [^1]: Cf. “At first sight, bourgeois wealth appears as an immense collection of
     commodities.” (Karl Marx – A Contribution to the Critique of Political
     Economy, 1859)

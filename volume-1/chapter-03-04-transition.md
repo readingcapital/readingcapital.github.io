@@ -239,3 +239,4 @@ To clarify: impersonal domination does not mean that this society does not
 include personal purposes. But these are not the reason and not the governing
 principle of the capital mode of production.
 
+---

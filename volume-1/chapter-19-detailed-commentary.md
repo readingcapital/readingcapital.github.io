@@ -180,4 +180,6 @@ a commodity.
 
 TBC …
 
+---
+
 [^1]: All quotes are taken from Hans Ehrbar's translation of Capital, Volume 1.

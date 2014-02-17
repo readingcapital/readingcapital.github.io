@@ -170,3 +170,5 @@ him in that he incurs costs that save him costs.
 
 **Theory of the Factors of Production** As if the different moments of the
 valorisation processes of capital were natural elements of production.
+
+---

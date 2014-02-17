@@ -276,3 +276,5 @@ subjection of workers since it is still fundamentally dependent on their skill.
 However it produces machines which finally overcome capitals reliance on
 handicraft and abolish it as the “regulating principle of social
 production. (491)
+
+---

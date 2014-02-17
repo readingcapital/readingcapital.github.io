@@ -42,7 +42,7 @@ are exchanged for different amounts of labour.
 > sum total of the daily or weekly wages, etc., and the price of
 > labour. (683/684):
 
-*price per day / number of working hours = price for labour per hour*
+$\frac{\mbox{price per day}}{\mbox{number of working hours}} = \mbox{price for labour per hour}$
 
 Hence, the length of the working day (or the length of the working week in
 modern times) influences the price of labour. If the unions manage to push

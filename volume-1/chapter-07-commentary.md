@@ -223,3 +223,5 @@ there was at the beginning.
 > considered as the unity of the labour process and the process of valorization,
 > it is the capitalist process of production, or the capitalist form of the
 > production process. (304)
+
+---

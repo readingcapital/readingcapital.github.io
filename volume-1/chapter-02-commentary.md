@@ -63,3 +63,5 @@ derived from the demands of commodity owners. On the other hand, the same as in
 the value-form analysis applies. A commodity can only be money because all
 commodity owners relate to it as such. It remains the collective deed of
 commodity owners to make money money. But they do not do this self-consciously.
+
+---
