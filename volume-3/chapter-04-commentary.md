@@ -110,7 +110,7 @@ rate of surplus-value marks a conceptual distinction, the annual rate of profit
 is merely the rate of profit related to a year (which should be the norm,
 anyway).
 
-# Techniques for shortening turnover time #
+## Techniques for shortening turnover time ##
 
 Shorting turnover time is hence a means for capital to increase the profit
 rate — its criterion for efficiency. Capital can attempt to shorten production
@@ -160,7 +160,7 @@ as well:
 > turnover, and do not concern us here.
 
 
-# Fixed and circulating capital#
+## Fixed and circulating capital##
 
 The question which effect — if any — fixed capital has on the profit
 rate. Consider the following three examples:
@@ -228,7 +228,7 @@ Expressed using surplus-value $S$:
 In this example $S$ shrunk, because turnover slowed down, but $C$ remained the
 same. Hence, the rate of profit decreased (everything being equal).
 
-# Calculating the (annual) rate of surplus-value #
+## Calculating the (annual) rate of surplus-value ##
 
 In the end Engels wants to calculate how to get to the rate of surplus-value
 from the rate of profit. This is insofar useful as it highlights that
