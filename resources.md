@@ -30,22 +30,25 @@ on Volume&nbsp;1.
 > condition for the existence of general capitalist relations. Nation states are
 > not capitalist players on the market – they rather make markets possible.
 
-### Noteworthy Pieces ###
+### Recommended Reading ###
 
-* [Does capital always aim to suppress wages?](http://antinational.org/en/wage-and-profit-rate)
-  on *wage forms* (chapters&nbsp;20 and 21 of Volume&nbsp;1) and on the
-  *profit rate* (chapter&nbsp;2 of Volume&nbsp;3).
+* ["Does capital always aim to suppress wages?"](http://antinational.org/en/wage-and-profit-rate)
+  discusses  *wage forms* (chapters&nbsp;20 and 21 of Volume&nbsp;1) and that the standpoint of capital is the
+  *profit rate* (chapter&nbsp;2 of Volume&nbsp;3) not the rate of surplus-value.
 
-* [Gentrification — the Economy of the Land and the Role of Politics](http://antinational.org/en/gentrification-economy-land-and-role-politics)
-  on *ground rent* (part six of Volume&nbsp;3).
+* ["Gentrification — the Economy of the Land and the Role of Politics"](http://antinational.org/en/gentrification-economy-land-and-role-politics)
+  explains how soil — which has no value — gets a price: *ground rent* (part six of Volume&nbsp;3).
 
-* [Bitcoin - Finally, fair money?](http://antinational.org/en/bitcoin-finally-fair-money) on the *process of exchange* (chapter 2 of Volume 1).
+* ["Bitcoin - Finally, fair money?"](http://antinational.org/en/bitcoin-finally-fair-money) explains that *money* presupposes the *process of exchange* (chapter 2 of Volume 1) which is characterised by antagonisms and requires state violence.
 
-* [Financial Crisis 2008ff](http://antinational.org/en/financial-crisis-2008ff)
-  on *credit* (part five of Volume&nbsp;3).
+* ["Financial Crisis 2008ff"](http://antinational.org/en/financial-crisis-2008ff)
+  explains the basics of  *credit* and *ficticious capital* (part five of Volume&nbsp;3).
 
-* [Surface Tension](http://antinational.org/en/surface-tension) on the *tendency of the rate of profit to fall*
-  (part three of Volume&nbsp;3) as an explanation for the growth of finance.
+* ["Surface Tension"](http://antinational.org/en/surface-tension) discusses how the *tendency of the rate of profit to fall*
+  (part three of Volume&nbsp;3) is wrongly used as an explanation for the growth of finance.
+
+* ["Historical Materialism – an anti-revolutionary theory of revolution"](http://antinational.org/en/historical-materialism) critiques *historical
+  materialism* (chapter&nbsp;32 of Volume&nbsp;1).
 
 ## [Critisticuffs](http://critisticuffs.org/) ##
 
@@ -54,10 +57,10 @@ on Volume&nbsp;1.
 
 They might be able to point you to good Capital reading groups in London.
 
-### Noteworthy Pieces ###
+### Recommended Reading ###
 
-* [Don't Read Marx with Harvey](http://critisticuffs.org/events/dont-read-marx-with-harvey/)
-  (text is claimed to be forthcoming).
+* ["Don't Read Marx with Harvey"](http://critisticuffs.org/events/dont-read-marx-with-harvey/)
+  explains that David Harvey misses the critical content of chapter&nbsp;1 and hence does not provide an adequate introduction to Capital (text is claimed to be forthcoming).
 
 ## [GegenStandpunkt](http://www.gegenstandpunkt.com/english/en_index.html) ##
 
@@ -71,10 +74,10 @@ They might be able to point you to good Capital reading groups in London.
 > Every article and book from GegenStandpunkt Publishers furnishes yet another
 > proof.
 
-### Noteworthy Pieces ###
+### Recommended Reading ###
 
-* Finance Capital [I](http://www.gegenstandpunkt.com/english/fin-cap/fin-cap-I.html), [II](http://www.gegenstandpunkt.com/english/fin-cap/fin-cap-II.html), and [III](http://www.gegenstandpunkt.com/english/fin-cap/fin-cap-III.html) on *finance capital* (part five of Volume&nbsp;3).
- * [Currency and its Value](http://www.gegenstandpunkt.com/english/currency.html) on *credit money* (cf. chapter 3 of Volume 1 which assumes gold money).
+* "Finance Capital" [I](http://www.gegenstandpunkt.com/english/fin-cap/fin-cap-I.html), [II](http://www.gegenstandpunkt.com/english/fin-cap/fin-cap-II.html), and [III](http://www.gegenstandpunkt.com/english/fin-cap/fin-cap-III.html) are a systematic account of *finance capital* (part five of Volume&nbsp;3).
+ * ["Currency and its Value"](http://www.gegenstandpunkt.com/english/currency.html) explains modern *credit money* (cf. chapter 3 of Volume 1 which assumes gold money).
 
 ## [Ruthless Criticism](http://www.ruthlesscriticism.com) ##
 
@@ -98,4 +101,4 @@ They might be able to point you to good Capital reading groups in London.
 
 ### Noteworthy Pieces ###
 
- * [“Real” value: Comments on the “labor theory of value” and the wealth of capitalist society](http://www.ruthlesscriticism.com/realvalue.htm) on the *labour theory of value* (chapter&nbsp;1 of Volume&nbsp;1)
+ * ["'Real' value: Comments on the 'labor theory of value' and the wealth of capitalist society"](http://www.ruthlesscriticism.com/realvalue.htm) discusses the *labour theory of value* (chapter&nbsp;1 of Volume&nbsp;1) and how it is usually misunderstood.

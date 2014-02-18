@@ -7,25 +7,26 @@ layout: page
 
 ### Chapter 1: [The Commodity](chapter-01-commentary) ###
 
-> The wealth of societies in which the capitalist mode of production prevails
-> appears as an 'immense collection of commodities'; the individual commodity
-> appears as its elementary form. Our investigation therefore begins with the
-> analysis of the commodity. (124)
+> 124: The wealth of societies in which the capitalist mode of production
+> prevails appears as an 'immense collection of commodities'; the individual
+> commodity appears as its elementary form. Our investigation therefore begins
+> with the analysis of the commodity.
 
 #### [The Two Factors of the Commodity: Use-Value and Value](chapter-01.01-detailed-commentary) ####
 
 A commodity is a thing that is *produced for exchange*. It is use-value and value.
 
 It is *use-value* because it has the physical properties to satisfy human
-needs. As a use-value it is particular and not commensurable.
+needs. As a use-value it is particular and different from other things.
 
 It is *value* because it is exchangeable against any other commodity – different
 commodities are equated, not in only theory but in practice.  The expression of
-this general quality to be exchangeable expresses itself by exchange against a
-particular other commodity. This expression of value is *exchange value*.
+this general quality to be exchangeable expresses itself by exchangeability
+against a particular other commodity. This expression of value is *exchange
+value*.
 
-A commodity is value because it human labour is needed to produce it – which is
-used as lever to gain access other products of labour.
+A commodity is value because it human labour is needed to produce it which then
+is used as lever to gain access other products of labour.
 
 #### The Dual Character of the Labour Embodied in Commodities ####
 
@@ -33,112 +34,119 @@ What counts is not that labour produced a particular useful thing – *concrete
 labour* – but that labour is effort. Labour is reduced to *abstract labour*. The
 *substance of value* is abstract human labour.
 
-Labour is measured in time and so value is measured in labour time. But any
+Labour is measured in time and so value is measured in labour-time. Any
 commodity counts only as a representative of all commodities of a certain kind
-due to generalised exchange. The magnitude of value is not individual labour
-time, but *socially necessary labour time*.
+due to generalised exchange. The *magnitude of value* is not individual
+labour-time, but *socially necessary labour-time*.
 
-For this to have full effect, it is presupposed that producers switch branches
+For this to take full effect, it is presupposed that producers switch branches
 of industry when this allows them to get more value for their products. Some
 branches of industry are not that easy to switch into, they are hence to some
 extend exempt from the law of value: in these branches of industry *complicated
-labour* is performed. The labour there counts as multiplied labour of other
-branches of industry.
+labour* is performed (as opposed to *simple labour*). The labour there counts as
+multiplied labour of other branches of industry.
 
 *Productivity of labour* measure how many use-values per time are produced; it
-is a determination of concrete labour. Increasing productivity on a social
-level has no effect on the amount of value produced in, say, one hour. Instead,
-the same value is distributed over more products. However, since *socially
-necessary labour time* determines value, anyone producing faster than average
-stands to gain: she can demand the equivalent of, say, 1 hour worth of abstract
-labour for, say, $1/2$ abstract labour-time actually expended. On the
+is a determination of concrete labour. Increasing productivity on a social level
+has no effect on the amount of value produced in, say, one hour. Instead, the
+same value is distributed over more products. However, since *socially necessary
+labour-time* determines value, anyone producing faster than average stands to
+gain: she can demand the equivalent of, say, 1 hour worth of abstract labour
+for, say, $1/2$ labour-time actually expended (assuming simple labour). On the
 one hand, more labour means more value. On the other hand, less labour relative
 to other producers means more value per labour.
 
 #### The Value-Form, or Exchange-Value ####
 
-Commodities must express their claim to be value – not only themselves but a bit
-of social wealth. They must express this in a way which is unified, so that they
-all make the same claim. The express this by declaring one commodity to be value
-pure and simple and by declaring themselves to be equal to that commodity:
-*money*. This also means that they deny their own immediate value being and they
-have to proof that they are indeed money, the must become money.
+Commodities must express their value-being – they are not only themselves but a
+bit of social wealth. They must express this in a way which is unified, so that
+they all make the same claim towards each other. They express this by declaring
+one commodity to be value pure and simple and by declaring themselves to be
+equal to that commodity: *money*. This also means that they deny their own
+immediate value being and they have to proof that they are indeed money-equal.
 
 #### The Fetishism of the Commodity and Its Secret ####
 
 While people collectively bring about the social relations of commodity
 production and exchange, they are not aware of this, they do not do this
-consciously insofar they are only interested in their practical success in this
-economy. Rather, the social relations of their labours appear to them as
-relations of things and they relate to these objective forms.  In this society
-the social relations of labour of producers is expressed as *relations between
-their products*. In the price of commodities producers see how much social wealth
-their own labour commands. The latter fact does not appear directly, but
-indirectly in the relation between commodities. This does not follow from the
-division of labour but from the particular mode of production: private
-production for exchange.
+consciously — insofar they are only interested in their practical success in
+this economy. Rather, the social relations of their labours appear to them as
+relations of things and they relate to these objective forms.  In the price of
+commodities producers see how much social wealth their own labour commands.  The
+latter fact does not appear directly, but indirectly in the relation between
+commodities. In this society the social relations of labour of producers is
+expressed as *social relations between their products*. Their own products of
+labour seem to have power over them, although this is merely an expression of
+their own social relations: *fetish*. This does not follow from the division of
+labour but from the particular mode of production: private production for
+exchange.
 
 ### Chapter 2: [The Process of Exchange](chapter-02-commentary) ###
 
-Marx picks up on the commodity owners and their intends only now to determine
-them as character masks of their commodities. The process of exchange
-presupposes that the exchanges recognise each other as free and equal *persons* –
-a status guaranteed by the state. Their power over each other is only the power
-of their commodities.
+Commodity owners relate to each other through their objects and are subject to
+the economic laws governing their commodities.  They are determined as
+*character masks* of their commodities.
+
+The process of exchange presupposes that the exchangers recognise each other as
+free and equal *persons* – a status guaranteed by the state.  Their power over
+each other is only the power of their commodities.
 
 ### Chapter 3: Money, or the Circulation of Commodities ###
 
 #### The Measure of Values ####
 
-In the price form a commodity claims to be money equal. To allow for this is the
-first function of the money commodity: to stand in ideally so that commodities
-can express their value – they are not only some particular concrete material
-wealth but also a part of and claim to total social wealth. The money commodity
-acts as *measure of value* because it is value. It is acts as the *standard of
+In the price form a commodity claims to be money equal.  This is the first
+function of the money commodity: to stand in ideally so that commodities can
+express their value – they are not only some particular concrete material wealth
+but also a part of and claim to total social wealth.  The money commodity acts
+as *measure of value* because it is value.  It is acts as the *standard of
 prices* because it as a use-value can be measured and subdivided (length,
-volume, weight). No real money has to be available for a commodity to express
-its value in a price. The price form is a claim of a commodity to be money
-equal; it has to prove it and become money: “Hard cash lurks within the ideal
-measure of value” (198)
+volume, weight).  No real money has to be available for a commodity to express
+its value in a price.  The price form is a claim of a commodity to be
+money-equal; it has to prove it and become money:
+
+> 198:1 Hard cash lurks within the ideal measure of value
 
 #### The Means of Circulation ####
 
-To be consumed a commodity must first be sold. Firstly, the body of a commodity
+To be consumed a commodity must first be sold.  Firstly, the body of a commodity
 is only useful in the hands of someone else (production for exchange). Secondly,
 the producer can only consume it, after it has been exchanged for money and back
-into a commodity. For a commodity to be sold it must not only meet demand but
-effective demand. A commodity must perform the change of form
-Commodity-Money-Commodity (*$C-M-C$*). The metamorphosis of a commodity splits into
-two parts which are separate but belong together: *selling* and *buying*. Selling
-and buying must go together but often do not. Here, selling is the salto
-mortale, the point when a commodity proves that it is value. A commodity drops
-out of circulation when it is consumed. Money, on the other hand, does not drop
-out: circulation of money. In this circulation money is always only a fleeing
-moment, the point is not to hold on to, but to pass it on to complete the
-metamorphosis with M-C. In this function money can hence be replaced by a *symbol
-of value*: a coin.
+into a commodity.  For a commodity to be sold it must not only meet demand but
+effective demand.  A commodity must perform the change of form
+commodity-money-commodity: *$C-M-C$*.  The metamorphosis of a commodity splits
+into two parts which are separate but belong together: *selling* and
+*buying*. This constitutes the abstract possibility of crisis.
+
+Selling is the salto mortale, the point when a commodity proves that it is
+value.  A commodity drops out of circulation when it is consumed.  Money, on the
+other hand, does not drop out: circulation of money.  In this circulation money
+is always only a fleeing moment, the point is not to hold on to, but to pass it
+on to complete the metamorphosis with $M-C$.  In this function money can hence
+be replaced by a *symbol of value*: a coin.
 
 #### Money ####
 
 So far all money functions did not require actual money to be involved.  With
 money as money it is not sufficient any more to be only ideally present (measure
-of value) or to be represented by a symbol (means of circulation). Actual *money*
-is required.
+of value) or to be represented by a symbol (means of circulation). Actual
+*money* is required.
 
-The first act of circulation – C-M – is the hard part, money is the ultimate
+The first act of circulation – $C-M$ – is the hard part, money is the ultimate
 means to gain access to anything in society, everything else is such only
 provisionally, in a society where producers deny each other the means to satisfy
 their needs. Hence, the desire and need arises for money. The *hoarder* pursues
 this interest by not engaging in consumption, she becomes richer by denying
-herself consumption – she does not really get richer.
+herself consumption – she does not really get richer. Money in a hoard is not
+money, as it is withdrawn from circulation, social power without society.
 
 The present absence of money ought not to hinder business. Commodity owners may
 replace actual payment of money with promises of payment (which again may
-circulate). The money used to pay out such a promise of payment is a *means of
-payment*: it does not circulate commodities but satisfy a demand for payment. In
+circulate).  The money used to pay out such a promise of payment is a *means of
+payment*: it does not circulate commodities but satisfy a demand of payment.  In
 the end only very little actual money may change hands because opposing demands
-cancel each other out.  However, when the process does not run smoothly, hard
-cash is demanded.
+may cancel each other out.  However, when the process does not run smoothly
+(crisis), hard cash is demanded.
 
 On the world market where money represents truly abstract wealth and where money
 is *world money* actual gold is required to settle accounts.  No coin or promise
@@ -149,32 +157,34 @@ suffices.
 ### Chapter 4: The General Formula for Capital ###
 
 The form of simple commodity circulation is $C-M-C$. The form of *capital* is
-Money-Commodity-Money ($M-C-M$): value is the expressed purpose. This form would
+money-commodity-money ($M-C-M$): value is the expressed purpose. This form would
 be a mere tautology if M at the beginning was the same as at the end. The only
 sensible movement is *$M-C-M'$* money becoming more money, value generating
 surplus-value. Still, the beginning and the end is the same: money. This was not
-the case with $C-M-C$ where the first and last commodity were different. In itself
-$M-C-M'$ has no limit. The bearer of the movement $M-C-M'$ is a capitalist and
-$M-C-M'$ the general formula of capital.
+the case with $C-M-C$ where the first and last commodity were different.  In
+itself $M-C-M'$ has no limit.  The bearer of the movement $M-C-M'$ is a
+capitalist and $M-C-M'$ the general formula of capital.
 
 ### Chapter 5: Contradictions in the General Formula ###
 
 $M-C-M'$ seems to fly in the face of the laws of commodity exchange where equal
-exchanges for equal. $M' = M + m$ cannot come from circulation. At the same time,
-$M' = M + m$ cannot come about separated from circulation.  A commodity producer
-can produce value on her own, but she cannot produce surplus-value m. That is,
-if M is ought to be reason for M' then this reason cannot be separated from
-circulation. “Capital cannot therefore arise from circulation, and it is equally
-impossible for it to arise apart from circulation. It must have its, origin both
-in circulation and not in circulation.” (268)
+exchanges for equal. $M' = M + m$ cannot come from circulation.  At the same
+time, $M' = M + m$ cannot come about separated from circulation.  A commodity
+producer can produce value on her own, but she cannot produce surplus-value
+$m$. That is, if $M$ is ought to be reason for $M'$ then this reason cannot be
+separated from circulation.
+
+> 268:2 Capital cannot therefore arise from circulation, and it is equally
+> impossible for it to arise apart from circulation. It must have its, origin
+> both in circulation and not in circulation.
 
 ### Chapter 6: The Sale and Purchase of Labour-Power ###
 
 The apparent contradiction is resolved by the purchase of a special commodity:
 *labour-power*. Labour-power, the ability to work, can be bought on the
 market. The value of this commodity is determined by the amount of
-socially-necessary labour to reproduce it, like for other commodities. Once it
-is bought it can made to produce more value than is needed to reproduce it. The
+socially-necessary labour to reproduce it, like for other commodities.  Once it
+is bought it can made to produce more value than is needed to reproduce it.  The
 use-value of labour-power is that it can create value. The riddle of
 surplus-value is solved. A money owner must find *free workers* on the
 market. Free in a double sense: free to sell their labour-power and free from
@@ -186,47 +196,44 @@ Capital is hence confronted with the determinations of the labour process.
 
 ### Chapter 7: [The Labour Process and the Valorization Process](chapter-07-commentary) ###
 
-Labour is the purposeful interaction with nature. The *labour process* uses
-tools and material, application of the laws of nature (physics etc.) to
-accomplish purpose. Tools and material are consumed in the production
+Labour is the purposeful interaction with nature.  The *labour process* uses
+tools and material. It applies of the laws of nature (physics etc.) to
+accomplish its purpose. Tools and material are consumed in the production
 process. These the the conditions dictated to capital and cannot change. Under
-the rule of capital two modifications: command of the capitalist and separation
-of the product of labour from the immediate producer. Under the rule of capital
-labour is a moment of capital in production.
+the rule of capital two modifications exists: command of the capitalist and
+separation of the product of labour from the immediate producer. Under the rule
+of capital labour is a moment of capital in production.
 
 The labour process only exists under the rule of capital if it is also
 *valorisation process*. Production must result in commodities which contain more
-value than was expended on production. The value of those commodities is a
+value than was expended on production.  The value of those commodities is a
 combination of the value of the means of production used up during their
 production and the new value created by labour during production.
 
-Capital hence structures and coordinate the production process such that its
-purpose realises itself.
-
 ### Chapter 8: [Constant Capital and Variable Capital](chapter-08-commentary) ###
 
-The moments of the labour process appear differently in the valorisation
+The moments of the labour process differ in how they appear in the valorisation
 process.
 
 The means of production (tools and material) are *constant capital*. They do not
-create new value, are not variable but constant magnitudes as their value is
-simply transferred. How? The concrete side of labour transforms material into a
-finished product and hence transfers its value. It is a gratis service of labour
-that it transfers and therewith preserves value.
+create new value, They are not variable but constant magnitudes as their value
+is simply transferred. How? The concrete side of labour transforms material into
+a finished product and hence transfers its value. It is a gratis service of
+labour that it transfers and therewith preserves value.
 
-Labour-power once it is bought by a capitalist is *variable capital*. The amount
-of value it produces is variable and not dependent on its value itself. Its
-value is not transferred but reproduced. Furthermore, it is the part of capital
-that produces surplus-value.
+Labour-power once it is bought by capital is *variable capital*.  The amount of
+value it produces is variable and not dependent on its value itself. Its value
+is not transferred but reproduced. It is the part of capital that produces
+surplus-value.
 
 ### Chapter 9: The Rate of Surplus-Value ###
 
-The movement $M-C-M'$ depends on the expansion that v can accomplish. The
-*rate of surplus value* is the rate of exploitation of labour-power. It is given
-by surplus-value/variable-capital = $s/v$. Constant capital $c$ does
-not influence the amount of surplus value $s$, except to provide the necessary
-conditions. Improving the ratio $s/v$ is not the standpoint of
-capitalists, but it expresses the reason of surplus-value and its effectiveness.
+The movement $M-C-M'$ depends on the expansion that $v$ can accomplish. The
+*rate of surplus-value* is the rate of exploitation of labour-power. It is given
+by surplus-value/variable-capital = $s/v$. Constant capital $c$ does not
+influence the amount of surplus-value $s$, except to provide the necessary
+conditions. Improving the ratio $s/v$ is not the standpoint of capitalists, but
+it expresses the reason of surplus-value and its effectiveness.
 
 The time during which the worker only produces an equivalent of the value of her
 labour-power is called *necessary labour-time*. The time during which she
@@ -240,22 +247,22 @@ absolute extend of labour-time, i.e. the *working day*.
 The rate of surplus-value is expressed by the ratio of surplus labour-time to
 necessary labour-time. For a given necessary labour-time capital can hence
 improve the ratio by extending the *working day*. The working day is not a fixed
-quantity, only necessary labour-time is - for now - fixed. The working day is
+quantity, only necessary labour-time is — for now — fixed. The working day is
 bounded above by a *physical limit* when workers cannot be sufficiently
-reproduced to do their job and by class struggle (*"moral
-obstacles"*). Capitalists demand to maximise the utilisation of the commodity they
-purchased, workers demand that they can use their commodity - labour-power - as
-a means of living. From the laws of commodity exchange no extend of the working
-day follows.
+reproduced to do their job and by class struggle (*"moral obstacles"*).  Capital
+demands to maximise the utilisation of the commodity it purchased, workers
+demand that they can use their commodity — labour-power — as a means of
+living. From the laws of commodity exchange no extend of the working day
+follows.
 
-> Between equal rights, force decides (344)
+> 344:1 Between equal rights, force decides (344)
 
 Through class struggle the state is informed that capital's hunger for surplus
 labour is destroying the basis of its own valorisation. The state intervenes and
-establishes a normal working day - a normal standard of exploitation. This
-restriction on exploitation in the interest of its continued existence must be
-enforced against capital. The state also reflects that this restriction is for
-capital by allowing exceptions.
+establishes a *normal working day* — a normal standard of exploitation. This
+restriction on exploitation in the interest of its continuation must be enforced
+against capital. The state also reflects that this restriction is for capital by
+allowing exceptions.
 
 Capital not only has an interest in extending the working day per worker but
 also in keeping production going all night and day. The preservation and
@@ -263,23 +270,22 @@ utilisation of constant capital is here the main incentive: the *shift system*.
 
 ### Chapter 11: The Rate and Mass of Surplus-Value ###
 
-1. The *mass of surplus-value* $S$ is given by $S = V· s/v$
-   where $s$ is the surplus-value supplied by a single worker per day, $v$
-   is the value of her labour-power and $V$ is the total expenditure on
-   variable capital. Hence, as $m=s/v$ and $V$ determine the mass of
-   surplus value, a drop in one can be compensated by an increase in the
-   other. However:
+1. The *mass of surplus-value* $S$ is given by $S = V · s/v$ where $s$ is the
+   surplus-value supplied by a single worker per day, $v$ is the value of her
+   labour-power and $V$ is the total expenditure on variable capital.  Hence, as
+   $m=s/v$ and $V$ determine the mass of surplus-value, a drop in one can be
+   compensated by an increase in the other. However:
 
-2. The absolute length of the day - i.e. that it only has 24 hours - puts a
+2. The absolute length of the day — i.e. that it only has 24 hours — puts a
    limit on compensating a reduction of variable capital by an increased rate of
    surplus-value.
 
-3. the mass of surplus-value produced by different capitals - if the value of
-   labour-power is given and the rate of exploitation constant - differs
+3. the mass of surplus-value produced by different capitals — if the value of
+   labour-power is given and the rate of exploitation constant — differs
    directly as their outlay in variable capital $V$.
 
-This means that the amount of workers employed (resp. in society) constitutes a
-limit for $S$ for a given capital (resp. overall).
+This means that the amount of workers employed (resp. in society) represents a
+limit for surplus-value $S$ for a given capital (resp. overall).
 
 ## Part Four: The Production of Relative Surplus-Value ##
 
@@ -290,113 +296,104 @@ production of *absolute surplus-value*. The production of absolute surplus-value
 has its limits in the length of the day and the amount of workers employed or in
 society.
 
-The length of the working day constant the rate of surplus-value can only be
-improved by shortening necessary labour-time while maintaining the length of the
-working day. This is the production of *relative surplus-value*.
+The length of the working day constant, then the rate of surplus-value can only
+be improved by shortening necessary labour-time while maintaining the length of
+the working day. This is the production of *relative surplus-value*.
 
 Necessary labour-time is shortened by improving the productivity of labour in
 those branches of industry for those products which (eventually) end up as
 necessary means of subsistence for workers. If the necessary means of
 subsistence can be produced more cheaply, necessary labour-time drops. Capital
-uses its command over the labour process to restructure it according to its
-needs.
+uses its command over the labour process to restructure it in order to reduce
+necessary labour-time.
 
 This result is attained not by a conscious plan by capitalists to reduce
-necessary labour-time but by their attempts to increase the *productivity of
-labour* in general. Since socially necessary labour-time determines value,
-anyone producing faster than average stands to gain extra. For them individually
-the ration $s/v$ is already improved. This is an incentive for capitalists to
-increase productivity. Eventually competitors will catch up or perish. In any
-case, the result is that the new level of productivity becomes generalised and
-the value of the produced products drops. If these products belong to the
-necessary means of subsistence, then this reduces the value of labour-power.
+necessary labour-time on a social level but by their attempts to increase the
+*productivity of labour* in their own factories. Since socially necessary
+labour-time determines value, anyone producing faster than average stands to
+gain extra. For them individually the ration $s/v$ is improved. This is an
+incentive for capitalists to increase productivity. Eventually competitors will
+catch up or perish. In any case, the result is that the new level of
+productivity becomes generalised and the value of the produced products
+drops. If these products belong to the necessary means of subsistence, then this
+reduces the value of labour-power. Improving the ratio $s/v$ in general.
 
 The purpose of reducing the required time to produce a given item is not to save
 labour-time, but to save necessary labour-time in order to increase surplus
-labour-time. Hence, labour saving technologies do not reduce in a reduction of
+labour-time. Hence, labour saving technologies do not result in a reduction of
 work.
 
 ### Chapter 13: Co-operation ###
 
 It is a condition for capital that it employs several workers at the same
-time. This allows for the first method of relative surplus-value production. It
-emancipates itself from the limitations of individual workers and - if a certain
-size is reached - their difference average out.
+time. This allows for the first method of relative surplus-value production:
+*cooperation*.
 
-Additionally, employing many workers allows for a more economic use of constant
-capital $c$ which might also reduce the value of labour-power if we are
-considering branches of industries whose products somehow enter the means of
-subsistence for workers. Economy of constant capital is picked up again
-Volume 3.
+1. Employing many workers emancipates capital from the limitations of individual
+   workers and — if a certain size is reached — their difference average out.
 
-Capital can also exploit gains in productivity which result from social labour
-and *cooperation* (more people work, they teach each other).
+2. Employing many workers allows for a more economic use of constant capital
+   $c$, less outlay to put the same amount of workers in motion.  Reducing
+   outlay in $c$ might also reduce the value of labour-power if we are
+   considering branches of industries whose products somehow enter the means of
+   subsistence for workers.  Economy of constant capital is picked up again
+   Volume 3.
 
-The benefits of entail a certain size of capital which is bigger
-than the formal minimal capital based on mere absolute surplus-value
-production. A certain number of workers is needed and these workers need means
-of production.
+3. Capital can also exploit gains in productivity which result from social
+   labour and cooperation: more people work and can accomplish more, they
+   educate each other, they motivate each other.
 
-The workers who cooperate are not subject of their cooperation. It is only
-capital which brings them together and impose cooperation on them. Capital must
-hence supervise this cooperation and assert it against individual workers. This
+The benefits of entail a certain size of capital which is bigger than the formal
+minimal capital based on mere absolute surplus-value production.  A certain
+number of workers is needed and these workers need a certain amount of means of
+production.
+
+The workers who cooperate are not the subjects of their cooperation. It is only
+capital which brings them together and impose cooperation on them.  Capital must
+hence supervise this cooperation and assert it against individual workers.  This
 requires a new strata of workers which exercise this control and supervision.
 
-Cooperation is the logically and historically first method of production of
-relative surplus-value.
+Cooperation is the logically first method of production of relative
+surplus-value, all other methods rely on cooperation.
 
 ### Chapter 14: [The Division of Labour and Manufacture](chapter-14-commentary) ###
 
-#### The Dual Origin of Manufacture ####
-
 Capital transcends its dependency on the quality of independent parallel
-labour-powers by restructuring their activity in accordance with their function
-for, they become proper partial operations. This happens by either
+labour-powers by restructuring their activity in accordance with their function,
+they become proper partial operations. This happens by either
 
 1. splitting up production processes into their steps or 
 
 2. becoming independent of previous partial operations.
 
-However, capital remains dependent on the skill of its labourers in
-*manufacture*. Workers become one-sided which increases their productivity but
-makes them more dependent on capital.
+Workers become one-sided which increases their productivity but makes them more
+dependent on capital. However, capital remains dependent on the skill of its
+labourers in *manufacture*.
 
-#### The Specialized Worker and His Tools ####
-
-This specialisation allow capital to reshape labour processes and tools.
+The specialisation attained in manufacture allow capital to reshape labour
+processes and tools.
 
 1. Specialisation improves performance but at the same time is monotonous for
-   the worker. Productivity increases to the detriment of workers.
+   the worker.  Productivity increases to the detriment of the *specialised
+   worker*.
 
-2. Tools are specialised in accordance with their new narrower
-   task. Productivity increases through monotonous specialisation becomes a
-   quality of the tools.
+2. Tools are specialised in accordance with their new narrower task.
+   Productivity increases through monotonous specialisation becomes a quality of
+   the tools.
 
-#### The Two Fundamental Forms of Manufacture - Heterogeneous and Organic ####
+The various degrees of skill required produce a *division of labour in
+manufacture* and with it a hierarchy of jobs. At the same time a category of
+unskilled labour is produced, which allows to reduce $v$. In any case: less
+training costs and qualification required by simplification and narrowing of
+labour.
 
-1. heterogeneous manufacture: independent partial products and combination in
-   the end (e.g., a watch)
-
-2. organic manufacture: production phases become independent moments that happen
-   in parallel by specialised workers.
-
-#### The Division of Labour in Manufacture, and the Division of Labour in Society ####
-
-The various degrees of skill required produce a hierarchy of jobs. At the same
-time a category of unskilled labour is produced, which allows to reduce $v$.
-
-In any case: less training costs and qualification required by simplification
-and narrowing of labour.
-
-#### The Capitalist Character of Manufacture ####
-
-Manufacture increases - yet again - the minimal size required for capital as the
-its methods require a certain size to be applied.
+Manufacture increases the minimal size required for capital as the its methods
+require a certain size to be applied.
 
 In the first step the worker had to sell her labour-power because she lacked the
 means of production. Now, she has to sell her labour-power because her labour is
 so narrowed and emptied that it could not be usefully expended except as part of
-social production process which - in this society - capital puts together.
+social production process which — in this society — capital brings together.
 
 Yet, in manufacture capital remains dependent on the skill of its
 workers. However, manufacture creates the technical basis for large scale
@@ -408,9 +405,10 @@ machinery which overcomes this obstacle.
 
 With the use of *big machinery* capital emancipates itself from the limits of
 individual skill and the human body. Tools are revolutionised and turn into a
-modern system of machinery where human "hands" only help. The conditions and
-form of labour is dictated to the work by the objective existence in the
-machinery. The tool dictates the worker how to work.
+modern system of machinery where human "hands" only support it.  The conditions
+and form of labour is dictated to the work by the objective existence in the
+machinery. The tool dictates the worker how to work — the machine applies the
+worker.
 
 The machine replaces the worker who operates single tools, replacement of human
 strength by forces of nature.
@@ -421,25 +419,25 @@ labour-time in order to increase surplus labour-time.
 
 #### The Value Transferred by the Machinery to the Product ####
 
-The results of science cost nothing once they are attained. But to use them the
+The results of science cost nothing once they are attained.  But to use them the
 appropriate means of production are required. Their value increases the value of
-the product because their value is transferred. But the purpose is to make these
-products cheaper. The individual machine might cost more, but because it is more
-productive its value spreads across more products. Hence, there is less $c$
-contribution for each individual product.
+the product because their value is transferred.  Yet, the purpose is to make
+these products cheaper. The individual machine might cost more, but because it
+is more productive its value spreads across more products.  Hence, there is less
+$c$ contribution for each individual product.
 
 Furthermore, as the productivity of building machines increases, their value
-drops, the become cheaper.
+drops, they become cheaper.
 
-The final products part of value which is transferred from the means of
-production increases relatively to $v$ but drops absolutely (the product becomes
+The part of value which is transferred from the means of production to the final
+part increases relatively to $v$ but drops absolutely (the product becomes
 cheaper).
 
 Machinery is only employed to replace living necessary labour. It is only
 worthwhile to capital to when it is cheaper to buy the machine than to pay
 workers. The conditions for applying labour saving techniques are narrower than
-in a rational mode of production. A machine is not used if it saves labour
-absolutely, but only when it saves $v$.
+in a mode of production where production is for use-values.  A machine is not
+used if it only saves labour absolutely, but only when it saves $v$.
 
 #### The Most Immediate Effects of Machine Production on the Worker ####
 
@@ -456,16 +454,16 @@ absolutely, but only when it saves $v$.
    generalise, a capitalist individual advantage in applying a certain machine
    diminishes and the rate of surplus-value drops. Capital counters this by
    extending the working day (in anticipation and in reaction). Also incentive
-   to use up a machine as quickly as possible (day and night shifts)
+   to use up a machine as quickly as possible (shift system)
 
 3. Capitalist application of machines produces surplus population who are made
-   redundant due to improved productivity of labour. Their weight weights down
-   $v$.
+   redundant due to the improved productivity of labour.  They compete for the
+   remaining jobs which pushes down outlay in $v$.
 
-4. Capital responds to the legal limit on the working day with mandating more
+4. Capital responds to the legal limit on the working day by mandating more
    *intense labour*, more labour in the same time. Since capital controls the
-   production process in the form of its objective conditions it can now accomplish
-   this.
+   production process in the form of its objective conditions it has the means
+   accomplish this.
 
 The machine becomes the means to get more labour out of workers.
 
@@ -473,7 +471,7 @@ The machine becomes the means to get more labour out of workers.
 
 The *factory* replaces the fixation of one special operation (manufacture) with
 universal applicability, interchangeability. Skill is extinguished, the machine
-applies the worker who only needs to be able to take that. Complete separation
+applies the worker who only needs to be able to endure that. Complete separation
 of knowledge about the production process (*intellectual labour*) and the
 immediate producers (*manual labour*).
 
@@ -482,20 +480,21 @@ and machines.
 
 #### The Struggle between Worker and Machine ####
 
-The effect of capitalist application of machinery is detrimental to workers. The
-machine makes workers redundant, which is not a reason to rejoice but means
-poverty for those workers. The machine appears as the opponent of the worker.
+The effect of capitalist application of machinery is detrimental to workers.
+The machine makes workers redundant, which is not a reason to rejoice but means
+poverty for those workers.  The machine appears as the opponent of the worker.
 
 #### The Compensation Theory, with Regard to the Workers Displaced by Machinery ####
 
-The system of machinery separates workers from their means of subsistence. In
-this ideology this appears as that these means of subsistence are now available
-for other workers. Except that they do not have the means to pay for them. If
-additional workers are employed, then by additional capital.
+The system of machinery separates workers from their means of subsistence.  In
+the ideology criticises in this section this appears as that these means of
+subsistence are now available for other workers.  Except that they do not have
+the means to pay for them.  If additional workers are employed, then by
+additional capital.
 
 #### Repulsion and Attraction of Workers through the Development of Machine Production. Crises in the Cotton Industry ####
 
-Rationalisation repulses workers - they are replaced by machines. If this leads
+Rationalisation repulses workers — they are replaced by machines. If this leads
 to an expansion of capitalist production then additional workers are attracted.
 Relative diminution of workers, with (potential) absolute increase at the same
 time.
@@ -504,9 +503,9 @@ time.
 
 To compete against superior productivity of large-scale industry manufacture,
 handicraft and domestic industries extend and intensify the working day of their
-workers. Only when this reaches a limit, those methods of production are
-abandoned. When cheaper workers become available then these outdated methods of
-production might become worthwhile again and sweatshops are set up.
+workers.  Only when this reaches a limit, those methods of production are
+abandoned.  When cheaper workers become available then these outdated methods of
+production might become worthwhile again and sweatshops are set up again.
 
 #### The Health and Education Causes of the Factory Acts. ####
 
@@ -518,21 +517,22 @@ of production. This says everything necessary about this mode of production.
 Large scale machinery revolutionises agriculture, no more farmers but rural wage
 labourers. 
 
-> Capitalist production, therefore, only develops the techniques and the degree
-> of combination of the social process of production by simultaneously
-> undermining the original sources of all wealth - the soil and the worker. (638)
+> 637:1 Capitalist production, therefore, only develops the techniques and the
+> degree of combination of the social process of production by simultaneously
+> undermining the original sources of all wealth - the soil and the
+> worker. (638)
 
 ## Part Five: The Production of Absolute and Relative Surplus-Value ##
 
 ### Chapter 16: Absolute and Relative Surplus-Value ###
 
-In Chapter 7 the concept of *productive labour was initially defined as
-purposeful interaction with nature. Under the capitalist mode of production this
-concept changes. It becomes wider because functions which were previously
-functions of the same labourer now become distributed across labourer. To be
-productive it now suffices to be an organ for the collective labourer. For
-example, a worker exclusively coordinating the production process is a
-productive labourer.
+In Chapter 7 the concept of *productive labour* was initially defined as
+purposeful interaction with nature.  Under the capitalist mode of production
+this concept changes. It becomes wider because functions which were previously
+functions of the same labourer now become distributed across various
+labourers. To be productive it now suffices to be an organ for the *collective
+labourer*. For example, a worker exclusively coordinating the production process
+is a productive labourer.
 
 At the same time, the concept becomes narrower. Not only must the producer
 produce value (first narrowing) but also surplus-value. Only that labour which
@@ -547,7 +547,8 @@ relation in production which is divided into necessary and surplus labour.
 This is the starting point and premise of the production of relative
 surplus-value production where capital uses its command over the labour process
 to restructure it according to its needs: *real subsumption*. The previously
-established time relation is improved toward surplus labour-time.
+established time relation is improved by reducing necessary labour-time and
+hence increasing surplus labour-time.
 
 ### Chapter 17: Changes of Magnitude in the Price of Labour-Power and in Surplus-Value ###
 
@@ -572,13 +573,13 @@ The correct formula for the rate of surplus-value is
 (I) $\frac{\mbox{surplus-value}}{\mbox{variable capital}} = \frac{\mbox{surplus-value}}{\mbox{value of labour-power}} = \frac{\mbox{surplus labour}}{\mbox{necessary labour}}$
 
 which relates surplus-value to its source (in value terms and in time terms) and
-is thus conceptually sound. Another formula is
+is thus conceptually correct. Another formula is
 
 (II) $\frac{\mbox{surplus labour}}{\mbox{working day}} = \frac{\mbox{surplus-value}}{\mbox{value of the product}} = \frac{\mbox{surplus product}}{\mbox{total product}}.$
 
 This formula is not sound as it has no relation to how surplus-value is actually
 produced. Instead, it relates it to the total product and implies a sharing of
-the proceeds of production among capital and labour.
+the proceeds of joint production among capital and labour (piece of the pie).
 
 The formula
 
@@ -597,12 +598,12 @@ bought.
 
 However, it is not a mere false idea. Since the production of surplus-value is
 the purpose of the capitalist production process, the worker's labour-power is
-bought in order to put her to work long enough to realise a surplus-value:
-$m$. The wage is the form in which the purchase of labour power and the purpose
-of this purchase are consolidated. A capitalist buys labour-power to make it
-work for a certain amount of time. The form of payment expresses the truth that
-necessary labour is conditioned on surplus labour under the rule of capital, not
-the other way around.
+bought in order to put her to work long enough to realise a surplus-value $s$.
+The wage is the form in which the purchase of labour power and the purpose of
+this purchase are consolidated. Capital buys labour-power to put it to work for
+a certain amount of time. The form of payment expresses the truth that necessary
+labour is conditioned on surplus labour under the rule of capital, not the other
+way around.
 
 Time and intensity are the two determinations which characterise the magnitude
 of value produced by labour. Each wage form is a reflection on these
@@ -622,9 +623,10 @@ value equivalent of her labour-power but also surplus-value.
 
 Now if capital employs a worker for less than a full day (*short-time work*), a
 worker is not able to reproduce herself, as she is not paid the value of her
-labour-power. It is irrelevant here if she worked more or less than necessary
-labour-time, as payment is attached to the full working day which includes both
-necessary and surplus labour-time.
+labour-power, but that is not immediately capital's problem. It is irrelevant
+here if she worked more or less than necessary labour-time, as payment is
+attached to the full working day which includes both necessary and surplus
+labour-time.
 
 Capital pays extra for *overtime* to compensate for the additional devastation
 of such long hours. A low hourly wage creates the interest with workers for
@@ -665,6 +667,10 @@ a high rate of surplus-value.
 
 ### Chapter 23: Simple Reproduction ###
 
+The capitalist mode of production reproduces its own premises. At the end of the
+immediate process of production, capital (in money form) confronts workers again
+who have nothing but their labour-power to sell.
+
 ### Chapter 24: The Transformation of Surplus-Value into Capital ###
 
 #### Capitalist Production on a Progressively Increasing Scale. The Inversion which Converts the Property Laws of Commodity Production into Laws of Capitalist Appropriation ####
@@ -693,17 +699,107 @@ a high rate of surplus-value.
 
 ### Chapter 26: The Secret of Primitive Accumulation ###
 
+Accumulation reproduces its conditions — workers on the one side and capital (in
+money form) on the other — but it also presupposes them. It needs its result as
+precondition.
+
+The initial creation of the conditions for capitalist accumulation was not the
+deed of capital but of agents who pursued different interests. Previous writers
+painted a picture where capital grew out of the abstinence (hoarding) of later
+capitalists, but that idyllic picture is wrong.
+
+What needed to happen was the transformation of the means of subsistence and
+nourishment into capital and the production of free wage labourers. Producers had
+to be separated from their means of production.
+
 ### Chapter 27: The Expropriation of the Agricultural Population from the Land ###
+
+Workers were created by (forcefully) separating peasants from their
+land. Previously valid feudal titles were voided.
 
 ### Chapter 28: Bloody Legislation against the Expropriated since the End of the Fifteenth Century. The Forcing Down of Wages by Act of Parliament ###
 
+1. In its infancy capital did not manage to discipline those new proletarians by
+   the silent compulsion of economic relations. The state applied harsh
+   punishment to anyone not working, forcing people into employment for
+   capital. With the success of capital such methods of immediate coercion
+   become unnecessary:
+
+   > 899:2 The constant generation of a relative surplus population keeps the
+   > law of the supply and demand of labour, and therefore wages, within narrow
+   > limits which correspond to capital’s valorization requirements. The silent
+   > compulsion of economic relations sets the seal on the domination of the
+   > capitalist over the worker. Direct extra-economic force is still of course
+   > used, but only in exceptional cases. In the ordinary run of things, the
+   > worker can be left to the ‘natural laws of production’, i.e. it is possible
+   > to rely on his dependence on capital, which springs from the conditions of
+   > production themselves, and is guaranteed in perpetuity by them. It is
+   > otherwise during the historical genesis of capitalist production.
+
+2. During this early phase workers were not absolutely dependent on capital yet
+   and could hence demand higher wages. The state uses direct coercion to
+   prevent them from doing so. As the capitalist mode of production develops
+   setting such maximum wages becomes unnecessary.
+
 ### Chapter 29: The Genesis of the Capitalist Farmer ###
+
+Three conditions further the transformation of rich farmers into capitalists:
+
+1. the agricultural revolution increases productivity of agricultural
+   production
+
+2. appropriation of previously common land allows to augment the stock of cattle
+
+3. Contracts for farms ran for a long time (99 years). When the value of money
+   dropped farmers had to pay less on rent and wages due to these expenditures
+   being fixed in the old money value.
 
 ### Chapter 30: Impact of the Agricultural Revolution on Industry. The Creation of a Home Market for Industrial Capital ###
 
+The expropriation of peasants from their land separates them from their means of
+production and of nourishment which now are available as material elements of
+variable and constant capital. The agricultural revolution also allows that
+fewer agricultural workers feed the newly emerging proletariat in the cities.
+
+Furthermore, a home market for products previously mainly produced for
+subsistence develops. Agricultural capitalist provide the raw materials and
+means of subsistence for manufacture and workers.
+
 ### Chapter 31: The Genesis of the Industrial Capitalist ###
+
+The transformation of money hoards into capital that augments itself was helped
+along by the *colonial system* which created new markets, *sovereign debt* which
+allows to turn any sum of money into capital by lending it to the state. This
+debt also helps to create a modern *banking system* whose credit funds
+capitalist accumulation. *Taxation* (in money) drives petty producers into
+bankruptcy, they become proletarians.
 
 ### Chapter 32: The Historical Tendency of Capitalist Accumulation ###
 
+The capitalist mode of production needed the expropriation of petty producers to
+develop. As it develops this expropriation continues and big capitalists eat
+small capitalists. What is not true — in contrast to what Marx claims — is that
+there is an inherent historical necessity for this development due to the
+development of the productivity of labour.
+
+Having explained how capital appropriates the labour process to make it its
+means over the last 31 chapters, Marx now does a 180 and presents us with a
+*historical materialist teleology* where the *productive forces* are the subject
+which does away with modes of production when they become "obstacle". The
+capitalist mode of production as a means for the development of the productive
+forces:
+
+> 929:1 The monopoly of capital becomes a fetter upon the mode of production
+> which has flourished alongside and under it. The centralization of the means
+> of production and the socialization of labour reach a point at which they
+> become incompatible with their capitalist integument. This integument is burst
+> asunder. The knell of capitalist private property sounds. The expropriators
+> are expropriated.
+
+Unfortunately we are still waiting …
+
 ### Chapter 33: The Modern Theory of Colonization ###
 
+Means of production and workers are not sufficient for the capitalist mode of
+production. It needs social relations which compel workers to sell their
+labour-power to capital.
