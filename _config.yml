@@ -24,13 +24,9 @@ links:
   - title: Github
     url: https://github.com/readingcapital/readingcapital.github.io
     external: true
-  - title: Critisticuffs
-    url: https://critisticuffs.org
-    external: true
-  - title: Kittens
-    url: https://antinational.org/en/
-    external: true
-
+  - title: Resources
+    url: /resources
+    
 include: volume-1
     
 timezone:    Europe/London
