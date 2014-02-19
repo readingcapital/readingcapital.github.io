@@ -16,6 +16,9 @@ def pandoc(output_filename, input_filename, pandoc_args=None):
     """
     needs xelatex
     """
+    if not isinstance(input_filename, str):
+        input_filename = " ".join(input_filename)
+
     if pandoc_args is None:
         pandoc_args = []
     pandoc_args = " ".join(pandoc_args)

@@ -37,31 +37,35 @@ def main(argv):
     if input_dir == '' or output_dir == '':
         print helpmsg
         exit(1)
-
+        
+    books = {}
+        
     for book in ("volume-1", "volume-2", "volume-3"):
+        books[book] = []
         full_dir = os.path.sep.join([input_dir, book])
         for root, dirs, files in os.walk(full_dir):
-            for f in files:
+            for f in sorted(files):
                 if f.endswith(".md"):
-                    input_filename = full_dir + os.path.sep + f
+                    books[book].append(full_dir + os.path.sep + f)
 
-                    if not f.startswith("index"):
-                        output_filename = output_dir + os.path.sep + book + "-" + f.replace(".md","")
-                    else:
-                        output_filename = output_dir + os.path.sep + book
-
-                if verbose:
-                    print "producing", output_filename, "from", input_filename,
-                    sys.stdout.flush()
-
+    for book in books:
+        for input_filename in books[book]:
+            basename = os.path.split(input_filename)[1]
+            if not basename.startswith("index"):
+                output_filename = output_dir + os.path.sep + book + "-" + basename.replace(".md","")
+            else:
+                output_filename = output_dir + os.path.sep + book
                 
-                    
-                produce_pdf(output_filename, input_filename,  template_filename = template_dir + os.path.sep + "template.tex" if template_dir else None)
-                produce_odt(output_filename, input_filename,  template_filename = template_dir + os.path.sep + "template.odt" if template_dir else None)
-                produce_epub(output_filename, input_filename)
-                if verbose:
-                    print "."
-                    
+            if verbose:
+                print "producing", output_filename, "from", input_filename,
+                sys.stdout.flush()
+                
+            produce_pdf(output_filename, input_filename,  template_filename = template_dir + os.path.sep + "template.tex" if template_dir else None)
+            produce_odt(output_filename, input_filename,  template_filename = template_dir + os.path.sep + "template.odt" if template_dir else None)
+            produce_epub(output_filename, input_filename)
+            if verbose:
+                print "."
+                
 if __name__ == "__main__":
    main(sys.argv[1:])
         
