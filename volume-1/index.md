@@ -801,15 +801,95 @@ particular relevance here are:
 
 ### Chapter 25: The General Law of Capitalist Accumulation ###
 
+What effect does accumulation have on the working class?
+
 #### A Growing Demand for Labour-Power Accompanies Accumulation if the Composition of Capital Remains the Same ####
+
+The composition of capital is understood in two ways:
+
+1. *technical composition* means of production and living labour and
+2. *value composition* constant and variable capital.
+
+Insofar, the value composition is a reflection of the technical composition we
+speak of *organic composition*. If organic composition remains the same, then as
+capital grows its demand for labour(-power) increases at the same speed. The
+faster capital grows, the faster its demand for workers grows as well. This way
+capital demands more labour-power than is supplied and prices rise.
+
+This does not mean there is no exploitation:
+
+1. Either capital simply pays those higher wages, because they are means for
+   accumulation. The mass of surplus-value rises, even if the rate falls.
+
+2. Or shrinking profits mean lessened accumulation, which lowers the price of
+   labour again to a level at which it is a means for valorisation. This way the
+   obstacles created by accumulation are resolved by the process itself.
+
+In any case, not the number of workers determines employment but
+accumulation. Accumulation and its needs is the independent variable and the
+wage the dependent.
 
 #### A Relative Diminution of the Variable Part of Capital Occurs in the Course of the Further Progress of Accumulation and of the Concentration Accompanying it ####
 
+Insofar capital uses increases in productivity as a means of accumulation, the
+technical composition of capital (and to a lesser extend organic composition due
+to cheapening of $c$) increases. This implies a relative diminishing of variable
+capital and transcends the obstacle of the previous sub-chapter.
+
+This process of accumulation implies a growing *concentration* of the means of
+production in the hands of individual capitalists. On the other hand, new
+capitals are founded or capitals are split into parts (repulsion). This
+fragmentation of total social capital into many capitals is counteracted by
+*centralisation* where individual capitals are combined into one. Growth through
+centralisation is not limited by growth of total social capital.
+
+This way centralisation contributes to the extension of the capitalist mode of
+production and of labour-saving techniques, which lessens the relative demand
+for labour(-power).
+
+On the one hand, new capital attracts relatively less new workers as it enters
+the world. On the other hand, capital repels workers whenever it revolutionises
+its technical basis.
+
 #### The Progressive Production of a Relative Surplus Population or Industrial Reserve Army ####
+
+As capital accumulates it needs more capital to employ the same number of
+workers as capital that is already functioning reduces the number of workers it
+employs absolutely as it restructures its production process. If this
+accumulation is sufficient to employ those redundant workers depends on the rate
+of accumulation and the extend to which workers are made redundant.
+
+Successful capitalist production produces a surplus of workers which are not
+currently needed: *relative surplus population*. Unemployment is not a
+phenomenon of crisis, but a result of the normal accumulation of capital. The
+capitalist law of population is that the working class produces the means to
+make itself redundant on an increasing scale.
+
+The surplus population is not only a product of the capitalist mode of
+production but also its means: it provides reserves of labour-power so that
+capital can increase its demand when needed. It functions as the *industrial
+reserve army*.
+
+Furthermore, the unemployed function as a means to put pressure on workers:
+
+1. The threat of unemployment allows to extend the working day, which increases
+   the supply of labour without (much) additional outlay in $v$. It also allows
+   to economy in the application of $c$. "Overwork" of employed workers is not a
+   contradiction to unemployment but the latter is used as a means for the
+   former.
+
+2. The threat of unemployment also lowers wages.
+
+The particularity of the labour market is that accumulation is both the subject
+of (increased) demand and the subject of supply by making them redundant. There
+are not two independent forces confronting each other on the market, but capital
+regulates the supply and demand for labour-power according to its needs.
 
 #### Different Forms of Existence of the Relative Surplus Population. The General Law of Capitalist Accumulation ####
 
-#### Illustrations of the General Law of Capitalist Accumulation ####
+The industrial reserve army splits into those which are temporarily thrown out
+of work and might be employed again and those which capital has no use for
+permanently. As capital grows it also produces pauperism with it.
 
 ## Part Eight: So-Called Primitive Accumulation ##
 
