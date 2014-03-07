@@ -124,7 +124,7 @@ body {
 /* Meat
    ========================================================================== */
 p {
-  font-size: 22px;
+  font-size: 21px;
   line-height: 33px;
 }
 
@@ -134,7 +134,7 @@ p {
 }
 
 .post ul li {
-  font-size: 22px;
+  font-size: 21px;
   line-height: 33px;
   margin-bottom: 11px;
 }
@@ -142,27 +142,27 @@ p {
 /* Headings
    ========================================================================== */
 h1, .h1 {
-  font-size: 64px;
+  font-size: 67px;
 }
 
 h2, .h2 {
-  font-size: 48px;
+  font-size: 50px;
 }
 
 h3, .h3 {
-  font-size: 40px;
+  font-size: 37px;
 }
 
 h4, .h4 {
-  font-size: 32px;
+  font-size: 28px;
 }
 
 h5, .h5 {
-  font-size: 26px;
+  font-size: 21px;
 }
 
 h6, .h6 {
-  font-size: 22px;
+  font-size: 16px;
 }
 
 .meta {
@@ -171,7 +171,7 @@ h6, .h6 {
 
 blockquote, blockquote p {
     line-height: 1.3em;
-    font-size: 22px;
+    font-size: 21px;
 }
 
 .archive input {
@@ -196,23 +196,23 @@ blockquote, blockquote p {
   }
 
   h1, .h1 {
-    font-size: 48px;
+    font-size: 50px;
   }
 
   h2, .h2 {
-    font-size: 32px;
+    font-size: 37px;
   }
 
   h3, .h3 {
-    font-size: 24px;
+    font-size: 28px;
   }
 
   h4, .h4 {
-    font-size: 16px;
+    font-size: 21px;
   }
 
   h5, .h5 {
-    font-size: 12px;
+    font-size: 16px;
   }
 
   h6, .h6 {
