@@ -59,9 +59,9 @@ They might be able to point you to good Capital reading groups in London.
 
 ### Recommended Reading ###
 
-* ["Don't Read Marx with Harvey"](http://critisticuffs.org/events/dont-read-marx-with-harvey/)
-  explains that David Harvey misses the critical content of chapter&nbsp;1 and hence does not provide an adequate introduction to Capital (text is claimed to be forthcoming).
-
+* ["A Companion to David Harvey's Companion to Marx' Capital, Chapter 1"](http://critisticuffs.org/events/dont-read-marx-with-harvey/)
+  explains why David Harvey's *A Companion* is not a useful guide through Capital.
+  
 ## [GegenStandpunkt](http://www.gegenstandpunkt.com/english/en_index.html) ##
 
 > The Marxist critique of political economy, “scientific socialism,” explains
@@ -99,6 +99,6 @@ They might be able to point you to good Capital reading groups in London.
 > and capital; or of demanding tolerance and understanding, thus immunizing our
 > opinions from criticism.
 
-### Noteworthy Pieces ###
+### Recommended Reading ###
 
  * ["'Real' value: Comments on the 'labor theory of value' and the wealth of capitalist society"](http://www.ruthlesscriticism.com/realvalue.htm) discusses the *labour theory of value* (chapter&nbsp;1 of Volume&nbsp;1) and how it is usually misunderstood.

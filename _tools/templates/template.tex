@@ -2,6 +2,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
+\usepackage{lineno}
 
 \usepackage{titlesec}
 
@@ -165,6 +166,11 @@ $endif$
 \date{$date$}
 
 \begin{document}
+
+\setpagewiselinenumbers
+%\modulolinenumbers[5]
+\linenumbers
+
 $if(title)$
 \maketitle
 $endif$

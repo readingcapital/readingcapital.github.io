@@ -1,5 +1,6 @@
 ---
 title: Volume 1 — The Process of Production of Capital
+author: readingcapital.github.io
 layout: page
 ---
 
