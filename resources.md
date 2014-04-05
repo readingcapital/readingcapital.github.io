@@ -59,7 +59,7 @@ They might be able to point you to good Capital reading groups in London.
 
 ### Recommended Reading ###
 
-* ["A Companion to David Harvey's Companion to Marx' Capital, Chapter 1"](http://critisticuffs.org/events/dont-read-marx-with-harvey/)
+* ["A Companion to David Harvey's Companion to Marx' Capital, Chapter&nbsp;1"](http://critisticuffs.org/events/dont-read-marx-with-harvey/)
   explains why David Harvey's *A Companion* is not a useful guide through Capital.
   
 ## [GegenStandpunkt](http://www.gegenstandpunkt.com/english/en_index.html) ##

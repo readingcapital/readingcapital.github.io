@@ -14,7 +14,7 @@ layout: page
 > with the analysis of the commodity.
 
 The object of the critique of political economy is the systematic development of
-what the wealth of captialist societies is — the elementary form of which is the commodity.
+what the wealth of capitalist societies is — the elementary form of which is the commodity.
 
 #### [The Two Factors of the Commodity: Use-Value and Value](chapter-01.01-detailed-commentary) ####
 
@@ -68,7 +68,7 @@ relative to other producers means more value per labour.
 
 Value is a quality of the commodity, but it is a social quality: power of access
 to social wealth. Before this quality can be activated it must be
-expresed. Commodities must express their value-being – they are not only
+expressed. Commodities must express their value-being – they are not only
 themselves but a claim to social wealth. They must express this in a way which
 is unified, so that they all make the same claim towards each other.
 
