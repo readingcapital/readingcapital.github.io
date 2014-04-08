@@ -53,11 +53,11 @@ to some extend exempt from the law of value: in these branches of industry
 *complicated labour* is performed (as opposed to *simple labour*). The labour
 there counts as multiplied labour of other branches of industry.
 
-The *productivity of labour* measure how many use-values per time are produced;
+The *productivity of labour* measures how many use-values per time are produced;
 it is a determination of concrete labour. Increasing productivity on a social
 level has no effect on the amount of value produced in, say, one hour. Instead,
-the same value is distributed over more products. However, since *socially
-necessary labour-time* determines value, anyone producing faster than average
+the same value is distributed over more products. However, since socially
+necessary labour-time determines value, anyone producing faster than average
 stands to gain: she can demand the equivalent of, say, 1 hour worth of abstract
 labour for, say, $½$ labour-time actually expended (assuming simple labour). On
 the one hand, more labour means more value. On the other hand, less labour
@@ -112,15 +112,13 @@ In the price form a commodity claims to be money equal.  This is the first
 function of the money commodity: to stand in ideally so that commodities can
 express their value – they are not only some particular concrete material wealth
 but also a part of and claim to total social wealth.  The money commodity acts
-as *measure of value* because it is value.  It is acts as the *standard of
+as *measure of value* because it is value.  It acts as the *standard of
 prices* because it as a use-value can be measured and subdivided (length,
 volume, weight).  No real money has to be at hand for a commodity to express its
 value in a price. However, the *price* form is a claim of a commodity to be
 value by being money equal. All commodities must prove they are as good as
-money, they must — at any cost (deviation of price from value) — become
+money, they must — at any cost: *deviation of price from value* — become
 money. The purpose of a commodity is to exchange for money.
-
-> 198:1 Hard cash lurks within the ideal measure of value
 
 Because money now counts as the ultimate and immediate economic power, anything
 becomes available for sale, regardless of whether it has value or not.
@@ -137,7 +135,9 @@ into two parts which are separate but belong together: *selling* and
 *buying*. This constitutes the abstract possibility of crisis.
 
 Selling is the salto mortale, the point when a commodity proves that it is
-value.  A commodity drops out of circulation when it is consumed.  Money, on the
+value.
+
+A commodity drops out of circulation when it is consumed.  Money, on the
 other hand, does not drop out: circulation of money.  In this circulation money
 is always only a fleeing moment, the point is not to hold on to, but to pass it
 on to complete the metamorphosis with $M-C$.  In this function money can be
@@ -212,10 +212,10 @@ Capital is hence confronted with the determinations of the labour process.
 Labour is the purposeful interaction with nature.  The *labour process* uses
 tools and material. It applies of the laws of nature (physics etc.) to
 accomplish its purpose. Tools and material are consumed in the production
-process. These the the conditions dictated to capital and cannot change. Under
-the rule of capital two modifications: command of the capitalist and separation
-of the product of labour from the immediate producer. Under the rule of capital
-labour is a moment of capital in production.
+process. These are the the conditions dictated to capital and cannot
+change. Under the rule of capital two modifications: command of the capitalist
+and separation of the product of labour from the immediate producer. Under the
+rule of capital labour is a moment of capital in production.
 
 The labour process only exists under the rule of capital if it is also
 *valorisation process*. Production must result in commodities which contain more
@@ -315,9 +315,9 @@ production of *absolute surplus-value*. The production of absolute surplus-value
 has its limits in the length of the day and the amount of workers employed or in
 society.
 
-The length of the working day constant, then the rate of surplus-value can only
-be improved by shortening necessary labour-time while maintaining the length of
-the working day. This is the production of *relative surplus-value*.
+If the length of the working day is constant, then the rate of surplus-value can
+only be improved by shortening necessary labour-time while maintaining the
+length of the working day. This is the production of *relative surplus-value*.
 
 Necessary labour-time is shortened by improving the productivity of labour in
 those branches of industry for those products which (eventually) end up as
@@ -380,11 +380,7 @@ surplus-value, all other methods rely on cooperation.
 Capital transcends its dependency on the quality of labour-powers working
 independently side-by-side by restructuring their activity in accordance with
 their function, their activities become proper partial operations in
-*manufacture*. This happens by either
-
-1. splitting up production processes into their steps or 
-
-2. becoming independent of previous partial operations.
+*manufacture*.
 
 The specialisation attained in manufacture allow capital to reshape labour
 processes and tools.
@@ -666,8 +662,8 @@ soil, etc.).
 
 Yet, the production of surplus-value does not rely on absolute wage levels,
 though, but on the rate of surplus-value. This rate might be lower in a country
-with a low wage level and vice versa. Capital does not demand low wages, it
-demands a high rate of surplus-value.
+with a low wage level and vice versa. Capital does not require low wages, it
+presupposes the rate of surplus-value.
 
 ## Part Seven: The Process of Accumulation of Capital ##
 
@@ -711,7 +707,7 @@ as before: she has nothing but her labour-power which she must sell to capital.
 
 If not all surplus-value is consumed but (part of) it is re-invested
 *accumulation* takes place. Additional money seeks to buy additional means of
-production and workers on the market.
+production and labour(-power) on the market.
 
 These commodities must be available on the market, which means they must have
 been produced already by the time a capitalist decides to extend production.
