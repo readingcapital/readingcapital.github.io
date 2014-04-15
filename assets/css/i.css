@@ -53,6 +53,12 @@ del {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+  margin-bottom: 11px;
+}
+
+table, tr, td, th {
+  border: 1px solid black;
+  padding:0.3em;
 }
 
 a {
@@ -128,6 +134,10 @@ p {
   line-height: 33px;
 }
 
+table {
+  font-size: 18px;
+}
+
 .intro {
   font-size: 32px;
   line-height: 1.4em;
@@ -184,6 +194,10 @@ blockquote, blockquote p {
     line-height: 24px;
   }
 
+  table {
+      font-size: 14px;
+  }
+  
   .intro {
     font-size: 24px;
     line-height: 1.4em;
