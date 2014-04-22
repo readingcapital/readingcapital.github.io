@@ -430,7 +430,7 @@ machinery which overcomes this obstacle.
 #### The Development of Machinery ####
 
 With the use of *big machinery* capital emancipates itself from the limits of
-individual skill and the human body. Tools are revolutionised and turn into a
+individual skill and the human body.  Tools are revolutionised and turn into a
 modern system of machinery where human "hands" only support it.  The conditions
 and form of labour is dictated to the worker by the objective existence in the
 machinery. The tool dictates the worker how to work — the machine applies the
@@ -448,9 +448,10 @@ labour-time in order to increase surplus labour-time.
 The results of science cost nothing once they are attained.  But to use them the
 appropriate means of production are required. Their value increases the value of
 the product because their value is transferred.  Yet, the purpose is to make
-these products cheaper. The individual machine might cost more, but because it
-is more productive its value spreads across more products.  There is less
-$c$ contribution for each individual product.
+these products cheaper. The individual machine might cost more, so the minimal
+size of capital increases.  However, because the machine is more productive its
+value spreads across more products.  There is less $c$ contribution for each
+individual product.
 
 Furthermore, as the productivity of making machines increases their value
 drops, they become cheaper.
@@ -646,9 +647,10 @@ attached to the full working day which includes both necessary and surplus
 labour-time.
 
 Capital pays extra for *overtime* to compensate for the additional devastation
-of such long hours. A low hourly wage creates the interest with workers for
-overtime, so the same workers supply more labour, capital can suppress the
-price of labour per hour further.
+of such long hours.  Due to a low hourly wage workers develop an interest in
+overtime. Overtime becomes the new norm, the same workers work longer, more
+competition on the labour market and ability of capital to supress wages
+further; increased interest of workers in overtime …
 
 ### Chapter 21: Piece-Wages ###
 
@@ -688,7 +690,7 @@ Whatever the social form of production it must be continuous. Every social
 process of production is also a process of reproduction which reproduces its
 premises.
 
-Capital must reproduce constant and variable capital. A part of the yearly
+Capital must reproduce constant and variable capital.  A part of the yearly
 product belongs to production and exits in a use-values which are designated for
 use in production (machines etc.). A part of the product of the product must
 exist in a natural form in which it can function as means of subsistence of
@@ -696,21 +698,24 @@ workers (food, clothes, etc.).
 
 If capitalists do not reinvest their surplus-value but merely consume it by
 spending it on means of subsistence and luxury articles, then *simple
-reproduction* takes place. Capital produces and reproduces its component parts
-as well as surplus-value which is consumed by the capitalist. However, the mere
-repetition of this process brings to light aspects of this process which do not
-appear when looked at in isolation.
+reproduction* takes place. Capital produces and reproduces its component
+parts. It also periodically produces surplus-value which is consumed by the
+capitalist and which therefore assumes the form of *revenue* arising out of
+capital.
+
+However, the mere repetition of this process brings to light aspects of this
+process which do not appear when looked at in isolation.
 
 Whatever allowed capital to initially buy labour-power, as soon as the process
 is repeated, it is a worker's past labour that allows a capitalist hire her
 again.
 
-If a capitalist advances £10,000 in total and her capital produces a
-surplus-value of £1,000 each year which she consumes, then after 10 years she
-has consumed £10,000, the value equivalent of her capital. The reason she still
-has £10,000 is because her workers produced it as surplus-value. All capital is
-accumulated capital, even when we leave aside reproduction on an extended scale
-(accumulation proper).
+Whatever the initial investment, after a certain number of repetitions it
+produced a surplus-value of the same size which the capitalist consumed. The
+reason she did not consume her complete capital when she consumed the value
+equivalent of it, is because her workers produced it as surplus-value. All
+capital is accumulated capital, even when we leave aside reproduction on an
+extended scale (accumulation proper).
 
 The products of labour not only turn into commodities but also into capital which
 then confronts the worker. At the same time, the worker is reproduced exactly
@@ -720,9 +725,15 @@ as before: she has nothing but her labour-power which she must sell to capital.
 
 #### Capitalist Production on a Progressively Increasing Scale. The Inversion which Converts the Property Laws of Commodity Production into Laws of Capitalist Appropriation ####
 
-If not all surplus-value is consumed but (part of) it is re-invested
-*accumulation* takes place. Additional money seeks to buy additional means of
-production and labour(-power) on the market.
+So far the purpose of capitalist production was determined as the production of
+surplus-value. If not all surplus-value is consumed but (part of) it is
+re-invested *accumulation* takes place and capital arises out of surplus-value.
+Therewith surplus-value is determined as a means of the accumulation of capital,
+not its end.
+
+For actual accumulation to take place, expanded reproduction must take
+place. Additional money seeks to buy additional means of production and
+labour(-power) on the market.
 
 These commodities must be available on the market, which means they must have
 been produced already by the time a capitalist extends production.  Other
@@ -733,8 +744,8 @@ elsewhere.
 If these additional means of production ought to be used productively,
 additional labour is required. Capital can either increase the intensity or
 extent of labour of its already employed workers. If additional workers are
-required these must be available on the market — which is usually provided for by
-the capitalist mode of production (cf. Chapter 25).
+required these must be available on the market — which is usually provided for
+by the capitalist mode of production (cf. Chapter 25).
 
 Given that capital can rely on finding the material means of expanded production
 on the market the condition for its accumulation is its previous accumulation.
@@ -926,11 +937,12 @@ means of subsistence for manufacture and workers.
 ### Chapter 31: The Genesis of the Industrial Capitalist ###
 
 The transformation of money hoards into capital that augments itself was helped
-along by the *colonial system* which created new markets, *sovereign debt* which
-allows to turn any sum of money into capital by lending it to the state. This
-debt also helps to create a modern *banking system* whose credit funds
-capitalist accumulation. *Taxation* (in money) drives petty producers into
-bankruptcy, they become proletarians.
+along by the *colonial system* which created new markets and provided cheap raw
+materials by the act of plundering, *sovereign debt* which allows to turn any
+sum of money into capital by lending it to the state.  This debt also helps to
+create a modern *banking system* whose credit funds capitalist accumulation.
+*Taxation* (in money) drives petty producers into bankruptcy, they become
+proletarians.
 
 ### Chapter 32: The Historical Tendency of Capitalist Accumulation ###
 
