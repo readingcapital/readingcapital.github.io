@@ -50,10 +50,11 @@ del {
   text-decoration: line-through;
 }
 
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  margin-bottom: 11px;
+table {    
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0px auto 33px;
+    width: 100%;
 }
 
 table, tr, td, th {
@@ -129,13 +130,9 @@ body {
    ========================================================================== */
 /* Meat
    ========================================================================== */
-p {
+p, table td, table th {
   font-size: 21px;
   line-height: 33px;
-}
-
-table {
-  font-size: 18px;
 }
 
 .intro {
@@ -194,10 +191,6 @@ blockquote, blockquote p {
     line-height: 24px;
   }
 
-  table {
-      font-size: 14px;
-  }
-  
   .intro {
     font-size: 24px;
     line-height: 1.4em;
