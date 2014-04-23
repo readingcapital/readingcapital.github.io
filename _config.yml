@@ -2,7 +2,7 @@ name: Reading Capital
 tagline: Let us consider the matter more closely
 description: Notes and Commentary on Capital by Karl Marx"
 
-url: http://readingcapital.github.io
+url: https://readingcapital.github.io
 paginate: 10
 
 markdown: kramdown
