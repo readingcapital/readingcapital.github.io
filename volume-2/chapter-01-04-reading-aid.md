@@ -1,5 +1,6 @@
 ---
 title: A reading aid for the first four chapters of Volume 2
+author: readingcapital.github.io
 layout: page
 ---
 
