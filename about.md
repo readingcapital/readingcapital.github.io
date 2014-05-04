@@ -22,3 +22,9 @@ files are in markdown format, which can be easily translated into various other
 formats such as HTML (this site), PDF, ODT and ePub.
 [Pandoc](http://johnmacfarlane.net/pandoc/) does a good job.
 
+## Copying ##
+
+Feel free to copy/reuse/revise anything on this site. Also feel free to claim
+anything on this site as your own work. There is no need to acknowledge us in
+any way.
+
