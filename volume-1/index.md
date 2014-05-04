@@ -160,10 +160,14 @@ of value) or to be represented by a symbol (means of circulation). Actual
 The first act of circulation – $C-M$ – is the hard part, money is the ultimate
 means to gain access to anything in society, everything else is such only
 provisionally, in a society where producers deny each other the means to satisfy
-their needs. The desire and need arises for money. The *hoarder* pursues this
-interest by not engaging in consumption, she becomes richer by denying herself
-consumption – she does not really get richer. Money's power is to access social
-wealth on the market, but the hoarder withholds it from circulation.
+their needs. The desire and need arises for money. The *hoarder* satisfies this
+need by sale without purchase — sale to aquire money.  Qualitatively, money is
+exchangable for anything and not limited, but quantitatively any sum of money is
+limited; the hoarder's drive for money is boundless.  Sale without purchase
+means that the hoarder pursues her interest by not engaging in consumption, she
+becomes richer by denying herself consumption – she does not really get
+richer. Money's power is to access social wealth on the market, but the hoarder
+withholds it from circulation.
 
 The present absence of money ought not to hinder business. Commodity owners may
 replace actual payment of money with promises of payment (which again may
