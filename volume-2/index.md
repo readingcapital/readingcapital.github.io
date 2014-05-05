@@ -55,38 +55,44 @@ layout: page
 
 ## Part Two: The Turnover of Capital ##
 
-The follow terms are defined below. They are collected here as a reference:
+The following terms are defined below. They are collected here as a quick
+reference:
 
  * *turnover time* also called: turnover period = production time + circulation
    time (Chapter 7)
  * *circulation time*: selling time + time of purchase (Chapter 14)
- * *cycle of turnovers*: number of turnovers needed for capital to be
-   reproduced (Chapter 9)
+ * *cycle of turnovers*: number of turnovers needed for all capital components
+   to be reproduced (Chapter 9)
  * *overall turnover*: average of turnovers of all capital parts (Chapter 9)
 
 ### Chapter 7: Turnover Time and Number of Turnovers ###
 
-Capital must pass through production time and circulation time. To realise
-the purpose of perpetual valorisation the advance must return in order to go
-through the circuit again.
+Capital must pass through production time and circulation time. To realise the
+purpose of perpetual valorisation the advance must return in order to go through
+the circuit again.
 
 Whilst parts of capital are in different phases of the circuit the identity of
 capital is expressed ideally in money of account. *Turnover* expresses the
-periodical return of capital to its point of departure. *Turnover time* measures
-the time of such a period, i.e. it is the sum of production time and circulation
-time. The *number of turnovers* compares the turnover of various capitals, where
-— conventionally, due to agriculture — the turnover time of individual capitals
-is related to a year.
+periodical return of capital to its point of departure.
 
 > 236:4 For the capitalist, the turnover time of his capital is the time for
 > which he has to advance his capital in order for this to be valorized and for
 > him to receive it back in its original shape.
 
-Turnover is a new determination of efficiency. The fast the turnover the faster
-capital returns to its original shape with a surplus, i.e. the faster it
+The emphasis here is on "in its original shape", i.e. the time it takes capital
+in money form (resp. in form of productive capital, commodity capital is not a
+form of advanced capital) to return to money form.
+
+*Turnover time* measures the time of such a period, it is the sum of production
+time and circulation time. The *number of turnovers* compares the turnover of
+various capitals, where — conventionally, due to agriculture — the turnover time
+of each individual capital is related to a year.
+
+Turnover is a new determination of efficiency. The faster the turnover the
+faster capital returns to its original shape with a surplus, i.e. the faster it
 valorised. While in Chapter 5 the standpoint was that circulation time is a
-limit for production time, the new standpoint is that turnover time ought to be
-shortened.
+limit for production time, the new standpoint is that turnover time overall
+ought to be shortened.
 
 ### Chapter 8: Fixed Capital and Circulating Capital ###
 
