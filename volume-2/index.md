@@ -102,11 +102,11 @@ ought to be shortened.
 
 ### Chapter 9: The Overall Turnover of the Capital Advanced. Turnover Cycles ###
 
-Fixed and fluid (=circulation) capital parts of productive capital turn over
-differently.  Furthermore, different parts of fixed capital have different
-turnover times.
+Fixed and fluid (=circulation) capital parts of capital turn over differently.
+Furthermore, different parts of fixed capital have different turnover
+times.
 
-1. Capital is one sum of value that continously produces its own surplus.
+1. Capital is one sum of value that continuously produces its own surplus.
    However, in its material form (as means of production) this identity is not
    expressed. To express this identity the average turnover time of its
    components is taken to express the *overall turnover* of capital.
@@ -114,9 +114,13 @@ turnover times.
    > 262:2 The overall turnover of the capital advanced is the average turnover
    > of its different component parts.
 
+   Note that this is different from the turnover of capital which is the sum of
+   production time and circulation time, i.e. the turnover time of fluid
+   capital.
+
 2. However, there are not only differences in turnover time but also in how the
-   various parts turnover.  Circulating capital parts have to be replaced
-   continously. Some parts of fixed capital can be replaced or repaired at
+   various parts turnover. Fluid capital parts have to be replaced
+   continuously. Some parts of fixed capital can be replaced or repaired at
    shorter intervals.  Other parts of fixed capital can only be replaced once
    they have transferred all their value to the product. Those different forms
    of replacement do affect material reproduction but they do not affect the
@@ -128,91 +132,96 @@ turnover times.
 
 3. The total value that turns over during a year might be larger than the total
    value advanced, even if a large part is advanced in fixed capital which takes
-   many years to turn over. A capital splits into £80 fixed capital which takes
-   10 years to turn over, and £20 which turn over 5 times a year. After a year
-   5·£20 + £8 turned over which is more than the initially advanced £100.
+   many years to turn over. Say, a capital splits into £80 fixed capital which
+   takes 10 years to turn over, and £20 which turn over 5 times a year. After a
+   year 5·£20 + £8 turned over which is more than the initially advanced £100.
 
-4. The *value turnover* of capital — the time it takes for the intially advanced
-   sum to turn over once — is separate from the actual reproduction time of
-   capitals components.
+4. The *value turnover* of capital is the time it takes for the initially
+   advanced sum to turn over once and it is separate from the actual
+   reproduction time of capital's components.
 
    A capital that turns over 5 times a year has a value turnover of 5 times its
    original size in a year, but it is still the same capital. Its size is not
-   affected by turnover time (ignoring surplus-value for now). But the continous
-   return of circulating capital into its originally advanced form — money —
-   allows capital to continously produce value and surplus-value even though its
+   affected by turnover time (ignoring surplus-value for now). But the continuous
+   return of fluid capital into its originally advanced form — money —
+   allows capital to continuously produce value and surplus-value even though its
    material components are not yet reproduced.
 
    If fixed capital needs 10 years to be reproduced then the production process
-   must continue — the advanced capital has to decribe a *cycle of turnovers* —
+   must continue — the advanced capital has to describe a *cycle of turnovers* —
    until the fixed capital components are reproduced/turned over. Only after 10
    years, in this example, all components of capital turned over, i.e. in its
    originally advanced form.
 
-   With the capitalist mode of production fixed capital grows relatively,
-   overall turnover time increases.  On the other hand, does the development of
-   the capitalist mode of production shorten overall turnover time due to moral
-   deprecation. The result is an estimated (by Marx) overall turnover time of 10
-   years.
+   With the capitalist mode of production fixed capital grows relatively to
+   fluid capital and overall turnover time increases.  On the other hand, the
+   development of the capitalist mode of production shortens overall turnover
+   time due to moral depreciation. The result is an estimated (by Marx) overall
+   turnover time of 10 years.
 
-   The separation of value turnover and actual reproduction of the components of
-   capital is the material basis for the business cycle — stagnation, moderate
-   activity, overexcitement, crisis. The possibility of crisis is due to the
-   separation of sale and purchase (cf. Volume 1, Chapter 3). A successful
-   purchase presupposes a previous successful sale ($C-M-C$) and here fluid and
-   fixed capital differ: fluid capital permanently causes purchases and
-   sales. Fixed capital is continously transferred and the resulting commodities
-   sold, but it is only replaced in bigger intervals (retransfer into productive
-   capital).
+   The separation of the actual reproduction of the fixed components of capital
+   and continuous turnover of fluid capital which realises value components of
+   fixed capital is the material basis for the business cycle — stagnation,
+   moderate activity, overexcitement, crisis. Fixed capital is purchased once
+   and then continuously transferred to the final product which then is
+   continuously sold. Capitals hence sell without buying for long periods, and
+   buy fixed capital seldomly and suddenly; but from Volume 1, Chapter 3 we know
+   that the abstract possibility of crisis is the possibility of separating sale
+   and purchase which yet belong together.  Coming out of a crisis capitals
+   invest in fixed capital which leads to a synchronisation of investments which
+   creates a lot of demand which then lessens.
 
 ### Chapter 10: Theories of Fixed and Circulating Capital. The Physiocrats and Adam Smith ###
 
+This section was intentionally left blank.
+
 ### Chapter 11: Theories of Fixed and Circulating Capital. Ricardo ###
+
+This section was intentionally left blank.
 
 ### Chapter 12: The Working Period ###
 
 ### Chapter 13: Production Time ###
 
-From the standpoint of turnover all phases of the circuit ought to be
-shortened. The working period was discussed in the previous chapter, this
-chapter deals with *production time*. This is the time during which the product
-develops but no labour is expended. Examples are plants that need to grow, wine
-that needs to ferment, etc. Capital attempts to shorten production time. This
-usually entails additional expenditures in fixed capital which increases the
-overall turnover. Furthermore, these attempts have their limit in natural
-conditions, e.g. in agriculture. To produce a regularity of production and
-circulation stock is maintained such that part of the products can be sold while
-other products still come into being.
+*Production time* is the sum of the working period and the time during which
+natural laws run their course without human intervention. In that latter period
+no value is created. Examples are plants that need to grow, wine that needs to
+ferment, etc. Capital attempts to shorten production time. This usually entails
+additional expenditures in fixed capital which increases the overall
+turnover. Furthermore, these attempts have their limit in natural conditions,
+e.g. in agriculture. To produce a regularity of production and circulation stock
+is maintained such that part of the products can be sold while other products
+still come into being.
 
 ### Chapter 14: Circulation Time ###
 
 *Circulation time* is split into selling time and time of purchase (and
  transaction time).
 
-*Selling time* is the time it takes to sell a commodity. This time fluctuates,
- but there are circumstances which determine it beyond such fluctuations, such
- as distance to markets. Improvements in communication and transportation
- technology allow to decrease selling time. These tend to affect different
- capitals in different ways, so the ratios of their selling times might
- vary. These improved transportation and communication routes and hubs lead to
- concentration of people and capital in one place. Improved communication and
- transportation also implies production for the world market as these new
- improved means must be used.
-
-Both with respect to buying and selling the moment of payment is crucial for
-turnover time. This is a basis for the credit system. The seller wants money
-when she sends her commodities off, the buyer wants to pay when the commodities
-arrive. The time between the two can be bridged by credit.
-
-In addition to selling time and time of purchase there is also *transaction time*,
-i.e. the time it takes money to travel. For example, it takes to process a bank
-transfer.
+*Selling time* is the time it takes to sell a commodity.  This time fluctuates,
+but there are circumstances which determine it beyond such fluctuations, such as
+distance to markets. Improvements in communication and transportation technology
+allow to decrease selling time. These tend to affect different capitals in
+different ways, so the ratios of their selling times might vary.  These improved
+transportation and communication routes and hubs lead to concentration of people
+and capital in one place.  Improved communication and transportation also
+implies production for the world market as these new improved means must be
+used.
 
 The *time of purchase* is the time in which capital is in money form and seeks
 to transform itself into productive capital. Here too distance to markets and
 delivery times determine circulation time. Another factor is that sometimes
 commodities can only be bought on specific dates, which lengthens time of
 purchase.
+
+In addition to selling time and time of purchase there is also *transaction
+time*, i.e. the time it takes money to travel.  For example, it takes to process
+a bank transfer.
+
+Both with respect to buying and selling the moment of payment is crucial for
+turnover time. This is a basis for the credit system. The seller wants money
+when she sends her commodities off, the buyer wants to pay when the commodities
+arrive. The time between the two can be bridged by credit.
 
 ### Chapter 15: Effect of Circulation Time on the Magnitude of the Capital Advanced ###
 
@@ -239,7 +248,7 @@ purchase.
 Differences in turnover produce a difference in the annual rate of
 surplus-value, although the absolute mass of surplus value remains the same.
 This result is correct if surplus-value is not accumulated; if accumulation
-takes place then the mass of surplus-value is dependend on the circulation of
+takes place then the mass of surplus-value is dependent on the circulation of
 surplus-value. The speed and success of circulation of surplus-value is hence a
 limit for capital's accumulation.
 
@@ -290,7 +299,7 @@ the same value.  However, the increased capital also produced an increases
 surplus-value, where does the money come from to realise it?
 
 To some extend increased velocity of circulation of circulation can replace
-additional money, otherwise additonal money must be produced. This limits the
+additional money, otherwise additional money must be produced. This limits the
 capitalist mode of production's accumulation to the growth of money production;
 a limit which is overcome by the credit system.
 
