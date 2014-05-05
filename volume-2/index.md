@@ -262,7 +262,7 @@ withdrawing money from circulation by selling without buying.
 How do the two forms of capitalist reproduction — simple reproduction and
 accumulation — affect the realisation of surplus-value?
 
-### 1. Simple Reproduction ##
+#### 1. Simple Reproduction ####
 
 The amount of money necessary to realise the commodities in circulation is
 determined by the laws of simple commodity production (Volume 1, Chapter
@@ -277,7 +277,7 @@ where does the money come from to circulate commodities.  In our case, it is the
 capitalists themselves who provide this money when they — in addition to
 advancing capital — spend money on means of subsistence and luxury items.
 
-### 2. Accumulation and Expanded Reproduction ##
+#### 2. Accumulation and Expanded Reproduction ####
 
 This general result is not affected if production is expanded in the first
 instance.  The capitalist already owns the money now to be invested in
