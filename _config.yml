@@ -3,7 +3,6 @@ tagline: Let us consider the matter more closely
 description: Notes and Commentary on Capital by Karl Marx"
 
 url: https://readingcapital.github.io
-paginate: 10
 
 markdown: kramdown
 permalink: pretty
@@ -26,8 +25,6 @@ links:
     external: true
   - title: Resources
     url: /resources
-    
-include: volume-1
     
 timezone:    Europe/London
 future:      true
