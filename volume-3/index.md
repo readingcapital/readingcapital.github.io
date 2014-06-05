@@ -5,6 +5,11 @@ layout: page
 
 ## Part One: The Transformation of Surplus-Value into Profit, and of the Rate of Surplus-Value into the Rate of Profit ##
 
+The starting point of Volume 3 is a double result: Capital is dependent on
+itself in realising its purpose and provides its own conditions. At the same
+time, capital is a barrier to itself and individual capitals must fit into the
+the reproduction and accumulation of total social capital.
+
 ### Chapter 1: Cost Price and Profit ###
 
 ### Chapter 2: The Rate of Profit ###
