@@ -328,81 +328,109 @@ on a social scale hence determines the reproduction and accumulation of capital.
 
 ### Chapter 18: Introduction ###
 
-#### 1. The Object of the Inquiry ####
-
-#### 2. The Role of Money Capital ####
+The new object is developed: individual capital as part of total social capital.
 
 ### Chapter 19: Former Presentations of the Subject ###
 
-#### 1. The Physiocrats ####
-
-#### 2. Adam Smith ####
-
-##### (a) Smith's General Perspectives #####
-
-##### (b) Smith's Resolution of Exchange-Value into v+s #####
-
-##### (c) The Constant Capital Component #####
-
-##### (d) Capital and Revenue in Adam Smith #####
-
-##### (e) Summary #####
-
-#### 3. Later Writers ####
+This section was intentionally left blank.
 
 ### Chapter 20: Simple Reproduction ###
 
-#### 1. Formulation of the Problem ####
+#### 1. Formulation of the Problem & 2. The Two Departments of Social Production ####
 
-#### 2. The Two Departments of Social Production ####
+The question and the scheme to answer this question are developed: commodity
+capital in each year must suffice for replacement of capital in value and in
+material terms, otherwise there is no simple reproduction. Thus the distinction
+between capitals based on what they produce is introduced. Department I produces
+means of production for $c$ and department II produces means of subsistence for
+$v$ and $m$.
 
 #### 3. Exchange Between the Two Departments: I(v+c) against IIc ####
 
+First new law: constant capital of department II must equal the sum of the $v$
+and $m$ components of department I.
+
 #### 4. Exchange Within Department II. Necessary Means of Subsistence and Luxury Items ####
+
+Second new law: the realisation of the value components $v$ and $m$ of
+department II must happen within that department. The class opposition which
+restricts workers to necessary means of subsistence necessitates a conceptual
+distinction of capitals which produce ordinary means of subsistence (IIa) and
+those which produce luxury items (IIb). The consumption of luxury items by
+capitalists from department IIa is the condition for the reproduction of workers
+in department IIb. The realisation of surplus-value of department IIa is also
+determined by this relationship.
 
 #### 5. The Mediation of t he Exchanges by Monetary Circulation ####
 
+Rejections, relationships and a third law: the reciprocal value realisation of
+the departments is dependent on money expenditures which happen before value
+realisation and return through it. Capitalists speculating on their success and
+their positive verdict about the course of business is a necessary condition for
+this success.
+
 #### 6. The Constant Capital in Department I ####
 
-#### 7. Variable Capital and Surplus-Value in the Two Departments ####
+No new problem for the material and value reproduction of constant capital of
+producers of means of production.  Constant capital in department I is realised
+and reproduced within this department.
 
-#### 8. The Constant Capital in Both Departments ####
+#### 7. Variable Capital and Surplus-Value in the Two Departments, 8. The Constant Capital in Both Departments, 9. A Look Back at Adam Smith, Storch and Ramsay & 10. Capital and Revenue: Variable Capital and Wages ####
 
-#### 9. A Look Back at Adam Smith, Storch and Ramsay ####
-
-#### 10. Capital and Revenue: Variable Capital and Wages ####
+A riddle which concerned economists, a solution and critique of ideology. A
+cause for potential frictions: if the working class lives hand to mouth, then
+capitalists can indulge in luxury spending or safe up. This might assert itself
+against the necessary relationship of exchanges between the departments.
 
 #### 11. Replacement of the Fixed Capital ####
 
-##### (a) Replacement of the Depreciation Component in the Money Form #####
+A fourth law: simple reproduction can only happen if department II wants to buy
+new machinery to the same extend as it hoards in order to buy fixed capital
+later. Such a balance would have to exist in every year which is unlikely due to
+the anarchy of the market. If every year the same is produced in terms of value
+and material then this means crisis.
 
-##### (b) Replacement of the Fixed Capital in Kind #####
+Simple reproduction only exists under constant overproduction, i.e. expanded
+reproduction, which means accumulation must take place. This is the transition
+to the next chapter.
 
-##### (c) Results #####
+#### 12. The Reproduction of the Money Material ####
 
-#### 12. The Reproduction of t he Money Material ####
+Money material is replaced and the possibility of hoarding without disturbing
+the reproduction process exists.
 
 #### 13. Destutt de Tracy's Theory of Reproduction ####
 
+Critique of ideology.
+
 ### Chapter 21: Accumulation and Reproduction on an Expanded Scale ###
 
-#### 1. Accumulation in Department I ####
+The general result of this chapter: accumulation presupposes accumulation.
 
-##### (a) Hoard Formation #####
+* Capitals which hoard in order to expand in the future are dependent on
+  capitals which are expanding now, i.e. those which already successfully
+  hoarded.
 
-##### (b) The Additional Constant Capital #####
+* Accumulation in department I is dependent on accumulation in department II and
+  vice versa. This way capitals produce the material and value conditions for
+  accumulation.
 
-##### (c) The Additional Variable Capital #####
+* This accumulation includes simple reproduction.
 
-#### 2. Accumulation in Department II ####
+* means of subsistence producing capitals must expand in anticipation of
+  expansion elsewhere and must produce commodity hoards which are only realised
+  by workers yet to be hired by department I.
 
-#### 3. Schematic Presentation of Accumulation ####
+* The presentation of the circulation or the process of reproduction of capital
+  not only shows how capital produces, but also how capital is produced.
 
-##### (a) First Example #####
+* The laws developed in Chapters 20 and 21 present themselves as possibilities
+  and limits (up to interruptions) of accumulation or even simple reproduction.
 
-##### (b) Second Example #####
-
-##### (c) The Exchange of IIc in the Case of Accumulation #####
-
-#### 4. Supplementary Remarks ####
-
+The drive to accumulation determines capitalist production. Capital makes simple
+reproduction dependent on the success of accumulation. If an individual capital
+is successful with this or not depends on if it fits into the unity of
+production and circulation process of total social capital. A unity which is
+re-produced by individual capitals — or not. Capital must fix this new criterion
+for the capitalist purpose to the commodity, the link between production and
+circulation. This is how the next volume starts.
