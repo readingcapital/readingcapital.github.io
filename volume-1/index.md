@@ -14,20 +14,22 @@ layout: page
 > with the analysis of the commodity.
 
 The object of the critique of political economy is the systematic development of
-what the wealth of capitalist societies is — the elementary form of which is the commodity.
+what the wealth is in a capitalist societies — the elementary form in which this
+wealth appears is the commodity.
 
 #### [The Two Factors of the Commodity: Use-Value and Value](chapter-01.01-detailed-commentary) ####
 
-A commodity is a thing that is *produced for exchange*. It is use-value and value.
+A commodity is a thing that is *produced for exchange*. It is use-value and
+value.
 
 It is *use-value* because it has the physical properties to satisfy human
 needs. As a use-value it is particular and different from other things.
 
-It is *value* because it is exchangeable against any other commodity – different
-commodities are equated, not in only theory but in practice.  The expression of
-this general quality to be exchangeable expresses itself by exchangeability
-against a particular other commodity. This expression of value is *exchange
-value*.
+It is *value* as a bit of social wealth as such which is exchangeable against
+any other commodity. Different commodities are equated, not in only theory but
+in practice.  The expression of this general quality to be exchangeable as a bit
+of social wealth expresses itself as exchangeability against a particular other
+commodity. This expression of value is *exchange value*.
 
 A commodity is value because human labour is needed to produce it which then is
 used as lever to gain access other products of labour.
@@ -102,9 +104,10 @@ Commodity owners relate to each other through their objects and are subject to
 the economic laws governing their commodities.  They are determined as
 *character masks* of their commodities.
 
-The process of exchange presupposes that the exchangers recognise each other as
-free and equal *persons* – a status guaranteed by the state.  Their power over
-each other is only the power of their commodities.
+The process of exchange presupposes that the exchangers respect each others
+*private property* and each other as proprietors of this property. They must
+acknowledge each other as free and equal *persons* – a status guaranteed by the
+state.  Their power over each other is only the power of their commodities.
 
 Commodity owners cannot cooperatively agree on a money as for each of them their
 own commodities count as immediately value and other commodities as particular
