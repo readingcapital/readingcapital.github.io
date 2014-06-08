@@ -15,20 +15,20 @@ eat, shelter, tools to fix and produce stuff etc. – that is the material wealt
 they need in any society. In this society, however, this material wealth appears
 in commodity form and this particularity is the starting point of the
 analysis. Hence, when Marx writes "appears" it expresses that the content
-“wealth” takes a socially specific form: the commodity.
+“wealth” appears in a specific mode: as the commodity.
 
-To avoid pre-empting the remainder of this chapter, we must for now rely on a
+To avoid anticipating the remainder of this chapter, we must for now rely on a
 superficial dictionary style definition of what we mean when we say
 “commodity”. In economics, in particular around the time when Marx was writing,
 a commodity is something which is produced for sale or exchange.[^1]
 
-This first definition of a commodity points to the quality of this wealth which
-takes a particular form under the capitalist mode of production that it needs to
-be produced. The things people consume must be produced first and somehow
-production must be related to consumption, i.e. needs and wants. As a feature of
-any division of labour this cannot change. What can change, though, is how this
-“coordination” is accomplished, the social form. Or as Marx put it in response
-to his critics:
+This first definition of a commodity points to the attribute of the wealth under
+consideration here that it needs to be produced. It consists of products of
+labour. The things people consume must first be produced and somehow production
+must be related to consumption: what is produced for whom, who produces it and
+how. By definition this is a feature of any division of labour and cannot
+change. What can change, though, is how this “coordination” is accomplished, the
+social form. Or as Marx put it in response to his critics:
 
 “Every child knows that any nation that stopped working, not for a year, but let
 us say, just for a few weeks, would perish. And every child knows, too, that the
@@ -41,103 +41,156 @@ cannot be abolished at all. The only thing that can change, under historically
 differing conditions, is the form in which those laws assert themselves.”[^2]
 
 How these laws assert themselves and what additional laws assert themselves if
-the wealth of societies appears in commodity form is the subject of this book.
+the wealth of societies appears in commodity form is the subject of
+investigation.
 
-Marx’s starting point is rather different from modern economics. Its starting
-point is management of scarce resources in general: “Economics … studies the
-behavior of individuals, households, and organizations …, when they manage or
-use scarce resources, which have alternative uses, to achieve desired ends.”[^3]
+Marx’s starting point is rather different from modern economics. The starting
+point of modern economics is management of scarce resources in general:
+“Economics … studies the behavior of individuals, households, and organizations
+…, when they manage or use scarce resources, which have alternative uses, to
+achieve desired ends.”[^3]
 
-1. Marx’s starting point is *wealth* not scarcity. The fundamental claim of
-   current modern — i.e. neoclassical – economics is scarcity. Scarcity is a
-   category of relation: there is not enough coffee at some seminar for all to
-   drink enough coffee to stay awake. It is a relation of how much stuff there
-   is vs. how much someone wants for some purpose. Yet, in modern economics
-   stuff is scarce regardless of the need that confronts it. Consequently, when
-   these economists start with scarcity the do not consider the actual
-   shortcomings around them or even rack their brains how to overcome them,
-   e.g. “there aren’t enough iPods, how do we make more?” Instead, they simply
-   require scarcity as such as the first category of their economics. Because of
-   this requirement, they also completely disregard production to make their
-   case. Of course, there are things of which there is only a limited
-   supply. But of many things more can be produced and this fact is disregarded
-   in modern economics when scarcity as such is assumed. For example, Thomas
-   Sowell explains scarcity using beach-front homes, i.e. something which is
-   thought of as limited by its location. Modern economics advertises a
-   particular way of organising production and consumption – i.e. the capitalist
-   mode of production – and starts off with disregarding production. Another
-   common argument for this is that in a dessert a glass of water would be a lot
-   more valuable than in modern London. In a desert somebody would give
-   everything for a glass of water. Firstly, this nicely expresses the
-   antagonistic character of exchange, the owner of water would demand
-   everything from a thirsty person — satisfaction of needs as purpose my ass.
-   Secondly, the task is to explain the capitalist mode of production with its
-   immense collection of commodities on the market and not a single exchange
-   relation in a dessert where there is no market. Under capitalism no need is
-   not fulfilled just because something is scarce. If I own enough to exchange I
-   can fly to space or own as many planes as I want. Things are not simply
-   scarce in capitalism, they are simply not produced for those who cannot offer
-   an equivalent in exchange.
+1. Marx’s starting point is an immense collection of *wealth* not scarcity.  The
+   fundamental claim of current modern — i.e. neoclassical – economics is
+   scarcity. What does scarcity — "there is not enough" — mean?  For example,
+   say there is not enough coffee at some seminar for all to drink enough coffee
+   to stay awake. Scarcity is a relation of how much stuff there is vs. how much
+   someone wants for some purpose; scarcity is a category of a relation between
+   stuff and need. Scarcity always relates something to a need or desire for
+   it. It does not make sense to say there is not enough coffee, but we have to
+   say "not enough for what?"  Yet, in modern economics stuff is defined as
+   scarce regardless of the need that confronts it. Consequently, when these
+   economists start with scarcity they do not consider the actual shortcomings
+   around them or even rack their brains how to overcome them, e.g. “there
+   aren't enough iPods so we can all listen to Sting at the same time, how do we
+   make more?”  Instead, they simply require and posit scarcity as such as the
+   first category of their economics. Because of this notion of scarcity, they
+   also completely disregard production to make their case. Of course, there are
+   things of which there is only a limited supply. But of many things more can
+   be produced and this fact is disregarded in modern economics when scarcity as
+   such is assumed. For example, Thomas Sowell explains scarcity using
+   beach-front homes, i.e. something which is thought of as limited by its
+   location, i.e. it is thought that you cannot make more.  Another common
+   example is that in a dessert a glass of water would be a lot more valuable
+   than in modern London. In a desert somebody would give everything for a glass
+   of water because it is so scarce, you cannot make more. However, the object
+   of investigation is the capitalist mode of production with its "immense
+   collection of commodities" on the market and not a single exchange relation
+   in a dessert where there is no market and no production for the market.
+   Under capitalism no need is not fulfilled just because something is scarce
+   per se. If I own enough to exchange I can fly to space or own as many beach
+   front homes and glasses of water as I want. Modern economics investigates and
+   advertises a particular way of organising production and consumption –
+   i.e. the capitalist mode of production – and starts off with disregarding
+   production to introduce its first premise: scarcity.
 
-2. Marx’s starting point is the particularity of the *capitalist* mode
-   production; modern economics, on the other hand, claims to be not specific to
-   this society. It claims to study the use of scarce resources as
-   such. Therewith, these authors miss the observation with which Marx starts.
+2. Marx’s starting point is the particularity of the capitalist mode
+   production. The commodity form is a *particular* form in which wealth appears
+   and is to be investigated as such: what is the commodity? Modern economics,
+   on the other hand, claims to not to be specific to this society.  It claims
+   to study the use of scarce resources in general and posits that the market is
+   the most efficient mechanism for dealing with scarcity. They do not
+   investigate the particular social form that they deal with but posit from the
+   beginning that it is best; they do not study what actually exists but start
+   from a positive verdict which they want to justify.  Therewith, these authors
+   miss the observation with which Marx starts.
 
 > the individual commodity appears as its elementary form. Our investigation
 > therefore begins with the analysis of the commodity.
 
-Yet, this appearance of material wealth in the commodity form is the starting
-point of the analysis, not its end.[^17] With the observation that wealth takes
-a particular form, we are not done, we are just getting started. Marx project is
-to start from the simple observation and to proceed to the explanation. Marx
-attempts a systematic development — from elementary to developed — of political
-economy in capitalism, not a list of observations.
+The appearance of material wealth in commodity form is the starting point of the
+analysis, not its end.[^17] With the observation that wealth takes a particular
+form, we are not done, we are just getting started. Marx's project is to start
+from a simple observation and to proceed to the explanation. Marx attempts a
+systematic development — from elementary to developed — of political economy in
+capitalism, not just a list of observations.
 
 We should take this project seriously and ask ourselves in every step how (if at
 all) it followed from the last and should avoid the temptation to use results
 that we anticipate later in the book to account for a claim made in the
 beginning. The arguments developed later presuppose the elementary categories
-and arguments developed in the beginning and cannot be used to explain them in
-restrospect.
+and arguments developed in the beginning and cannot be used to explain those
+elementary arguments in retrospect.
 
-> The commodity is, first of all,[^4] an external object, a thing which through
-> its qualities satisfies human needs of whatever kind. The nature of these
-> needs, whether they arise, for example, from the stomach, or the imagination,
-> makes no difference. Nor does it matter here how the thing satisfies man’s
-> need, whether directly as a means of subsistence, i.e. an object of
-> consumption, or indirectly as a means of production.
+> The commodity is, at first,[^4] an external object, a thing which through
+> its qualities satisfies human needs of whatever kind.
 
 Following his predecessors[^5] Marx here clarifies that he means *material
-wealth* when he speaks of wealth: stuff that is useful to us. It is a fun
-discussion if services like hair cuts are covered by this definition or not, but
-that discussion is better reserved for later. For now, we should think of
-material wealth when Marx talks of the wealth which takes commodity form.
+wealth* when he speaks of wealth. He speaks of *objects* that are useful to us.
+
+There are other things that might come to mind when we think of wealth in
+general which do not seem to be covered by this definition: "services". Does a
+haircut belong here? How about a train ride from London to Glasgow? How about a
+conversation? These examples are not discussed here.  For now, we should think
+of material objects when Marx talks of the wealth which takes commodity
+form. Perhaps it is helpful to realise that all these "services" rely on
+material objects themselves to be performed (scissors, trains, …).
+
+It is useful to think about "services" in order gain some clarity what the
+object under consideration is. It is also useful to distinguish why these
+"services" do not fall under consideration here. The "service" haircut produces
+a material result, but maybe not an external object. The "service" legal
+counselling does not produce such an immediate material result. Marx's
+restriction to material objects should be noted and how these different
+"services" fit into what is being discussed here is a discussion that can and
+should be had at a later point of the investigation. However, one cannot reject
+this restriction on the grounds that one can think of other aspects, such as
+"services", not being covered.
 
 With "first of all" is expressed that what follows is not the final word on the
 commodity. At this stage of the argument we may think of the commodity simply as
-material wealh, i.e. we may ignore its specific social form as a commodity. This
-will be considered in a few paragraphs, but whatever the social form is, it
-cannot undo the general results that apply to material wealth as such.
+material wealth, i.e. we may ignore its specific social form as a commodity: it
+is produced for exchange.  This form will be considered in a few paragraphs, but
+whatever the social form is, it does not mean it is not material wealth.
 
-What can be observed at this level already is that neither for the market nor
-for the scientific investigation does it matter why someone wants something.
-Important is – for now – only that she wants that thing. This implies that in a
-society where commodities are produced and exchanged a certain level of
-abundance must have been achieved. If the production of food is the foremost
-question since people just about manage to produce enough in order not to starve
-being subject to somebody's whim would not be the way in which production,
-distribution and consumption of food would be organised for long. This economy
-is not dominated by nature imposed scarcity but there is freedom to decide what
-wealth to produce for what purpose.
+> The nature of these needs, whether they arise, for example, from the stomach,
+> or the imagination, makes no difference.
+
+Marx states that it does not matter why someone wants something.  Important is –
+for now – only that she wants that thing. He does not make this claim to express
+a personal preference, taking a position on whether there should be "essential"
+desires and "artificial" ones. This distinction which many people think about
+when they think about needs and desires is not what Marx comments on
+here. Instead, he is concerned with understanding the capitalist mode of
+production. He observes that on the market it does not make a difference why
+someone wants a particular commodity. The statement is a scientific statement,
+not a judgement how something should be.
+
+This indifference towards why someone wants something requires that a certain
+level of abundance must have been achieved. If the production of food is the
+foremost question since people just about manage to produce enough in order not
+to starve being subject to somebody's whim would not be the way in which
+production, distribution and consumption of food would be organised for
+long. For example, assume that in a given society producers just about manage to
+produce enough wheat to feed producers for the next year so they can produce
+wheat and other useful objects for the year after. In this society using wheat
+to build a flour pool in analogy to Scrooge McDuck's money pool would undermine
+the reproduction of the whole society, it would cease to exist.  The societies
+under consideration here are not dominated by nature imposed scarcity but there
+is freedom to decide what wealth to produce for what purpose.
+
+> Nor does it matter here how the thing satisfies man's need, whether directly
+> as a means of subsistence, i.e. an object of consumption, or indirectly as a
+> means of production.
+
+Useful objects can be used in individual consumption where they are consumed and
+that's it. They can also be used in productive consumption where they are used
+as means to produce other useful objects. For example, wood is chopped and
+either used to heat a home or used to make a chair. So this "coordination" of
+production and consumption does not only relate production to consumption in the
+sense that stuff that is consumed must be produced. It also relates production
+to its own means: for production the means of production must be produced first.
 
 > Every useful thing, for example, iron, paper, etc., may be looked at from the
 > two points of view of quality and quantity.
 
 A particular thing satisfies a particular need, not any need. If I’m hungry I
 want ice cream not chairs. From this perspective things are very much not
-interchangeable, they are of different qualities. Also, I do not want ice cream
-as such but some quantity of ice cream.
+interchangeable, they are of different qualities. When Marx writes "quality" he
+does not mean "good" and "bad quality", but quality as in particular properties.
+
+Also, I do not want ice cream as such but some quantity of ice cream. These
+statements will be explained more below.
 
 > Every useful thing is a whole composed of many properties; it can therefore be
 > useful in various ways. The discovery of these ways and hence of the manifold
@@ -145,18 +198,33 @@ as such but some quantity of ice cream.
 
 “Usefulness” is an expression of a relation between someone’s desire or need and
 the physical properties of some external object. Discovering applications for
-things is a historical process, e.g. the discovery that magnets can be used to
-point north.
+things is a historical process. For example this means discovering that magnets
+can be used to point north. But this also means to discover that wood can be
+turned into paper which then satisfies an entirely different need than wood. By
+"work of history" is expressed that this knowledge must be acquired once and can
+then be passed on to others, who do not have to rediscover it independently for
+themselves.
 
 > So also is the invention of socially recognized standards of measurement for
 > the quantities of these useful objects. The diversity of the measure for
-> commodities arises in the from the diverse nature of the objects to be
+> commodities arises in part from the diverse nature of the objects to be
 > measured, and in part from convention.
 
-According to the quality of a certain thing, we count it in a particular way,
-e.g. we usually do not count chairs in weight but simply number them when we
-are concerned with their usefulness for sitting on them. Even how we quantify
-different things differs between them.
+We count things in particular ways according to their qualities.  For example,
+we usually do not count chairs in weight but simply number them when we are
+concerned with their usefulness for sitting on them. We count flour in weight,
+we might count water sometimes in weight and sometimes in volume, depending on
+how we look at it. Sometimes the choice of quantifying in volume instead of
+weight comes down to convention. Always down to convention is how we express
+length, weight etc. If we use the metric system or imperial is a question of
+convention.
+
+Overall, we do not say 12 water but 12 litres or 12 kilograms of water, but we
+do say 12 chairs, because chairs are of such a quality that this makes
+sense. Even how we quantify different things (chairs, wheat) differs between
+them (weight, lengths, counting, volume).
+
+
 
 > The usefulness of a thing makes it a use-value. But this usefulness does not
 > dangle in mid-air. It is conditioned by the physical properties of the
@@ -166,93 +234,104 @@ different things differs between them.
 
 A thing is useful because of its physical properties: the relation between me
 and the thing requires specific properties in the thing. Things must be organic
-to be edible for example.  It might take history to discover that certain
-mushrooms are edible but it is their physical properties which allows to
+to be edible for example.  It might be a human activity that discovers that
+certain mushrooms are edible but it is their physical properties which allows to
 discover this. Mushrooms have the capacity to be edible because of their
 particular physical, chemical, etc. properties. All possible uses have the
 physical properties in common: "One and the same use-value can be used in
 various ways. But the extent of its possible application is limited by its
 existence as an object with distinct properties."[^19] Usefulness is grounded in
 particular qualities of a thing and these qualities make it a useful thing.[^6]
+Marx here defines "useful thing" and "use-value" as synonyms.
 
 > This property of a commodity is independent of the amount of labour required
 > to appropriate its useful qualities.
 
-Earlier we determined material wealth as useful objects which are products of
-labour. However, considered purely as a useful object the amount of labour
-required to produce them is irrelevant. A piece of wood I found on the street is
-as useful as a piece of wood for which I had to chop a tree. When we find a
-faster ways of producting coats, we can produce more coats in the same
-time. Yet, a coat still keeps you warm the same. Use-value is a category of
-consumption, not of production.
+Earlier we determined material wealth as useful objects which are produced,
+i.e. products of labour. However, considered purely as a useful object the
+amount of labour required to produce them is irrelevant. A piece of wood I found
+on the street is as useful as a piece of wood for which I had to chop a
+tree. When we find faster ways of producing coats, we can produce more coats in
+the same time. Yet, a coat still keeps you warm the same. Use-value is a
+category of consumption, not of production.
 
 > When examining use-values, we always assume we are dealing with definite
 > quantities, such as dozens of watches, yards of linen, or tons of iron.
 
-Things always come in a quantity, there are not watches, but some given quantity
-of watches.
-
-Furthermore, to realise the qualities of use-values a certain quantity is
-necessary and sufficient: With one grain of wheat I cannot eat my fill. For a
-two person household usually one fridge is sufficient, four are usually too many
-for this purpose. To make use of a certain quality it needs to be available in a
-certain quantity. One brick is not enough to build a house, 1 billion is too
-much. One grain of rice is too little for a meal, 100g perhaps about
-adequate. Put differently, to build a house one does not want bricks, many
-bricks or more bricks. One wants however many bricks it takes to build a house:
-definitely a definite quantity.
+To realise the qualities of use-values a certain quantity is necessary and
+sufficient: With one grain of wheat I cannot eat my fill. For a two person
+household usually one fridge is sufficient, four are usually too many for this
+purpose. To make use of a certain quality it needs to be available in a certain
+quantity. One brick is not enough to build a house, 1 billion is too much. One
+grain of rice is too little for a meal, 100g perhaps about adequate. Put
+differently, to build a house one does not want bricks, many bricks or more
+bricks. One wants however many bricks it takes to build a house: definitely a
+definite quantity.
 
 Even if we do not know much many bricks it takes to build a house or how much
 pasta it takes to fill us up, the actual task itself determines this
 quantity. Our ignorance does not change this.
 
 > The use-values of commodities provide the material for a special branch of
-> knowledge, namely the commercial knowledge of commodities. Use-values are only
-> realized in use or in consumption. They constitute the material content of
-> wealth, whatever its social form may be.  In the form of society to be
-> considered here they are also the material bearers of … exchange-value.
+> knowledge, namely the commercial knowledge of commodities.
 
-When we consider commodities as use-values we consider them as material wealth,
-i.e. we consider their content not their form, but it is their commodity form
-which is specific to the capitalist mode of production.  Consequently, the
-use-value side or usefulness is not how to proceed. While use-values will play a
-role later during the investigation, we cannot derive the particularity of the
-commodity from use-value. Material wealth is use-values without existing as
-commodities.
+Studying all the various use-values is of practical importance, even
+economically. However, this is a separate body of knowledge from understanding
+the commodity.
+
+> Use-values are only realized in use or in consumption.
 
 Use-values realise their potential to satisfy human needs when they are
 consumed. The realisation of use-values also extinguishes them. This is palpable
-when we consider things like food or petrol. However, even brick houses wear
-out. Some objects might wear out regardless of if we use them and some objects
-might take ages to show signs of wear and tear, but using them always wears them
-out. Hence, they need to be produced anew if we want to continue consuming
-them. In all societies people need to eat and in all possible social
-organisations people need to work to produce the stuff to consume. This cannot
-change, as pointed out above. What can change, however, is the social form in
-which consumption is related to production. One such form is the market which
-makes exchange-value a particular social quality of wealth in societies where
-the capitalist mode of production prevails.
+when we consider things like food or petrol, which are immediately extinguished
+when we consume them. Other objects are not immediately extinguished when we
+consume them, but they wear out more slowly, they die a slow death so to
+speak. Hence, there is a continuous need to produce and reproduce commodities
+under all social organisations of production and consumption.[^23]
+
+> They constitute the material content of wealth, whatever its social form may
+> be.  In the form of society to be considered here they are also the material
+> bearers of … exchange-value.
+
+Recall that in the first sentence the object was defined as the particular form
+of wealth as it appears in capitalist societies. We then moved on to studying
+the content of this wealth, the commodity's body considered as a useful
+object. But it is their commodity form which is specific to the capitalist mode
+of production. Consequently, the use-value side or usefulness is not how to
+proceed. While use-values will play a role later during the investigation, we
+cannot derive the particularity of the commodity from use-value. Material wealth
+consists of useful objects without appearing in commodity form.
+
+In all societies people need to eat and in all possible social organisations
+people need to work to produce the stuff to consume. This cannot change, as
+pointed out above. What can change, however, is the social form in which
+consumption is related to production. One such form is the market which makes
+exchange-value a particular social quality of wealth in societies where the
+capitalist mode of production prevails.
 
 > Exchange-value appears first of all as the quantitative relation, the
-> proportion, in which use-value of one kind exchange for use-values of another
+> proportion, in which use-values of one kind exchange for use-values of another
 > kind.
 
 For now, exchange-value appears as a relation between two use-values. If one can
 get two chairs for one ton of apples, then two chairs are the exchange-value of
 one ton of apples. By "one kind" is expressed that the next ton of apples also
-gets one two chairs — if the apples are of the same kind. Exchange-value is not
-a property of a particular batch of apples, but every ton of apples has this
-property. With "relation" is expressed that e.g. two tons grant access to four
-chairs. This might seem trivial and self-evident but it is not: one could say,
+gets two chairs — if the apples are of the same kind. Exchange-value is not a
+property of a particular batch of apples, but every ton of apples has this
+property.
+
+With "relation" is expressed that not only one ton gives access to 2 chairs but
+that e.g. two tons grant access to four chairs. Exchangeability is not bound to
+one ton. This might seem trivial and self-evident but it is not: one could say,
 for example, we want everybody to be able to get chairs, so as you buy more and
 more chairs they become more and more expensive (measured in apples) or,
 alternatively, one cannot even buy more than two chairs, full stop. But this is
-clearly not how this society exchanges. From this we might conclude that it is a
-quality of apples to be exchangable for chairs.
+clearly not how this society exchanges. From this we might conclude that in this
+society it is a quality of apples to be exchangeable for chairs.
 
 If one takes this standpoint and considers exchange-value as a property of the
 commodity (an assumption which will be corrected in the following) then apples
-are determined "exchangable for chairs" which we might also express as "means to
+are determined "exchangeable for chairs" which we might also express as "means to
 access chairs" or "chair access resources". While the use-value of apples is
 their quality to satisfy hunger and appetite, exchange-value — as far as we have
 determined it so far – as a property of apples means one can get access to
@@ -328,10 +407,10 @@ An analogy: say Elizabeth is in a position of authority towards Alice.  We could
 say that this is due to the special relation between Elizabeth and Alice or by
 chance. However, let's say Elizabeth is also in a position of authority towards
 Bob, Charley, Eve. In fact, let's assume Elizabeth is in a position of
-authority towards everybody else. Each of these paricular relations of command
+authority towards everybody else. Each of these particular relations of command
 and servitude are merely particular modes of expression of Elizabeth's power to
 rule. At the same time Alice, Bob, Charley, Eve, etc. are all mutually
-replacable, they are all Elizabeth's subjects and count as particular
+replaceable, they are all Elizabeth's subjects and count as particular
 expressions of this.
 
 Relative to those arguments above against the objective theory of value, we
@@ -339,7 +418,7 @@ hence have to say: while the definite proportions and quantities might change,
 what remains is the quality of apples to access chairs. Furthermore, the
 relations between apples and other commodities might change as well, but what
 remains is the quality of apples to be exchangeable for them.  Quantitatively a
-lot might change, but the quality of the apple to be exchangable for, to grant
+lot might change, but the quality of the apple to be exchangeable for, to grant
 access to, any part of social wealth — given enough apples — remains. What gives
 apples this power?
 
@@ -367,7 +446,7 @@ access but relate to each other as *equal*. Chairs access apples because apples
 access chairs, and vice versa.
 
 In exchange the chair recognises our apples as a bit of social wealth, too.
-This answers the question of what gives our apples the power to be exchangable
+This answers the question of what gives our apples the power to be exchangeable
 for any other bit of social wealth: they are a bit of social wealth themselves.
 Apples are means of access to a bit social wealth because they *are*. Commodity
 exchange means that any particular bit of social wealth counts as a greater or
@@ -423,7 +502,7 @@ different use-values then the statement that a bicycle would be more useful than
 lunch is pretty absurd. If I am hungry a bicycle does not help, if I want to get
 from A to B lunch is of no help.
 
-However, for many people these alternatives, comparisions and quantifications
+However, for many people these alternatives, comparisons and quantifications
 appear as rather straight-forward. They think about their day-to-day life and
 there such questions appear quite often … due to limited spending power: "Do I
 treat myself to a good meal and don't go to the pub or vice versa?" However,
@@ -431,7 +510,7 @@ when asking this question we already compares the amount of our money with the
 price of the two things we would enjoy doing. We come to the conclusion that
 these magnitudes do not match up and hence we have to limit ourselves. Only
 after we compared the respective magnitudes we arrive at limiting our needs and
-desires. Only after this step we make the absurd but forced upon ourself
+desires. Only after this step we make the absurd but forced upon ourselves
 comparison: what can I do without. This way the daily struggle appears as if the
 exchange relations were determined by use-values or our own individual needs and
 desires.
@@ -522,8 +601,8 @@ By producing a chair, a use-value, carpentering is concrete. By producing a
 chair which has exchange-value carpentering produces social wealth as such. The
 chair as social wealth as such is not the chair as the use-value, that's what
 makes it special, different from houses and wool. The social-wealth-as-such
-producing side of housebuilding does not consist in connecting bricks by
-cement. The social-wealth-as-such forming side of carpentering, housebuilding,
+producing side of house-building does not consist in connecting bricks by
+cement. The social-wealth-as-such forming side of carpentering, house-building,
 cheese making is that labour as such was performed.
 
 When producers produce commodities they not only produce particular useful
@@ -551,7 +630,7 @@ the relevant social property of wealth as such; instead, this requires
 particular social relations in which labour is performed. Put differently, it's
 not a quality of labour to produce value but a quality of the market to reduce
 labour to homogeneous human labour.[^10] The physiological equality of all
-labor, that there actually is a commonality in labour, is the material basis,
+labour, that there actually is a commonality in labour, is the material basis,
 the condition, for the social relation of abstract labour, but it is not that
 social relation itself. The fact that all labours are the expenditure of human
 labour makes it possible for society to treat all labours as equal, but is by
@@ -725,19 +804,19 @@ side of socially necessary is discussed in chapter 3.
 > all commodities are merely definite quantities of congealed labour-time.’
 
 That the determination of average labour performance asserts itself across
-branches can be explained as follows. Let the average output of yoghurt producer
-per day be 10 litres of yoghurt. Now, a chair producer, say, realises she could
-produce 20 litres of yoghurt per working day. She hence switches branches. This
-pushes up the average in the production of yoghurt. Let’s assume further her
+branches can be explained as follows. Let the average output of yogurt producer
+per day be 10 litres of yogurt. Now, a chair producer, say, realises she could
+produce 20 litres of yogurt per working day. She hence switches branches. This
+pushes up the average in the production of yogurt. Let’s assume further her
 market share is small and the average hence remains relatively low, i.e., the
-increase is hardly noticeable and 10 litres of yoghurt have the same value as 2
+increase is hardly noticeable and 10 litres of yogurt have the same value as 2
 chairs. Our skilled branch switcher hence produced twice as much value as before
 when producing chairs. Other producers from other industries will notice this:
-if they switch to yoghurt they can produce much more value in a day than if they
+if they switch to yogurt they can produce much more value in a day than if they
 stick with chairs or whatever they are making. More and more will switch to
-yoghurt and role up the market: the average increases. The eventual result will
-be that 20 litres of yoghurt will be the average output of one day of yoghurt
-production. Now, if the chair production did not change, 20 litres of yoghurt
+yogurt and role up the market: the average increases. The eventual result will
+be that 20 litres of yogurt will be the average output of one day of yogurt
+production. Now, if the chair production did not change, 20 litres of yogurt
 are now worth as much as 2 chairs.
 
 The indifference towards the particular branch of industry, which is in the
@@ -777,7 +856,7 @@ labour-time asserts itself across branches.
 
 The productivity of labour is a determination of concrete, useful labour. It
 expresses efficiency by stating how many goods can be produced per time. The
-more skilful a labourer the more goods she can produce per hour. Using the right
+more skillful a labourer the more goods she can produce per hour. Using the right
 tools – means of production – one can increase the productivity of labour
 enormously. Using a wedge can increase how much one can lift, using a basket
 allows one to transport a lot more stuff than not using one. Nature, too, can
@@ -893,7 +972,7 @@ useful to others, but not only useful to others in some way, but useful to
 others who can and do recognise it as a bit social wealth as such in
 exchange. Only products of private producers who produce for exchange confront
 each other as value-determined commodities. Things which are not produced for
-exhange do not have value and neither do things which are not products of labour
+exchange do not have value and neither do things which are not products of labour
 but are exchanged on the market.
 
 ---
@@ -911,7 +990,8 @@ but are exchanged on the market.
 [^3]: Wikipedia Entry on "Economics", [https://en.wikipedia.org/wiki/Economics](https://en.wikipedia.org/wiki/Economics),
     last accessed: June 2014.
 
-[^4]: Correction of the translation: “first of all” → “at first”
+[^4]: Fowkes has "first of all" here, but "at first" is the correct translation
+    (cf. Hans Ehrbar's translation).
 
 [^5]: “To begin with, a commodity, in the language of the English economists, is
     ‘any thing necessary, useful or pleasant in life,’ an object of human wants”
@@ -988,7 +1068,7 @@ but are exchanged on the market.
     a capitalist society is expressed by it being mentioned in the first rather
     than the last sentence of Capital. However, many commentators only pick up
     on the distinction between essence and appearance or turn it into one of
-    truth and false semblence: "But notice something about the language.
+    truth and false semblance: "But notice something about the language.
     'Appears' occurs twice in the passage, and, plainly, 'appears' is not the
     same as 'is.' The choice of this word - and watch out for it, because Marx
     makes frequent use of it throughout Capital - signals that something else is
@@ -1003,8 +1083,16 @@ but are exchanged on the market.
 [^19]: Karl Marx, "A Contribution to the Critique of Political Economy",
     International Publishers, New York, 1987, p. 269
 
-[^20]: cf. Hans G. Ehrbar, "Annotations to Karl Marx’ Capital Volume 1", p. 39
+[^20]: cf. Hans G. Ehrbar, "Annotations to Karl Marx' Capital Volume 1", p. 39
 
 [^22]: cf. Critisticuffs, "A Companion to David Harvey's Companion to Marx'
     Capital, Chapter 1" available at
     [https://critisticuffs.org/texts/david-harvey/](https://critisticuffs.org/texts/david-harvey/).
+
+[^23]: That some objects wear out even when we do not use them, is no counter
+    argument to this claim. The claim is not that only consumption wears out
+    objects, but that whatever else might cause it, consumption does so,
+    too. That some objects wear out so slowly that we can pretty much ignore it
+    from a practical standpoint also does not constitute a counter argument to
+    the claim that continuous production and reproduction is necessary for a
+    society to survive.
