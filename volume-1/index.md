@@ -17,7 +17,7 @@ The object of the critique of political economy is the systematic development of
 what the wealth is in a capitalist societies — the elementary form in which this
 wealth appears is the commodity.
 
-#### [The Two Factors of the Commodity: Use-Value and Value](chapter-01.01-detailed-commentary) ####
+#### The Two Factors of the Commodity: Use-Value and Value ####
 
 A commodity is a thing that is *produced for exchange*. It is use-value and
 value.
