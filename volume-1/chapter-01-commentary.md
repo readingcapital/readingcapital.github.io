@@ -10,44 +10,44 @@ layout: page
 > prevails appears as an ‘immense collection of commodities’; the individual
 > commodity appears as its elementary form.[^1]
 
-Marx starts with what “appears”, something taken from observation.  However, how
-something appears does not necessarily match how it is, it's jut how that what
-is appears. Just because the wealth appears as a collection of commodities does
-not mean that commodities are the wealth of societies in which the capitalist
-mode of production prevails. Marx project is to start from the simple
-observation and to proceed to the explanation.
+In the first sentence Marx defines the object of analysis. He studies wealth as
+it appears in capitalist societies. One might object that the wealth of
+societies actually presents itself as the GDP or as debt or as money or …
+However, here the starting point is much more simple: people need and want to
+eat, shelter, tools to fix and produce stuff etc. – that is the material wealth
+they need in any society. In this society, however, this material wealth appears
+in commodity form and this particularity is the starting point of the
+analysis. Hence, when Marx writes "appears" it expresses that the content
+“wealth” appears in a specific mode: as the commodity.
 
-In his first sentence Marx defines the object of his analysis. He studies the
-wealth of societies in which the capitalist mode of production prevails. One
-might argue that actually the wealth of societies presents itself as the GDP or
-as debt or as money or … .  However, here the starting point is much more
-simple: people need to eat, shelter etc. – that is the *material* wealth they need
-in any society. Which form does it take here? Commodity form!
+To avoid anticipating the remainder of this chapter, we must for now rely on a
+superficial dictionary style definition of what we mean when we say
+“commodity”. In economics, in particular around the time when Marx was writing,
+a commodity is something which is produced for sale or exchange.
 
-So, he studies the properties of material wealth in this society. This is
-different from how economists usually proceeds. Modern economics starts from
-scarcity not wealth. The fundamental claim of current bourgeois – i.e.,
-neoclassical – economics is scarcity. Marx insists that something particular is
-happening if on the one hand people can produce enough stuff that other people
-who don’t produce stuff can eat and on the other hand people go hungry. This
-points to a social particularity not to scarcity in general.
+This first definition of a commodity points to the attribute of the wealth under
+consideration here that it needs to be produced. It consists of products of
+labour. The things people consume must first be produced and somehow production
+must be related to consumption: what is produced for whom, who produces it and
+how. By definition this is a feature of any division of labour and cannot
+change. What can change, though, is how this "coordination" is accomplished, the
+social form. Or as Marx put it in response to his critics:
 
-Finally, in this first sentence Marx clarifies that the object of this book is
-not what many people associate with Marxism: a philosophy of history as such. In
-this work the object is the wealth of societies in which the capitalist mode of
-production prevails. Nothing more but also nothing less. Also, the first three
-chapters which deal with simple commodity circulation are not meant as an
-idealistic picture of how society could be or has been – but as an account of
-this society. Hence, in this book Marx starts much more limited than both
-bourgeois economics and what people believe to be Marxism: he studies the
-commodity.
+“Every child knows that any nation that stopped working, not for a year, but let
+us say, just for a few weeks, would perish. And every child knows, too, that the
+amounts of products corresponding to the differing amounts of needs demand
+differing and quantitatively determined amounts of society’s aggregate
+labour. It is self-evident that this necessity of the distribution of social
+labour in specific proportions is certainly not abolished by the specific form
+of social production; it can only change its form of manifestation. Natural laws
+cannot be abolished at all. The only thing that can change, under historically
+differing conditions, is the form in which those laws assert themselves.”[^7]
+
+How these laws assert themselves and what additional laws assert themselves if
+the wealth of societies appears in commodity form is the subject of
+investigation.
 
 ### Use-Value
-
-By wealth he – following his predecessors – means material wealth: stuff that is
-useful to us. Commodity here ought to be understood as something which is
-produced for sale or exchange. What Marx starts from is: how does the bread
-arrive at the person who eats it?
 
 A particular thing satisfies a particular need, not any need. If I'm hungry I
 want bread not chairs. From this perspective things are very much not
@@ -66,88 +66,100 @@ society.
 > bearers of … exchange-value.
 
 In all societies people need to eat and in all possible social organisations
-people need to work to produce the stuff to consume. This cannot change. What
-can change on the other hand is the social form in which consumption is related
-to production. One such form is the market which makes exchange-value a
-particular social quality of wealth in societies in which the capitalist mode of
-production prevails.
+people need to work to produce the stuff to consume. This cannot change, as
+pointed out above. What can change, however, is the social form in which
+consumption is related to production. One such form is the market which makes
+exchange-value a particular social quality of wealth in societies where the
+capitalist mode of production prevails.
 
 > 126:2 Exchange-value appears first of all as the quantitative relation, the
 > proportion, in which use-value of one kind exchange for use-values of another
 > kind.
 
 For now, exchange-value appears as a relation between two use-values. If one can
-get two chairs for a metric ton of apples, then two chairs are the
-exchange-value of one metric ton of apples. By “one kind” is expressed that the
-next metric ton of apples also gets one two chairs – if the apples are of the
-same kind. Exchange-value is not a property of a particular batch of apples, but
-every set of apples has this property.  With “relation” is expressed that e.g.,
-two metric tons grant access to four chairs.
+get two chairs for one ton of apples, then two chairs are the exchange-value of
+one ton of apples. By "one kind" is expressed that the next ton of apples also
+gets two chairs — if the apples are of the same kind. Exchange-value is not a
+property of a particular batch of apples, but every ton of apples has this
+property.
 
-If one takes exchange-value as a property of the commodity (an assumption which
-will be corrected in the following) then apples are determined as “means to
-access chairs” or “chair access resources” (both of which are ways to say
-“Zugriffsmittel” in English). While the use-value of apples is their quality to
-appease hunger, their exchange-value – as far as we have determined it so far –
-as a property of apples is to get access to chairs.
+If one takes this standpoint and considers exchange-value as a property of the
+commodity (an assumption which will be corrected in the following) then apples
+are determined "exchangeable for chairs" which we might also express as "means to
+access chairs" or "chair access resources". While the use-value of apples is
+their quality to satisfy hunger and appetite, exchange-value — as far as we have
+determined it so far – as a property of apples means one can get access to
+chairs with them.
 
 > 126:2 This relation changes constantly with time and place. Hence
 > exchange-value that is inseparably connected with the commodity, inherent in
 > it, seems a contradiction in terms.
 
-A year ago one metric ton of apples might have allowed to get three chairs. In
-Northern England this might still be the case, while in London one only gets
-two. In one street apples might exchange for different quantities of
-chairs. Perhaps even the same apple owner negotiates different “chair prices”
-for her apples with different people. In light of these variations one could,
-when asking how come that apples have the power to access chairs, conclude that
-this was indeed not a potential of the apples. This way, the explanation of
+A year ago one ton of apples might have allowed to get three chairs. In
+Birmingham this might still be the case, while in London one only gets two. In
+one street apples might exchange for different quantities of chairs. Perhaps
+even the same apple owner negotiates different "chair prices" for her apples
+with different people. In light of these variations one could, when asking how
+come that apples have the power to access chairs, conclude that this was indeed
+not a potential of the apples. One could say as Butler in footnote 7: "The value
+of a thing Is just as much as it will bring." This way, the explanation of
 commodities as means of exchange would cease before it really started: all
-random. Or one could say that it is not random but essentially determined by the
-appreciation of the persons involved in the trade.  Then exchange-value would
+random. Or one says that it is not random but essentially determined by the
+appreciation of the persons involved in the trade. Then exchange-value would
 depend on the various needs and desires of people and it would be wrong to say
 that every apple has the same exchange-value. One would have to say: every apple
 has all kinds of different exchange-values, depending on who has the apple. One
-also couldn't talk about relations: if one metric ton of apples gets two chairs,
+also could not talk about relations: if one ton of apples fetches two chairs,
 this would not mean that two tons result in four chairs. To claim that the
-exchange-value was grounded in the apple being an apple, independent of the
+exchange-value was grounded in the apple being an apple independent of the
 subjective appreciation by the exchangers, that would be the position of an
-“objective theory of value”. The latter standpoint would be that of the
-“subjective theory of value”, which makes up the modern mainstream in
+"objective theory of value". The other standpoint would be that of the
+"subjective theory of value", which makes up the modern mainstream in
 economics. It considers the objective theory of value to be absurd by the
-arguments listed above. However, these arguments deserve critique:
+arguments listed above. However, these arguments deserve scrutiny.
 
 ### Value
 
 A commodity does not only exchange for one particular other commodity, but for
 many. That means it does not only have one exchange-value but many, in various
-relations. The apple is not only a “chair access resource” or has not only
-“power of access to chairs” but also a boot-polish access resource, a silk
-access resource etc. Apples are access resources to all other use-values in this
-society, if those are available on the market.
+relations. The apple is not only a “chair access resource” or is not only “means
+of access to chairs” but also a "boot-polish access resource", a "silk access
+resource" etc. "Many exchange values" here means: apples are access resources to
+any other use-value in this society which is available on the market.
 
 > 127:1 It follows from this that, firstly, the valid exchange-values of a
 > particular commodity express something equal, and secondly, exchange-value
 > cannot be anything other than the mode of expression, the ‘form of
 > appearance’, of a content distinguishable from it.
 
-The “content distinguishable from it” in exchange-value is the “exchangeability
-as such” as a property of the apple. Who owns apples can therewith access all
-material wealth that is available as a commodity in this society. How far this
-access reaches is only a question of how many apples one has. Apples have the
-characteristic that they are means of access to social wealth in a capitalist
-economy or represent power of access sans phrase. That one can use apples to
-access chairs is then only an expression of the more general quality of apples
-to access anything. All those different exchange-values express this same
-quality.
+This "content distinguishable from it" that all these exchange-values express is
+a somewhat quantified "exchangeability as such" as a property of the
+apple. Apple owners can access all material wealth that is available as a
+commodity in this society.  How far this access reaches is only a question of
+how many apples they have. Apples have the characteristic that they are access
+resources to social wealth in a capitalist economy, where social wealth means
+material wealth that is available in society, i.e. on the market.  That one can
+use apples to access chairs is then only an expression of the more general
+quality of apples to access anything. Apples do not have chairs as
+exchange-value because apples are access resources to chairs, but because they
+are *means of access sans phrase*. All those different exchange-values express
+this same quality of the apple *about the apple*.
 
-Relative to those arguments above against the objective theory of value, one
-hence can say: while the definite proportions and quantities might change, what
-remains is the quality of apples to access chairs. And not only that. The
+On the other hand, the "valid exchange-values of a particular commodity express
+something equal" namely that for apples they all count as representatives of
+social wealth.  Considered as exchange-values all commodities only count as
+particular instances of social wealth as such, they are all the same. This is a
+statement about all exchange-values of the apple, *about boot-polish, silk, gold
+etc.*
+
+Relative to those arguments above against the objective theory of value, we
+hence have to say: while the definite proportions and quantities might change,
+what remains is the quality of apples to access chairs. Furthermore, the
 relations between apples and other commodities might change as well, but what
-remains is the quality of apples to be exchangeable for them. Quantitatively a
-lot might change but the quality of the apple to become anything else in
-exchange remains.
+remains is the quality of apples to be exchangeable for them.  Quantitatively a
+lot might change, but the quality of the apple to be exchangeable for, to grant
+access to, any part of social wealth — given enough apples — remains. What gives
+apples this power?
 
 > 127:2 Let us now take two commodities, for example corn and iron. Whatever
 > their exchange relation may be, it can always be represented by an equation in
@@ -159,191 +171,96 @@ exchange remains.
 > the other. Each of them, so far as it is exchange-value, must therefore be
 > reducible to this third thing.
 
-If a metric ton of apples gives access to two chairs, then it is also true that
-two chairs allow one to get one metric ton of apples. All those arguments from
-above hence also apply to chairs. Chairs are not only exchangeable for apples,
-because they are apple access resources but because they generally have the
-quality of exchangeability. Chairs too represent power of access to the wealth
-in this society. If chairs then exchange for apples, then this only expresses
-that chairs, apples, etc. have the quality to have abstract
-exchangeability. This is the qualitative equality, the third thing that all
-commodities have in common. This founds their ability to enter a relation of
-exchange.  Objects of utility are access to social wealth because they are
-social wealth themselves. This common third thing must have a quantitative
-dimension, such that when two chairs are exchanged for one metric ton of apples,
-this is because the abstract social power of access to chairs and apples has an
-equal magnitude.
+If a ton of apples gives access to two chairs, then it is also true that two
+chairs allow one to get one ton of apples, this is just the perspective
+reversed.  All the arguments in the last paragraph also apply to chairs. Chairs
+are not only exchangeable for apples, because they are apple access resources
+but because they generally have the quality of quantified exchangeability.
+Chairs, too, represent means of access to the wealth in this society.
 
-Exchange-values may change with time and space. However, that commodities are
-exchangeable is a constantly assumed property of the commodity. Exchange-values
-only express this common content. A commodity hence not only has many
-exchange-values but also one value (“a content distinguishable from it”). What
-is true for one commodity also applies to those commodities which exchange for
-it.
+In exchange the chair recognises our apples as a bit of social wealth, too.
+This answers the question of what gives our apples the power to be exchangeable
+for any other bit of social wealth: they are a bit of social wealth themselves.
+Apples are means of access to a bit social wealth because they *are* social
+wealth.  Commodity exchange means that any particular bit of social wealth
+counts as a greater or lesser quantity of social wealth as such.
 
-The question now is: how is this value formed? However, before we get to that
-the following excursus might be helpful to (a) answer this question and to (b)
-understand the critical content that is present in the first chapter of Capital.
-
-### Excursus: What is the relation of value and use-value?
-
-Commodities are means of exchange. But we are not talking about a society where
-production is first of all for self-sufficiency and where only surplus product
-is exchanged. In the capitalist mode of production, which is the object of our
-investigation, material wealth almost exclusively takes the form of
-commodities. Use-values are determined as bearers of value in this society.
-
-Furthermore, the character of commodities of being means of exchange is not
-determined by the particular commodity with which they are
-exchanged. Commodities have the purpose to be in principle exchangeable for any
-other commodity on the market (that it needs to be available in a certain
-quantity is necessary but secondary for this purpose). The statements
-presuppose, in a first step, a separation of want/desire and
-use-values. Presupposed is private property as a social principle.  Everybody
-may dispose over her property at will, i.e., everybody else is excluded from
-that property. The value of a commodity is a way to get access to those things
-which one is reliant on but which are private property of somebody else. Private
-property is, on the one hand, a barrier which needs be overcome. On the other
-hand, private property is the lever by which one can get access to somebody
-else's private property. Before one can demand property from someone, that
-someone must be excluded from the means of satisfaction of her needs first –
-through private property. The use-value of one’s commodity is the leverage by
-which one can attract the interest of other members of society, such that one
-can demand something in return from them. For that, every use-value is equally
-good as long as there is some demand for it in society. Attracting those goods
-which one is actually interested in is accomplished by exploiting the neediness
-of others which is established by private property.
-
-So when we talk about “means of exchange“, “exchangeability as property of the
-commodity” we should say more precisely: commodities have the purpose of being
-social power of access. Means of access to that material wealth from which one
-is excluded by private property.  Use-value is subordinated under this
-determination. Just because somebody is hungry is in a society based on
-commodity production and exchange no reason that this somebody gets to eat. This
-opposition of exchange-value against use-value explains in an abstract way
-already why in this society immense collections of use-values coexist with
-poverty.
+The third thing which is neither apples nor chairs, but contained in both of
+them is that they are quantities of social wealth sans phrase. What is this
+social wealth in general?
 
 ### Substance of Value
 
 > 127:4 But clearly, the exchange relation of commodities is characterized
 > precisely by its abstraction from their use-values.
 
-If we look at the exchange-value side of the commodity then its particular
-quality does not matter, given the right quantity all commodities are the
-same. Exchange-value is not only a disregard of a particular quality of
+Determined as social wealth as such the particular qualities of commodities as
+apples, chairs, iron, corn do not matter, given the right quantity they are all
+the same. Exchange-value is not only a disregard of a particular quality of
 commodities, exchange-value expresses the disregard of any quality of the
-use-value: “precisely by its abstraction”. Hence, the only difference they are
-capable of as exchange-values is that of magnitude.
+use-value: "precisely by its abstraction". The only difference they are capable
+of as social wealth as such is that of magnitude. The key point is not that they
+might differ in quantity, but that they *cannot* differ in quality.
 
-We are looking for a common basis which would ground the capability of
-commodities to access social wealth in the hands of others. From the above it
-should be clear that this search is not one of the kind: what kind of things can
-I think of that they might have in common. If that was the case, we could arrive
-at the conclusion that all things have a mass or have something to do with
-particles or so. Yet, this does not explain their quality to give access to
-social wealth, and that's what we are after.
+We are looking for a common basis which characterises a commodity as social
+wealth as such which in turn grounds its capacity to access social wealth in the
+hands of others. From this it should be clear that our search for the "third
+thing" is not one of the kind: what kind of things can I think of that they
+might have in common. If that was the case, we could arrive at the conclusion
+that all things have a mass or have something to do with particles or
+so. Conclusions we could then try to disprove by finding counter examples. Yet,
+this does not explain their quality "to give access to social wealth because
+they are", these commonalities, if they exist, do not explain what goes on when
+a society exchanges its products of labour and therewith equates them.
 
-Every commodity needs to be a use-value. Only when there is need in society for
-a thing, it may be used to attract the interest if other members of
+Every commodity needs a use-value. Only when there is need in society for a
+thing, it may be used to attract the interest if other members of
 society. However, the usefulness of a thing cannot be quantified. If I want to
-study Capital with five people and for that want to have a table with enough
-space to take notes and enough chairs to sit five people, then I need a table
-with that area and five chairs.  Four chairs do not satisfy this need, six
-chairs do offer more usefulness for this purpose than five. The standpoint “at
-least I have three chairs, then only two people need to sit on the floor” is an
-expression of managing scarcity and not an expression that five chairs satisfy a
-need better than three. Five satisfy my need, three don't.  Furthermore, if we
-compare the usefulness of different use-values then the statement that a bicycle
-would be more useful than lunch is pretty absurd. If I am hungry a bicycle does
-not help, if I want to get from A to B lunch is of no use.
-
-However, for many people these alternatives, comparisons and quantifications
-appear as rather straight-forward. They think about their day-to-day life and
-there such questions appear quite often, due one's limited spending power: do I
-treat myself to a good meal and don't go to the pub or vice versa? However, when
-asking this question one already compares the value of one's money with the
-value of the two things one would enjoy doing and comes to the conclusion that
-the magnitudes of value do not match up and hence one has to limit oneself.
-Only after one compared the respective values one arrives at limiting one's
-needs and desired. And only now one makes the absurd but forced upon oneself
-comparison: what can I do without. This way the daily struggle with value
-appears as if the exchange relations were determined by use-values or one's own
-individual needs and desires.
-
-From the perspective of the commodity seller, usefulness is definitely not what
-founds exchangeability. She does not want to use the commodity but exchange
-it. For her it does not have any usefulness at all. The owners of the BMW
-company may want to drive, say, 10 cars themselves, the remaining thousands of
-cars which are produced every day are certainly not useful to them.
-
-But this does not mean they are indifferent towards these BMWs. Neither are the
-people who exchange, say, apples, for BMWs indifferent towards their apples. For
-those it cannot be irrelevant how many apples they have to give up in exchange
-for a BMW. One could say, well those apples don't have use-value for them, so it
-does not matter how many they have to give up, they get what they really
-want. But because access to use-values in this society is dependent on how much
-value I own, use-value is only a prerequisite for exchange, it does not
-determine it.   Exchangers confront each other on the value-side – the apple
-exchanges care about the value-side of their apples: how much BMW does it buy …
-because they do not only want a BMW but also other things, all of which cost
-apples. Because everybody does it, an individual decision also does not play a
-decisive role. Our commodity exchangers have to take other exchange relations
-into account and take part. By taking part they contribute themselves to that
-others cannot act accordingly to their individual preferences.
-
-That the particular use-values are not the point when we are considering the
-exchange-value side of commodities can be illustrated by the fact that any
-use-value - if there is demand for it in society - enables one to exchange it
-for all other things in society if one has the right of ownership over these
-use-values. Producing gold, fertilisers or toilets, all these things do not
-differ qualitatively what wealth one can get access to. If I have enough, I can
-exchange them for what I need/want/desire. In fact, when I exchange my
-commodities for others, I do not care about their use-value at all. I might be
-tea total but beer still has exchange-value (for me), it allows me access to,
-say, tea by exchanging it in my pub.
+sit down on a table with five people then I need a table and five chairs. Four
+chairs do not satisfy this need, six chairs do not offer more usefulness for
+this purpose than five. The standpoint "at least I have three chairs, then only
+two people need to sit on the floor" is an expression of managing scarcity and
+not an expression that five chairs satisfy a need better than three. Five
+satisfy my need, three don't. More generally, if we compare the usefulness of
+different use-values then the statement that a bicycle would be more useful than
+lunch is pretty absurd. If I am hungry a bicycle does not help, if I want to get
+from A to B lunch is of no help.
 
 ### Labour
 
 > 128:2 If then we disregard the use-value of commodities, only one property
 > remains, that of being products of labour.
 
-Whatever I buy must be produced first and so does my commodity which I give up
-in exchange. We don't need all these arguments Marx made so far to understand
-that stuff needs to be produced to be exchanged.
+We are searching for an answer to the question what it means to speak of social
+wealth as such in disregard of its particular qualities as particular useful
+objects. What does it mean to speak of an apple as a bit of social wealth as
+such, in abstraction from its apple-ness as a foundation for the apple's
+capacity to access any social wealth?
 
-Recall, that we have a society where there is a division of labour and hence a
-mutual dependence on each other. However, in this society this labour is done in
-private: we are objectively dependent on each others products of labour, but we
-insist on our exclusive right to dispose over them by the virtue of private
-property.
+It is clear that material wealth must be produced, it does not fall from the sky
+but requires effort.  It is also clear — cf. Marx' letter to Kugelmann above —
+that under any mode of production somehow society's labour must be directed,
+production and consumption "coordinated". However, in the societies "where the
+capitalist mode of production prevails" not much coordination is actually going
+on.  Producers produce in private, without a common plan. Instead, they produce
+for exchange and only on the market they find out if their products can be
+exchanged for those products which they need. On the market they find out if the
+product of their efforts is recognised as social wealth, if their labour was in
+vain or not. The form in which production and consumption are coordinated is
+that the products of labour all count as a bit of social wealth as such if they
+are successfully exchanged. In a commodity producing and exchanging society the
+fact that it requires effort to produce material wealth is used to make the
+other exchanging party hand over its bit of social wealth in return. This is
+what we mean when we say that commodities recognise each other as social wealth.
 
-However, just because there is a guarantee of private property, doesn't mean
-there is stuff. Stuff must be produced and those things which fall from the sky
-(such as air) cannot be sold (we can simply take them). A chair has the quality
-of getting me access to social wealth because it does not fall from the sky. So
-that value has something to do with labour, is in itself not such a big
-surprise.
+There are many things which are not products of labour which still can be
+exchanged. What about those? Virgin soil for example. Marx deals with virgin
+soil and how its value is determined in Volume 3. For now, we can say: for the
+things we need to live, things which require no labour at all, are the
+exception. Marx will pick this up again briefly at the end of this sub-chapter.
 
-Commodities are produced. This rejects another assumption of modern
-economics. It claims that besides the subjective appreciation also its scarcity
-would determine its value. A common example for this relation is that in a
-desert a glass of water would have an entirely different meaning than in modern
-London. In a desert somebody would give everything for a glass of
-water. Firstly, this nicely expresses the blackmail character of exchange, the
-owner of water would demand everything from a thirsty person – satisfaction of
-needs as purpose, my ass.
-
-Secondly, we want to explain the capitalist mode of production with its immense
-collection of commodities on the market and not a single exchange relation in a
-dessert where there is no market. Under capitalism no need is not fulfilled just
-because something is scarce. If one owns enough value one can fly to space. If
-someone earns enough value then that someone can earn as many planes as he
-wants. If there is value to be made, then a lot of labour is performed, if not
-nothing happens at all. Things are not simply scarce under capitalist, they are
-simply not produced for those who cannot offer an equivalent in value.
-
-Anyway, value is apparently somewhat related to labour. How?
+Now we arrived at the conclusion that social wealth as such is somehow related
+to labour. How?
 
 ### Abstract Labour
 
@@ -352,141 +269,158 @@ Anyway, value is apparently somewhat related to labour. How?
 > to the same kind of labour, human labour in the abstract.
 
 By producing a chair, a use-value, carpentering is concrete. By producing a
-chair which has value carpentering is value producing. The value of the chair is
-not its use-value, that's what makes it special, different from houses and
-wool. The value producing side of housebuilding does not consist in connecting
-bricks by cement. The value-forming side of carpentering, housebuilding, cheese
-making is that labour was performed.
+chair which has exchange-value carpentering produces social wealth as such. The
+chair as social wealth as such is not the chair as the use-value, that's what
+makes it special, different from houses and wool. The social-wealth-as-such
+producing side of house-building does not consist in connecting bricks by
+cement. The social-wealth-as-such forming side of carpentering, house-building,
+cheese making is that labour as such was performed.
+
+When producers produce commodities they not only produce particular useful
+things but also each a bit of social wealth as such. All their labour together
+in the world of commodities counts as one and the same mass of labour of which
+each of them produced a part as a particular commodity.
 
 Of course, human labour-power is always expended with a certain form, as such
-without form it does not exist. Nobody does abstract human labour as such, one
-always performs “concrete labour”. Furthermore, one could always take the
-position to abstract away those concrete features (spinning, weaving, baking …)
-and call the result labour as such: purposeful interaction with nature. But
-that's not what is meant when we talk about abstract labour. The labour that
-counts because it produces value is abstract labour. In this society an
-abstraction which I could make in my head is what becomes the standard to tell
-how much wealth e.g. shoes command. By treating the products of labour as
-qualitatively equal the labours that produced them are also treated as
+without form it does not exist. Nobody performs abstract human labour as such,
+one always performs "concrete labour". Furthermore, one could always take the
+position to abstract away the concrete sides of spinning, weaving, baking … when
+considering them and call the result labour as such: purposeful interaction with
+nature … that is how its talked about later. But that's not what is meant when
+we say abstract labour.
+
+The labour that produces social wealth as such is abstract labour. In this
+society an abstraction which I could make in my head is what becomes the
+standard which characterise my product as wealth. By treating the products of
+labour as qualitatively equal the labours that produced them are also treated
 equal. This abstraction is not something we do as a part of our scientific
 investigation, but something that the participants on the markets do when they
-exchange. While this abstraction can in principle always be made, this
-abstraction to pure expenditure becomes a relevant social property of wealth not
-by virtue of being a product of labour as such but by virtue of the particular
-social relations in which it is performed. Put differently, it's not a quality
-of labour to produce value but a quality of the market to reduce labour to
-homogeneous human labour.
+exchange. While this abstraction can in principle always be made it is not a
+product of labour in itself that this abstraction to pure expenditure becomes
+the relevant social property of wealth as such; instead, this requires
+particular social relations in which labour is performed. Put differently, it's
+not a quality of labour to produce value but a quality of the market to reduce
+labour to homogeneous human labour. The physiological equality of all
+labour, that there actually is a commonality in labour, is the material basis,
+the condition, for the social relation of abstract labour, but it is not that
+social relation itself. The fact that all labours are the expenditure of human
+labour makes it possible for society to treat all labours as equal, but is by
+itself not yet this equal treatment.
+
+When Marx talks about human labour "expended without regard to the form of its
+expenditure" then the following is addressed. When the purpose of production is
+the production of value (which is the purpose of the commodity producer who has
+no interest in using the commodity himself) then the branch of industry is
+irrelevant. Whether I am a carpenter, a weaver or a builder is all the same,
+when the purpose of production is to produce value. When I notice that some
+branch of industry does not allow me to get hold of as much value as another, I
+switch branches. Hence, for example, farmers who stick to farming regardless of
+how much it gains them in terms of value and insist on passing their land to
+their children, don't quite fit in the capitalist mode of
+production. Value-forming labour is indifferent against the preferences for a
+particular labour (whatever the reason for this preference).
+
+This attains a different harshness when one cannot switch branches. This could
+be because one does know have the necessary skills or the necessary means of
+production. The indifference towards the branch of industry as a determination
+of value-forming labour asserts itself against the producer where she is
+restricted to one branch. Where people insist on the particular branch or have
+to stick to it, the producers perish of this demand.  Abstract human labour is a
+determination which asserts itself as purpose and demand against concrete
+labour.
 
 ### Socially Necessary Labour Time: Magnitude of Value
 
-We are talking about a process – labour – which produces a quantity –
-value. Marx here measures this process in time – which certainly is one aspect
-of it. Of course, one process can produce more of a certain substance in a given
-time than another process. This is accounted for in a few paragraphs when Marx
-discusses complicated vs. simple labour. This is also taken up again later:
-intensity and time are two key aspects of abstract labour. Normalising intensity
-– i.e., treating more intense labour as equivalent to longer less intense labour
-– we are left with the measure of time.
+If the substance of value is abstract human labour, its magnitude is amount of
+abstract human labour. How do we measure such a magnitude?  Marx here measures
+labour in time to arrive at an expression which quantifies it. Certainly, we can
+say that working longer means more labour is expended, insofar is time a measure
+of labour. However, two labour processes could take the same amount of time but
+be of different intensity. One of them would expend more labour-power in the
+same time as the other. In this case time would not actually be an adequate
+measure of amount of labour. This is taken up again later in chapter 15:
+intensity and time are the two measures of abstract labour.  For now,
+normalising intensity – i.e., treating more intense labour as equivalent to
+longer less intense labour – we are left with the measure of time.
 
-Value-producing labour is ruthless against the concrete side of labour.  A chair
-producer who needs longer to produce a chair than the next guy does not produce
-more value with one chair. On the contrary: the value of one chair is the same
-as the value of another chair, regardless of who produced it and how long she
-took to do it. As values the chairs are treated equal and therefore the labour
-that produced them is treated equal/equated. The labours that produce chairs are
-compared on the market and equated. In retrospect this means that only that
-chair-making time counts as value-producing which lives up to this comparison.
+A chair producer who needs longer to produce a chair than the next guy does not
+produce more value with one chair. On the contrary: the value of one chair is
+the same as the value of another chair, regardless of who produced it and how
+long she took to do it. This points to the fact that chair maker competes
+against chair-maker. As values the chairs are treated equal and therefore the
+labour that produced them is treated equal and equated. In retrospect this means
+that only that chair-making time counts as value-producing which lives up to
+this comparison.
 
-Abstract human labour as demand against concrete labour means that somebody who
-for whatever reasons has physical or intellectual disadvantages is likely to
-fail on the market. Socialisation, education etc. all have the same effect. The
-labour which is less efficient because of it, compares less favourably on the
-market. Put differently: this justice of the market means that those whose
-physical or intellectual skills are less developed than for others are in a
-worse position. The same is true for the means of production. The best physical
-strength does not mean much if someone else can work twice as fast because of a
-technological advantage. The question is then whether one can keep up through
-sheer expenditure of body strength. However, this increased expenditure
-definitely means the devastation of one's health, that's for sure.
-
-There is a standard of value-producing labour which one has to live up to. How
-does this standard come about? Through an average of what e.g.  chair producers
-need to produce a chair. All of them together form this standard every
-individual, concrete labour enters. On the other hand, every concrete,
-individual labour time has to related to this standard and is measured against
-it. This standard confronts each producers as an external fact against which she
-is powerless. By producing she contributes to this standard herself.
-
-Socially necessary labour on the one hand means that only that labour-time
-counts as value-producing which is necessary on average to produce a commodity
-not how much time was needed to produce it. On the other hand, this expresses
-that too many commodities can be produced relative to effective demand. Socially
-necessary has this side too which is discussed in Chapter 3.
+When a product of labour contains value and is exchanged on the market, this is
+not a reward of some sort for labour performed. The actual labour expended on a
+particular product is not what counts, but only how much time is socially
+necessary. The commodity in one's hand functions as lever to gain access to
+social wealth because it takes effort to produce it, not because you worked hard
+to produce it. That's your problem.
 
 If a producer Alice needs a ten hour working day to produce a chair, but on
 average two chairs are produced in the same time, then Alice's chairs still have
 the same value as all the other chairs. That the average counts as
-value-producing, on the other hand, also applies to the fastest producer. If Bob
-manages to produce four chairs per day, he produces twice as much value than the
-average.
+value-producing, on the other hand, also applies to the fastest producer.  If
+Bob manages to produce four chairs per day, he produces twice as much value than
+the average.
 
-This means that from a value perspective it makes sense to try harder, to
-improve one's skills, to work more intensely and with a higher level of
-productivity. Only, if everybody does that then the relative advantage is
-gone. If all improve their performance per time then this new level is the
-normal, necessary and average. They all wanted to achieve more value per time
-with their performance but the end result is that they produce just as much
-value as before the big push for more performance. This will be taken up again
-later in the part on “relative surplus value”.
+This means from a value perspective it makes sense to try harder, to improve
+one's skills, to work more intensely and with a higher level of productivity.
+Only, if everybody does that then the relative advantage is gone.  If all
+improve their performance per time then this new level is the normal, necessary
+and average. They all wanted to achieve more value per time with their
+performance but the end result is that they produce just as much value as before
+the big push for more performance.  This will be taken up again later in the
+part 4.
+
+This also means that somebody who for whatever reasons has physical or
+intellectual disadvantages is likely to fail on the market. Education,
+socialisation etc. all have the same effect.  That labour which is less
+efficient because of it, compares less favourably on the market.  Put
+differently: this justice of the market means that those whose physical or
+intellectual skills are less developed than for others are in a worse position.
+
+The same is true for the means of production.  The best physical strength does
+not mean much if someone else can work twice as fast because of a technological
+advantage. The question is then whether one can keep up through sheer
+expenditure of body strength.  However, this increased expenditure definitely
+means the devastation of one's health, that's for sure.  Value-producing labour
+is ruthless against the concrete side of labour.
+
+On the one hand, socially necessary labour means that only that labour-time
+counts as value-producing which is necessary on average to produce a commodity
+not how much time was needed to produce it. On the other hand, this expresses
+that too many commodities can be produced relative to effective demand. This
+side of socially necessary is discussed in chapter 3.
 
 That the determination of average labour performance asserts itself across
-branches can be explained as follows. Let the average output of yoghurt producer
-per day be 10 litres of yoghurt and the average for a chair producers be 2
-chairs. Now, a chair producer, say, realises she could produce 20 litres of
-yoghurt per working day. She hence switches branches. This pushes up the average
-in the production of yoghurt. Let’s assume further her market share is small and
-the average hence remains relatively low, i.e., the increase is hardly
-noticeable and 10 litres of yoghurt have the same value as 2 chairs. Our skilled
-branch switcher hence produced twice as much value as before when producing
-chairs.  Other producers from other industries will notice this: if they switch
-to yoghurt they can produce much more value in a day than if they stick with
-chairs or whatever they are making. More and more will switch to yoghurt and
-role up the market: the average increases. The eventual result will be that 20
-litres of yoghurt will be the average output of one day of yoghurt
-production. Now, if the chair production did not change, 20 litres of yoghurt
+branches can be explained as follows. Let the average output of yogurt producer
+per day be 10 litres of yogurt. Now, a chair producer, say, realises she could
+produce 20 litres of yogurt per working day. She hence switches branches. This
+pushes up the average in the production of yogurt. Let’s assume further her
+market share is small and the average hence remains relatively low, i.e., the
+increase is hardly noticeable and 10 litres of yogurt have the same value as 2
+chairs. Our skilled branch switcher hence produced twice as much value as before
+when producing chairs. Other producers from other industries will notice this:
+if they switch to yogurt they can produce much more value in a day than if they
+stick with chairs or whatever they are making. More and more will switch to
+yogurt and role up the market: the average increases. The eventual result will
+be that 20 litres of yogurt will be the average output of one day of yogurt
+production. Now, if the chair production did not change, 20 litres of yogurt
 are now worth as much as 2 chairs.
 
 The indifference towards the particular branch of industry, which is in the
 concept of abstract human labour, hence is presupposed here. Labour is thrown
 where it is worthwhile. This way, the determination of socially necessary
-labour-time asserts itself across branches. It is worth noting that only with
-the introduction of capital this indifference is fully realised: it invests –
-i.e., it throws labour and resources – wherever it expects a high gain.
+labour-time asserts itself across branches.
 
-The productivity of labour is a determination of concrete, useful labour. It
-expresses efficiency by stating how many goods can be produced per time. The
-more skilful a labourer, the more intense she works the more goods she can
-produce per hour. Using the right tools – means of production – one can increase
-the productivity of labour enormously. Using a wedge can increase how much one
-can lift, using a basket allows one to transport a lot more stuff than not using
-one.  Nature too can play a decisive role. The same amount of labour may produce
-a lot less potatoes given bad weather conditions than given good conditions. If
-one is drilling for oil it makes a huge difference whether one hits it after 50m
-or 1500m, the latter requires a lot more work.
-
-Because productivity is a quality of concrete, useful labour it does not
-contribute to value-producing or abstract labour. While an edge in productivity
-is beneficial for a producer because her commodities are measured by the
-average, this advantage is gone as soon as the competition catches up. More
-commodities are produced per day but not more value than before. The value of a
-single commodity decreases, because the measure of value is socially average
-labour.
-
-From the standpoint of use-value and from the standpoint of satisfaction of
-needs and desires one can say: the faster a use-value can be produced the more
-goods can be produced per day, the more people in need of that good can be
-provided for. Or: if everybody is provided for we can work less if we are able
-to work faster. Advances in productivity would enable more spare time.
+From the standpoint of use-value and from the standpoint satisfaction of needs
+and desires one can say: the faster a use-value can be produced the more goods
+can be produced per day, the more people in need of that good can be provided
+for. Or: if everybody is provided for we can work less if we are able to work
+faster. Advances in productivity would enable more spare time.
 
 From the standpoint of value this advance in productivity is of no benefit as
 soon as it becomes the normal way of producing things. The mass of value that is
@@ -495,30 +429,11 @@ productivity is no reason to work less. Spare time which one can enjoy is not
 part of the programme of value. Value does not service the labourer, but the
 labourer has to service value, has to act in accordance to its demands.
 
-So abstract labour isn't just another way of saying that people produce stuff
-but a statement how they produce in this society or more precisely how they
-confront each other in this society and what that means for the labour they
-perform. Abstract labour is performed where commodities are produced. On the
-other hand, abstract labour does not mean nothing, i.e., one could be tempted to
-think that if abstract labour is something specific to this society it would
-have nothing to do with labour as performed under all kinds of different social
-conditions. According to this reading – perhaps aimed against a naturalistic
-reading of abstract labour and value by Leninists and Social Democrats –
-abstract labour has no physiological side to it, that would be a naturalistic
-reading.  Hence, one doesn't know much more about value by reducing it to
-abstract labour: one fairly empty social category is reduced to another. A
-meaningless reduction, one could drop the mention of “labour” from “abstract
-labour” and one is not any further in one's analysis than before the
-reduction. Yet, it is one thing to explain that the physiological equality,
-i.e., that people do stuff, does not constitute value, it is another thing to
-claim value would have nothing to do with it. What is lost in this abstract
-account are the results about what abstract labour as a social rule does to
-concrete labour. That is, this way the critique of abstract labour is lost,
-i.e., the account what it does to concrete labour and the immediate producers if
-pure expenditure of labour-power, pure toil, something purely negative is what
-counts.  Abstract labour asserts itself against the immediate producers because
-it turns a physiological quality of their activity against them and reduces
-their activity to it.
+So abstract labour as the substance of value and socially necessary labour-time
+as the measure of value isn't just another way of saying that people produce
+stuff. These are statements how they produce. More precisely how they confront
+each other in this society and what that means for the labour they perform.
+Abstract labour is performed where commodities are produced.
 
 1.2 The Dual Character of the labour embodied in the Commodities
 ----------------------------------------------------------------
@@ -1424,3 +1339,6 @@ consciousness”.
     laborers or some self-employed peasant. The lettuces are mute, as it were,
     as to how they were produced and who produced them.” David Harvey – A
     Companion to Marx's Capital, p.40
+
+[^7]: Marx To Ludwig Kugelmann, London, 11 July 1868 (available at
+    [http://marx.libcom.org/works/1868/letters/68_07_11.htm](http://marx.libcom.org/works/1868/letters/68_07_11.htm))

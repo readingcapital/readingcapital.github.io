@@ -224,8 +224,6 @@ do say 12 chairs, because chairs are of such a quality that this makes
 sense. Even how we quantify different things (chairs, wheat) differs between
 them (weight, lengths, counting, volume).
 
-
-
 > The usefulness of a thing makes it a use-value. But this usefulness does not
 > dangle in mid-air. It is conditioned by the physical properties of the
 > commodity, and has no existence apart from the latter. It is therefore the
@@ -737,7 +735,7 @@ When a product of labour contains value and is exchanged on the market, this is
 not a reward of some sort for labour performed. The actual labour expended on a
 particular product is not what counts, but only how much time is socially
 necessary. The commodity in one's hand functions as lever to gain access to
-social wealth because it takes effort to produce it, not because one worked hard
+social wealth because it takes effort to produce it, not because you worked hard
 to produce it. That's your problem.
 
 If a producer Alice needs a ten hour working day to produce a chair, but on
