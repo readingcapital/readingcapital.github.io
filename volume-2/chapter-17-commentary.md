@@ -60,15 +60,15 @@ available.  In addition to actual extension of production there is also
 accumulation of a money hoard; money is hoarded in order to use it as money
 capital later.
 
-This latent money capital can take the form of a simple money hoard, e.g. when
-an industrial capitalist exchanges her commodities for gold with a gold
-producer. Another way for this accumulation of a money hoard is by attraction of
-money from society, i.e. our capitalist sells without buying.
+This latent money capital can accumulated when, e.g., an industrial capitalist
+exchanges her commodities for gold with a gold producer directly. Another way is
+by attraction of money from society, i.e. our capitalist sells without buying.
 
 The speed and success of circulation of surplus-value is hence a limit for
-capital's accumulation. The two forms of reproduction of capital are hence now
-investigated in regards to how they affect the realisation of surplus-value as
-we have seen its value-form — money — is decisive for accumulation.
+capital's accumulation. Hence, the two forms of reproduction of capital are
+hence now investigated with regards to how they affect the realisation of
+surplus-value. As we have seen its value-form — money — is decisive for
+accumulation.
 
 ## 1. Simple Reproduction ##
 
@@ -87,8 +87,8 @@ of money required to circulate them is determined by the laws of simple
 commodity circulation and not affected by the fact that these commodity values
 contain surplus-value.
 
-This law (Volume 1, Chapter 3) states that money in society must suffice to
-circulate commodities at a given velocity. Additionally, money must exist to
+This law (Volume 1, Chapter 3, p. 214) states that money in society must suffice
+to circulate commodities at a given velocity. Additionally, money must exist to
 cover slow downs in circulation or fluctuations of prices.
 
 ### Money Production ###
@@ -393,8 +393,9 @@ realisation of surplus-value of other capitalists, those have to realise her
 surplus-value.  Already in Volume 1 was discussed that for accumulation every
 capitalist is dependent on other capitalists having earned the money to buy
 their commodities.  This concerns the mass of value (enough surplus-value) and
-value form (money). An additional consideration here is turnover: those other
-capitalists might have produced surplus-value but might have realised it.  When
-they go on and start purchasing is another question. The interlock of turnovers
-on a social scale hence determines the reproduction and accumulation of capital.
+value form (money). The focus here is turnover and value form: those other
+capitalists might have produced surplus-value but might not have realised it
+(value form).  Additionally, when they go on and start purchasing is another
+question (turnover). The interlock of turnovers on a social scale hence
+determines the reproduction and accumulation of capital.
 
