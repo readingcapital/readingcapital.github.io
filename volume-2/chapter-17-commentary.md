@@ -120,7 +120,7 @@ needed). All remains the same except that the money set free is newly produced
 money. The capitalist advances money and produces new money. Her expenditure
 does not return to her (plus surplus-value) but is produced anew and enters
 circulation. Under the assumption of simple reproduction this happens only to
-the extend that old money is consumed by wear and tear.
+the extent that old money is consumed by wear and tear.
 
 In summary: money is produced, that is how new money comes into this world. With
 respect to simple reproduction we can simply assume that no money is consumed by
@@ -340,7 +340,7 @@ the money advanced and thrown into circulation.  However, our capital also
 produced an increases surplus-value, where does the money come from to realise
 it?
 
-To some extend increased velocity of circulation of circulation can replace
+To some extent increased velocity of circulation of circulation can replace
 additional money, otherwise additional money must be produced. This limits the
 capitalist mode of production's accumulation to the growth of money production;
 a limit which is overcome by the credit system.
