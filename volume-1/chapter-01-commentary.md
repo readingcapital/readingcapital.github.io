@@ -1,5 +1,6 @@
 ---
 title: Chapter 1&#58; The Commodity — Commentary
+author: readingcapital.github.io
 layout: page
 ---
 
