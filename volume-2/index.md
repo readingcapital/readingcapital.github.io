@@ -1,5 +1,6 @@
 ---
 title: Volume 2 — The Process of Circulation of Capital
+author: readingcapital.github.io
 layout: page
 ---
 
@@ -343,16 +344,16 @@ capital in each year must suffice for replacement of capital in value and in
 material terms, otherwise there is no simple reproduction. Thus the distinction
 between capitals based on what they produce is introduced. Department I produces
 means of production for $c$ and department II produces means of subsistence for
-$v$ and $m$.
+$v$ and $s$.
 
 #### 3. Exchange Between the Two Departments: I(v+c) against IIc ####
 
 First new law: constant capital of department II must equal the sum of the $v$
-and $m$ components of department I.
+and $s$ components of department I.
 
 #### 4. Exchange Within Department II. Necessary Means of Subsistence and Luxury Items ####
 
-Second new law: the realisation of the value components $v$ and $m$ of
+Second new law: the realisation of the value components $v$ and $s$ of
 department II must happen within that department. The class opposition which
 restricts workers to necessary means of subsistence necessitates a conceptual
 distinction of capitals which produce ordinary means of subsistence (IIa) and
