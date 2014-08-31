@@ -327,7 +327,7 @@ on a social scale hence determines the reproduction and accumulation of capital.
 
 ## Part Three: The Reproduction and Circulation of the Total Social Capital ##
 
-### Chapter 18: Introduction ###
+### Chapter 18: [Introduction](chapter-18-commentary) ###
 
 The new object is developed: individual capital as part of total social capital.
 
