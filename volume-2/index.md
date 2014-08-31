@@ -340,11 +340,11 @@ This section was intentionally left blank.
 #### 1. Formulation of the Problem & 2. The Two Departments of Social Production ####
 
 The question and the scheme to answer this question are developed: commodity
-capital in each year must suffice for replacement of capital in value and in
-material terms, otherwise there is no simple reproduction. Thus the distinction
-between capitals based on what they produce is introduced. Department I produces
-means of production for $c$ and department II produces means of subsistence for
-$v$ and $s$.
+capital in each year must suffice to replace capital in value and material
+terms, otherwise there is no simple reproduction. Thus the distinction between
+capitals based on what they produce is introduced. Department I produces means
+of production for $c$ and department II produces means of subsistence for $v$
+and $s$.
 
 #### 3. Exchange Between the Two Departments: I(v+c) against IIc ####
 
@@ -380,7 +380,7 @@ and reproduced within this department.
 
 A riddle which concerned economists, a solution and critique of ideology. A
 cause for potential frictions: if the working class lives hand to mouth, then
-capitalists can indulge in luxury spending or safe up. This might assert itself
+capitalists can indulge in luxury spending or save up. This might assert itself
 against the necessary relationship of exchanges between the departments.
 
 #### 11. Replacement of the Fixed Capital ####
@@ -418,7 +418,7 @@ The general result of this chapter: accumulation presupposes accumulation.
 
 * This accumulation includes simple reproduction.
 
-* means of subsistence producing capitals must expand in anticipation of
+* Means of subsistence producing capitals must expand in anticipation of
   expansion elsewhere and must produce commodity hoards which are only realised
   by workers yet to be hired by department I.
 
