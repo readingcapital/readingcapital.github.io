@@ -27,11 +27,11 @@ a commodity is something which is produced for sale or exchange.[^1]
 
 This first definition of a commodity points to the attribute of the wealth under
 consideration here that it needs to be produced. It consists of products of
-labour. The things people consume must first be produced and somehow production
-must be related to consumption: what is produced for whom, who produces it and
-how. By definition this is a feature of any division of labour and cannot
-change. What can change, though, is how this “coordination” is accomplished, the
-social form. Or as Marx put it in response to his critics:
+labour. The things people consume are produced first and somehow production is
+related to consumption: what is produced for whom, who produces it and how.  By
+definition this is a feature of any division of labour.  What can change,
+though, is how this “coordination” is accomplished, the social form.[^107] Or as
+Marx put it in response to his critics:
 
 “Every child knows that any nation that stopped working, not for a year, but let
 us say, just for a few weeks, would perish. And every child knows, too, that the
@@ -2018,3 +2018,9 @@ into theory.
     as to how they were produced and who produced them.” David Harvey – A
     Companion to Marx's Capital, p.40
 
+[^107]: It should be noted, though, that just because the commodity form
+    mediates production and consumption, this does not imply that the
+    reproduction of society or its members is what it is about.  The starting
+    point of the investigation is that the capitalist mode of production
+    reproduces society, this does not mean, however, that it must necessarily do
+    this.
