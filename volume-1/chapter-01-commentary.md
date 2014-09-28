@@ -55,37 +55,7 @@ achieve desired ends.”[^3]
 
 1. Marx’s starting point is an immense collection of *wealth* not scarcity.  The
    fundamental claim of current modern — i.e. neoclassical – economics is
-   scarcity. What does scarcity — "there is not enough" — mean?  For example,
-   say there is not enough coffee at some seminar for all to drink enough coffee
-   to stay awake. Scarcity is a relation of how much stuff there is vs. how much
-   someone wants for some purpose; scarcity is a category of a relation between
-   stuff and need. Scarcity always relates something to a need or desire for
-   it. It does not make sense to say there is not enough coffee, but we have to
-   say "not enough for what?"  Yet, in modern economics stuff is defined as
-   scarce regardless of the need that confronts it. Consequently, when these
-   economists start with scarcity they do not consider the actual shortcomings
-   around them or even rack their brains how to overcome them, e.g. “there
-   aren't enough iPods so we can all listen to Sting at the same time, how do we
-   make more?”  Instead, they simply require and posit scarcity as such as the
-   first category of their economics. Because of this notion of scarcity, they
-   also completely disregard production to make their case. Of course, there are
-   things of which there is only a limited supply. But of many things more can
-   be produced and this fact is disregarded in modern economics when scarcity as
-   such is assumed. For example, Thomas Sowell explains scarcity using
-   beach-front homes, i.e. something which is thought of as limited by its
-   location, i.e. it is thought that you cannot make more.  Another common
-   example is that in a dessert a glass of water would be a lot more valuable
-   than in modern London. In a desert somebody would give everything for a glass
-   of water because it is so scarce, you cannot make more. However, the object
-   of investigation is the capitalist mode of production with its "immense
-   collection of commodities" on the market and not a single exchange relation
-   in a dessert where there is no market and no production for the market.
-   Under capitalism no need is not fulfilled just because something is scarce
-   per se. If I own enough to exchange I can fly to space or own as many beach
-   front homes and glasses of water as I want. Modern economics investigates and
-   advertises a particular way of organising production and consumption –
-   i.e. the capitalist mode of production – and starts off with disregarding
-   production to introduce its first premise: scarcity.
+   scarcity. We pick this up again below.
 
 2. Marx’s starting point is the particularity of the capitalist mode
    production. The commodity form is a *particular* form in which wealth appears
@@ -98,8 +68,8 @@ achieve desired ends.”[^3]
    from a positive verdict which they want to justify.  Therewith, these authors
    miss the observation with which Marx starts.
 
-> 125:1 the individual commodity appears as its elementary form. Our investigation
-> therefore begins with the analysis of the commodity.
+> 125:1 the individual commodity appears as its elementary form. Our
+> investigation therefore begins with the analysis of the commodity.
 
 The appearance of material wealth in commodity form is the starting point of the
 analysis, not its end.[^17] With the observation that wealth takes a particular
@@ -274,6 +244,40 @@ definite quantity.
 Even if we do not know much many bricks it takes to build a house or how much
 pasta it takes to fill us up, the actual task itself determines this
 quantity. Our ignorance does not change this.
+
+This observation stands in constrast to the central category of modern
+econimics: scarcity. Scarcity — "there is not enough" — is a relation of how
+much stuff there is vs. how much someone wants for some purpose; scarcity is a
+category of a relation between stuff and need.  It does not make sense to say
+there is not enough coffee, but we have to say "not enough for what?". In the
+same way, we need a certain amount of bricks to build a house, not just bricks
+or many bricks.  Bricks are no scarce or plentiful in general, but in relation
+to whatever we want to do with them.
+
+Yet, in modern economics stuff is defined as scarce regardless of the need that
+confronts it. Consequently, when these economists start with scarcity they do
+not consider the actual shortcomings around them or even rack their brains how
+to overcome them, e.g. “there aren't enough iPods so we can all listen to Sting
+at the same time, how do we make more?”  Instead, they simply require and posit
+scarcity as such as the first category of their economics. Because of this
+notion of scarcity, they also completely disregard production to make their
+case. Of course, there are things of which there is only a limited supply. But
+of many things more can be produced and this fact is disregarded in modern
+economics when scarcity as such is assumed. For example, a popular example is
+beach-front homes, i.e. something which is thought of as limited by its
+location, it is thought that you cannot make more.  Another common example
+is that in a dessert a glass of water would be a lot more valuable than in
+modern London. In a desert somebody would give everything for a glass of water
+because it is so scarce, you cannot make more. However, the object of
+investigation is the capitalist mode of production with its "immense collection
+of commodities" on the market and not a single exchange relation in a dessert
+where there is no market and no production for the market.  Under capitalism no
+need is not fulfilled just because something is scarce per se. If I own enough
+to exchange I can fly to space or own as many beach front homes and glasses of
+water as I want. Modern economics investigates and advertises a particular way
+of organising production and consumption – i.e. the capitalist mode of
+production – and starts off with disregarding production to introduce its first
+premise: scarcity.
 
 > 126:1 The use-values of commodities provide the material for a special branch
 > of knowledge, namely the commercial knowledge of commodities.
