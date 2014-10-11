@@ -28,4 +28,4 @@ links:
     
 timezone:    Europe/London
 future:      true
-pygments:    true
+highlighter: pygments
