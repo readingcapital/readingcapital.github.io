@@ -235,8 +235,7 @@ To realise the qualities of use-values a certain quantity is necessary and
 sufficient: With one grain of wheat I cannot eat my fill. For a two person
 household usually one fridge is sufficient, four are usually too many for this
 purpose. To make use of a certain quality it needs to be available in a certain
-quantity. One brick is not enough to build a house, 1 billion is too much. One
-grain of rice is too little for a meal, 100g perhaps about adequate. Put
+quantity. One brick is not enough to build a house, 1 billion is too much. Put
 differently, to build a house one does not want bricks, many bricks or more
 bricks. One wants however many bricks it takes to build a house: definitely a
 definite quantity.
@@ -246,13 +245,13 @@ pasta it takes to fill us up, the actual task itself determines this
 quantity. Our ignorance does not change this.
 
 This observation stands in constrast to the central category of modern
-econimics: scarcity. Scarcity — "there is not enough" — is a relation of how
-much stuff there is vs. how much someone wants for some purpose; scarcity is a
-category of a relation between stuff and need.  It does not make sense to say
-there is not enough coffee, but we have to say "not enough for what?". In the
-same way, we need a certain amount of bricks to build a house, not just bricks
-or many bricks.  Bricks are no scarce or plentiful in general, but in relation
-to whatever we want to do with them.
+economics, *scarcity* as such.  Scarcity — "there is not enough" — is a relation
+of how much stuff there is vs. how much someone wants for some purpose; scarcity
+is a category of a relation between stuff and need.  It does not make sense to
+say there is not enough coffee, but we have to say "not enough for what?". In
+the same way, we need a certain amount of bricks to build a house, not just
+bricks or many bricks.  Bricks are no scarce or plentiful in general, but in
+relation to whatever we want to do with them.
 
 Yet, in modern economics stuff is defined as scarce regardless of the need that
 confronts it. Consequently, when these economists start with scarcity they do
@@ -267,7 +266,7 @@ economics when scarcity as such is assumed. For example, a popular example is
 beach-front homes, i.e. something which is thought of as limited by its
 location, it is thought that you cannot make more.  Another common example
 is that in a dessert a glass of water would be a lot more valuable than in
-modern London. In a desert somebody would give everything for a glass of water
+modern London. In a dessert somebody would give everything for a glass of water
 because it is so scarce, you cannot make more. However, the object of
 investigation is the capitalist mode of production with its "immense collection
 of commodities" on the market and not a single exchange relation in a dessert
@@ -302,14 +301,15 @@ under all social organisations of production and consumption.[^23]
 > may be.  In the form of society to be considered here they are also the
 > material bearers of … exchange-value.
 
-Recall that in the first sentence the object was defined as the particular form
-of wealth as it appears in capitalist societies. We then moved on to studying
-the content of this wealth, the commodity's body considered as a useful
-object. But it is their commodity form which is specific to the capitalist mode
-of production. Consequently, the use-value side or usefulness is not how to
-proceed. While use-values will play a role later during the investigation, we
-cannot derive the particularity of the commodity from use-value. Material wealth
-consists of useful objects without appearing in commodity form.
+Recall that in the first sentence the object of the investigation was defined as
+the particular form of wealth as it appears in capitalist societies. We then
+moved on to studying the content of this wealth, the commodity's body considered
+as a useful object. But it is their commodity form which is specific to the
+capitalist mode of production. Consequently, the use-value side or usefulness is
+not how to proceed. While use-values will play a role later during the
+investigation, we cannot derive the particularity of the commodity from
+use-value. Material wealth consists of useful objects without appearing in
+commodity form.
 
 In all societies people need to eat and in all possible social organisations
 people need to work to produce the stuff to consume. This cannot change, as
@@ -329,19 +329,19 @@ gets two chairs — if the apples are of the same kind. Exchange-value is not a
 property of a particular batch of apples, but every ton of apples has this
 property.
 
-With "relation" is expressed that not only one ton gives access to 2 chairs but
-that e.g. two tons grant access to four chairs. Exchangeability is not bound to
-one ton. This might seem trivial and self-evident but it is not: one could say,
-for example, we want everybody to be able to get chairs, so as you buy more and
-more chairs they become more and more expensive (measured in apples) or,
+With "relation" is expressed that not only one ton gives access to two chairs
+but that e.g. two tons grant access to four chairs. Exchangeability is not bound
+to one ton. This might seem trivial and self-evident but it is not: one could
+say, for example, we want everybody to be able to get chairs, so as you buy more
+and more chairs they become more and more expensive (measured in apples) or,
 alternatively, one cannot even buy more than two chairs, full stop. But this is
 clearly not how this society exchanges. From this we might conclude that in this
 society it is a quality of apples to be exchangeable for chairs.
 
 If one takes this standpoint and considers exchange-value as a property of the
 commodity (an assumption which will be corrected in the following) then apples
-are determined "exchangeable for chairs" which we might also express as "means to
-access chairs" or "chair access resources". While the use-value of apples is
+are determined "exchangeable for chairs" which we might also express as "means
+to access chairs" or "chair access resources". While the use-value of apples is
 their quality to satisfy hunger and appetite, exchange-value — as far as we have
 determined it so far – as a property of apples means one can get access to
 chairs with them.
@@ -394,24 +394,24 @@ resource" etc. "Many exchange values" here means: apples are access resources to
 any other use-value in this society which is available on the market.
 
 This “content distinguishable from it” that all these exchange-values express is
-a somewhat quantified "exchangeability as such" as a property of the
-apple. Apple owners can access all material wealth that is available as a
-commodity in this society.  How far this access reaches is only a question of
-how many apples they have. Apples have the characteristic that they are access
-resources to social wealth in a capitalist economy, where social wealth means
-material wealth that is available in society, i.e. on the market.  That one can
-use apples to access chairs is then only an expression of the more general
-quality of apples to access anything. Apples do not have chairs as
-exchange-value because apples are access resources to chairs, but because they
-are *means of access sans phrase*. All those different exchange-values express
-this same quality of the apple *about the apple*.
+"exchangeability as such" as a property of the apple. Apple owners can access
+all material wealth that is available as a commodity in this society. Apples
+have the characteristic that they are access resources to social wealth in a
+capitalist economy, where social wealth means material wealth that is available
+in society, i.e. on the market. This "exchangeability as such" is somehow
+quantified. That is, how much access to social wealth apples grant is a question
+of how many apples we have.  That one can use apples to access chairs is then
+only an expression of the more general quality of apples to access anything. All
+those different exchange-values point to the same quality *of the apple*: apples
+do not have chairs as exchange-value because apples are access resources to
+chairs, but because they are *means of access sans phrase*.
 
 On the other hand, the "valid exchange-values of a particular commodity express
 something equal" namely that for apples they all count as representatives of
 social wealth.  Considered as exchange-values all commodities only count as
 particular instances of social wealth as such, they are all the same. This is a
 statement about all exchange-values of the apple, *about boot-polish, silk, gold
-etc.*
+etc.*: they are as exchange-values of the apple "mutually replaceable".
 
 An analogy: say Elizabeth is in a position of authority towards Alice.  We could
 say that this is due to the special relation between Elizabeth and Alice or by
@@ -420,17 +420,17 @@ Bob, Charley, Eve. In fact, let's assume Elizabeth is in a position of authority
 towards everybody else. Each of these particular relations of command and
 servitude are merely particular modes of expression of Elizabeth's power to
 rule. At the same time Alice, Bob, Charley, Eve, etc. are all mutually
-replaceable, they are all Elizabeth's subjects and count as particular
-expressions of this.
+replaceable insofar they are all Elizabeth's subjects and count as particular
+expressions of this in their relation to Elizabeth.
 
 Relative to those arguments above against the objective theory of value, we
 hence have to say: while the definite proportions and quantities might change,
 what remains is the quality of apples to access chairs. Furthermore, the
 relations between apples and other commodities might change as well, but what
 remains is the quality of apples to be exchangeable for them.  Quantitatively a
-lot might change, but the quality of the apple to be exchangeable for, to grant
-access to, any part of social wealth — given enough apples — remains. What gives
-apples this power?
+lot might change, but the quality of the apple to be exchangeable for or to
+grant access to any part of social wealth (given enough apples) remains. What is
+it about the apple that allows this?
 
 > 127:2 Let us now take two commodities, for example corn and iron. Whatever
 > their exchange relation may be, it can always be represented by an equation in
@@ -454,20 +454,23 @@ chairs allow one to get one ton of apples, this is just the perspective
 reversed.  All the arguments in the last paragraph also apply to chairs. Chairs
 are not only exchangeable for apples, because they are apple access resources
 but because they generally have the quality of quantified exchangeability.
-Chairs, too, represent means of access to the wealth in this society.
+Chairs, too, are means of access to the wealth in this society.
 
 This is where the analogy from the last paragraph stops working. In that analogy
 Elizabeth was not Alice's ruler because she was Alice's equal, on the contrary.
 In contrast to this, commodities are not in a one-directional relationship of
-access but relate to each other as *equal*. Chairs access apples because apples
-access chairs, and vice versa.
+access but relate to each other as *equal*. In the last paragraph, a result was
+that all exchange-values of the wheat are mutually replaceable as
+exchange-values — they are equal. Now, the result is that the wheat and any of
+its exchange-values is also equal.
 
-In exchange the chair recognises our apples as a bit of social wealth, too.
-This answers the question of what gives our apples the power to be exchangeable
-for any other bit of social wealth: they are a bit of social wealth themselves.
-Apples are means of access to a bit social wealth because they *are*. Commodity
-exchange means that any particular bit of social wealth counts as a greater or
-lesser quantity of social wealth as such.
+In exchange, the chair accesses our apples as representatives of social wealth,
+too.  This answers the question of what gives our apples the power to be
+exchangeable for any other bit of social wealth: they are a bit of social wealth
+themselves.  Apples are means of access to a bit social wealth because they
+*are*. Commodity exchange means that any particular bit of social wealth
+confronts the rest of social wealth as a greater or lesser quantity of social
+wealth as such.
 
 The third thing which is neither apples nor chairs, but contained in both of
 them is that they are quantities of social wealth sans phrase. What is this
@@ -510,14 +513,14 @@ they are", these commonalities, if they exist, do not explain what goes on when
 a society exchanges its products of labour and therewith equates them.
 
 Every commodity needs a use-value. Only when there is need in society for a
-thing, it may be used to attract the interest if other members of
+thing, it may be used to attract the interest of other members of
 society. However, the usefulness of a thing cannot be quantified. If I want to
 sit down on a table with five people then I need a table and five chairs. Four
 chairs do not satisfy this need, six chairs do not offer more usefulness for
 this purpose than five. The standpoint "at least I have three chairs, then only
 two people need to sit on the floor" is an expression of managing scarcity and
 not an expression that five chairs satisfy a need better than three. Five
-satisfy my need, three don't. More generally, if we compare the usefulness of
+satisfy my need, three do not. More generally, if we compare the usefulness of
 different use-values then the statement that a bicycle would be more useful than
 lunch is pretty absurd. If I am hungry a bicycle does not help, if I want to get
 from A to B lunch is of no help.
@@ -526,17 +529,16 @@ However, for many people these alternatives, comparisons and quantifications
 appear as rather straight-forward. They think about their day-to-day life and
 there such questions appear quite often … due to limited spending power: "Do I
 treat myself to a good meal and don't go to the pub or vice versa?" However,
-when asking this question we already compares the amount of our money with the
+when asking this question we already compare the amount of our money with the
 price of the two things we would enjoy doing. We come to the conclusion that
 these magnitudes do not match up and hence we have to limit ourselves. Only
 after we compared the respective magnitudes we arrive at limiting our needs and
-desires. Only after this step we make the absurd but forced upon ourselves
-comparison: what can I do without. This way the daily struggle appears as if the
-exchange relations were determined by use-values or our own individual needs and
-desires.
+desires. Only after this step we make the forced upon ourselves comparison: what
+can I do without. This way the daily struggle appears as if the exchange
+relations were determined by use-values or our own individual needs and desires.
 
 Two comparisons between use-values are sensible, but have nothing to do with the
-question considered here: Firstly, I can compare a use-value in relation to a
+question considered here. Firstly, I can compare a use-value in relation to a
 particular need. If I want to drink a hot drink, a cup might be more useful than
 a glass. A bicycle, however, certainly does not come to mind. Secondly, I can
 ask myself whether remodelling my room is worth the effort if it takes up so
@@ -548,12 +550,12 @@ certainly does not relate different useful things.
 From the perspective of the commodity seller, usefulness is definitely not what
 founds exchangeability. She does not want to use the commodity but exchange
 it. For her it does not have any usefulness at all. The owners of the BMW
-company may want drive, say, 10 cars themselves, the remain thousands of cars
+company may want drive, say, 10 cars themselves, the remaining thousands of cars
 which are produced every day are certainly not useful to them. For those who
 want to have one of those BMWs it too cannot be irrelevant how many apples they
 have to give up in exchange for it. One could say, well those apples do not have
 use-value for them, so it does not matter how many they have to give up, they
-gets what they really want. Because access to use-values in this society is
+get what they really want. Because access to use-values in this society is
 dependent on how much I own, use-value only plays the part that it must exist in
 exchange; the exchangers confront each other on the exchange-value side. Because
 everybody does it, an individual decision also does not play a big role. I have
@@ -563,11 +565,11 @@ preferences.
 
 Finally, that the particular use-values are not the point when we are
 considering the exchange-value side of commodities is illustrated by the fact
-that any use-value — if there is demand for it in society — enables one to
-exchange it for all other things in society if I own them. Producing gold,
+that any use-value — if there is demand for it in society — enables us to
+exchange it for all other things in society if we own them. Producing gold,
 fertilisers or toilets, all these things do not differ qualitatively as to what
 wealth I can get access to. If I have enough, I can exchange them for what I
-need and desire, because they are recognised as social wealth themselves.
+need and desire, because they are social wealth themselves.
 
 ### Labour
 
@@ -578,33 +580,27 @@ We are searching for an answer to the question what it means to speak of social
 wealth as such in disregard of its particular qualities as particular useful
 objects. What does it mean to speak of an apple as a bit of social wealth as
 such, in abstraction from its apple-ness as a foundation for the apple's
-capacity to access any social wealth?
+capacity to access any social wealth? We are seeeking to express in what sense
+all these products of labour are equal, just undifferentiated more or lesser
+parts of total social wealth; to express what their "common social
+substance"[^108] is.
 
-It is clear that material wealth must be produced, it does not fall from the sky
-but requires effort.  It is also clear — cf. Marx' letter to Kugelmann above —
-that under any mode of production somehow society's labour must be directed,
-production and consumption "coordinated". However, in the societies "where the
-capitalist mode of production prevails" not much coordination is actually going
-on.  Producers produce in private, without a common plan. Instead, they produce
-for exchange and only on the market they find out if their products can be
-exchanged for those products which they need. On the market they find out if the
-product of their efforts is recognised as social wealth, if their labour was in
-vain or not. The form in which production and consumption are coordinated is
-that the products of labour all count as a bit of social wealth as such if they
-are successfully exchanged. In a commodity producing and exchanging society the
-fact that it requires effort to produce material wealth is used to make the
-other exchanging party hand over its bit of social wealth in return. This is
-what we mean when we say that commodities recognise each other as social wealth.
+The common social substance which characterises products of labour as part of
+the division of labour of society is, well, that they are products of labour.
+For material wealth to be part of society's wealth it must be produced first, it
+does not fall from the sky but requires effort. In that regard they are all
+equal and, in particular, in this regard they all constitute a part of the total
+product of society.
 
 There are many things which are not products of labour which still can be
-exchanged. What about those? Virgin soil for example. Marx deals with virgin
-soil and how its value is determined in Volume 3. For now, we can say: for the
-things we need to live, things which require no labour at all, are the
+exchanged.  What about those?  Virgin soil for example.  Marx deals with virgin
+soil and the laws governing its exchange in Volume 3.  For now, we can say: for
+the things we need to live, things which require no labour at all, are the
 exception.[^8] Marx will pick this up again briefly at the end of this
 sub-chapter.
 
-Now we arrived at the conclusion that social wealth as such is somehow related
-to labour. How?
+We arrived at the conclusion that social wealth as such is somehow related to
+labour. How?
 
 ### Abstract Labour
 
@@ -2028,3 +2024,10 @@ into theory.
     point of the investigation is that the capitalist mode of production
     reproduces society, this does not mean, however, that it must necessarily do
     this.
+
+[^108]: "Commodities as objects of use or goods are corporeally different
+    things. Their reality as *values* forms, on the other hand, their
+    *unity*. This unity does not arise out of nature but out of society." Karl
+    Marx — Capital, Volume 1, 1st Edition, p. 9
+
+
