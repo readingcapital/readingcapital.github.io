@@ -99,13 +99,65 @@ ought to be shortened.
 
 #### 1. The Formal Distinctions ####
 
+The starting point for this chapter is that different parts of productive
+capital have different turnover times. This leads to the introduction of the
+concepts of circulating and of fixed capital.
+
+Circulating or fluid capital: the value of those means of production that is
+fully transferred to a new commodity and hence ceases to exist materially after
+this transfer. The same for labour power: a value equivalent of the labour power
+consumed during production is part of the commodity created and can hence
+circulate on.
+
+Fixed capital on the other hand consists of means of labour such as machinery
+that transfer part of their value to newly created products but remain
+materially in the production process (until finally used up). Fixed capital is
+any means of labour that circulates slower than circulating capital.
+
+The difference between fixed and circulating capital is hence related to the
+use-value side of production: some means of production are completely consumed
+in the production of a single product, while others continue to function for
+longer. But fixed capital has nothing to do with it being immobile (that's a
+mistake bourgeois economists made). The decisive point is how this part of
+capital circulates.
+
+> 240:0 This particular manner of circulation arises from the particular way in
+> which the means of labour gives up its value to the product, or acts to form
+> value during the production process. This in turn arises from the special way
+> in which the means of labour function in the labour process.
+
+Only in this regard, use-value plays a role: the way in which it allows its
+value to be transferred. Hence, fixed/circulating capital is about how value is
+giving up or transferred to the product, whereas constant/variable capital is
+about how value is formed.
+
+Circulating capital embodied in the commodity gets thrown onto the market, sold,
+and thereby its initial value is returned in form of money capital, providing
+means to buy new circulating capital in form of means of labour and
+labour-power. Fixed capital, however, only returns partially. During its
+lifespan the value of the fixed capital in the form of the machine decreases
+accordingly – while the amount of fixed capital in money form increases. All
+things being equal, the money fund for buying a new machine must be filled after
+the old one has served fully. Then, a new version of it needs to be bought – the
+money is spent all at once. Fixed capital is an upper limit on turnover, as it
+needs longest – fluid capital has turned over several times before fixed capital
+does it once. In terms of advance both forms are equal, but the way reflux works
+makes a difference: fixed capital withdraws a big value from the commodity
+market at once, whereas circulating capital only takes smaller parts of value,
+but more often.
+
 #### 2. Components, Replacement, Repairs and Accumulation of the Fixed Capital ####
+
+It is a repair or replacement, if some part of a machine does not work any
+longer and is replaced. It is expansion, if production is enlarged (extensively)
+or machines are made more efficient (intensively). Neither is driven by $m$ even
+though it is expansion, but is paid for by a money hoard formed by returned
+value parts of fixed capital.
 
 ### Chapter 9: The Overall Turnover of the Capital Advanced. Turnover Cycles ###
 
-Fixed and fluid (=circulation) capital parts of capital turn over differently.
-Furthermore, different parts of fixed capital have different turnover
-times.
+Fixed and fluid capital parts of capital turn over differently.  Furthermore,
+different parts of fixed capital have different turnover times.
 
 1. Capital is one sum of value that continuously produces its own surplus.
    However, in its material form (as means of production) this identity is not
@@ -120,12 +172,12 @@ times.
    capital.
 
 2. However, there are not only differences in turnover time but also in how the
-   various parts turnover. Fluid capital parts have to be replaced
-   continuously. Some parts of fixed capital can be replaced or repaired at
-   shorter intervals.  Other parts of fixed capital can only be replaced once
-   they have transferred all their value to the product. Those different forms
-   of replacement do affect material reproduction but they do not affect the
-   reproduction time of the values involved.
+   various parts turnover. Fluid capital parts have to be replaced continuously.
+   Some parts of fixed capital can be replaced or repaired at shorter intervals.
+   Other parts of fixed capital can only be replaced once they have transferred
+   all their value to the product. Those different forms of replacement do
+   affect material reproduction but they do not affect the reproduction time of
+   the values involved.
 
    > 262:5 It is necessary therefore to reduce the separate turnovers of the
    > various parts of the fixed capital to a similar form of turnover, so that
@@ -182,6 +234,39 @@ This section was intentionally left blank.
 
 ### Chapter 12: The Working Period ###
 
+A working period is the total working time which is needed to produce a certain
+product, i.e. the total number of labour hours.  It is the only time where value
+is produced and where exploitation takes place.  The longer the working time,
+the more disastrous the consequences of an unsuccessful commodity, as more value
+was produced in vain.
+
+*Discrete product*: the whole working period is short (say, a day or a
+week).
+
+*Continuous product*: it takes a long time to finish a product (extreme version:
+building a ship).
+
+For the production of discrete products, less circulating capital must be
+available as selling of already finished products provides returning capital to
+keep the production of more stuff going.  If the continuous product is sold, a
+big chunk of capital including surplus-value returns at once.  The practical
+consequence is especially relevant for capital-intensive and continuous
+products: if the process of production is halted or stopped completely, all the
+labour done so far counts nil.  Faster machines help by speeding up the process
+of (continuous) production, thereby relatively more fixed capital is applied. It
+also means more bound capital, which is a burden in a crisis.
+
+Historically, huge continuous products could only be produced after accumulation
+of capital in society reached a point where a company could actually gather
+enough money capital.  Building railways was vastly supported by the
+state. Credit addresses that problem.
+
+The working period, on the one hand, is the one where valorisation happens – so
+for valorisation a long working period is great (cf. Volume 1). In this second
+volume though with standpoint of continuity having been established, turnover in
+itself counts – and for that, each single period comes under attack and should
+be shortened or as short as possibly possible.
+
 ### Chapter 13: Production Time ###
 
 *Production time* is the sum of the working period and the time during which
@@ -226,23 +311,92 @@ arrive. The time between the two can be bridged by credit.
 
 ### Chapter 15: Effect of Circulation Time on the Magnitude of the Capital Advanced ###
 
-#### 1. Working Period and Circulation Period Equal ####
+Circulation time influences the valorisation of capital negatively. Continuity
+now counts, so during circulation time additional capital takes the place of
+that capital now in stuck in the circulation sphere to keep production going. In
+order to ensure continuity of capital's valorisation additional capital is
+necessary which mostly lies idle.  The size of this additional capital is
+determined by the relation of the length of the circulating time to the turnover
+time.  With additional capital, circulation time appears to be zero and
+production is continuous.
 
-#### 2. Working Period Longer than Circulation Period ####
+#### 1.-3. Working Period and Circulation Period Equal, Longer than, Shorter than ####
 
-#### 3. Working Period Shorter than Circulation Period ####
+How the two periods (working/circulation period) and their length relate to each
+other and how that effects the tying-up of capital in form of money capital.
+They are rarely identical in length and when they are not, continuity of the
+working period demands for additional circulating capital to be available as
+money capital.
 
 #### 4. Results ####
 
+As a result of turnover, whose measure of valorisation dictates the speed of
+value reproduction, lots of additional money capital is necessary on a social
+level for the continuity of the working period. That is, capital set free is
+necessary for the continuity. This working process is objectified in machinery,
+and
+
+> 356:4 Continuity is itself a productive force of labour.
+
+A longer circulation time leads to pressure on the money market. The need for
+more money capital and money at the same time having to lie idle, is one drive
+for a credit system: need for money capital and the need for it to be used as
+such – even in simple reproduction.
+
 #### 5. Effect of Changes in Price ####
+
+Changes of price lead to more capital being set free – or to more capital being
+bound and thereby affect capital advance, the amount of capital available as
+money capital and thereby the speed of turnover.
 
 ### Chapter 16: The Turnover of Variable Capital ###
 
 #### 1 . The Annual Rate of Surplus-Value ####
 
+Additional capital is required to keep production going continuously. Part of
+capital is idle, but the turnover is related to all circulating capital
+advanced, not only that which is active. In this chapter we ignore constant
+capital as we are dealing with the effect of the turnover on surplus-value,
+which is created by variable capital. A faster turnover realises that the same
+advance in variable capital sets a bigger amount of labour in motion because
+less capital is idle. This gives rise to the introduction of the annual rate of
+surplus value:
+
+$\frac{\mbox{mass of surplus-value produced during a turnover period}}{\mbox{variable capital applied during a turnover period}} \times \mbox{ turnover time of v}$
+
+The more often $v$ turns over, the more often it can produce $m$, and the
+efficiency of the advance in $v$ to bring that production of $m$ about is
+measured in the annual rate of surplus-value.  The rate of surplus-value is not
+related to a specific period: it applies to one hour just as much as to one day
+or year.  The annual rate of surplus-value is related to a year and measures the
+efficiency of capital to exploit labour.
+
+This does not mean that surplus-value now has a source outside of the
+exploitation of labour: if a capital turns over faster then less variable
+capital is idle and the ratio of advanced variable capital to actually employed
+variable capital decreases: more of the variable capital is actually employed.
+
 #### 2. The Turnover of an Individual Variable Capital ####
 
+Individual capital has to advance less capital to set the same amount of labour
+into motion if turnover decreases. If variable capital turns over in 5 weeks,
+capital can pay the wages of its workers after five weeks from the proceeds of
+the previous turnover.  This is different if turnover is 1 year: in week 6
+capital has to pay wages from initially advanced capital. Its workers might have
+produced value in the first 5 weeks this value does not have the right
+value-form yet, though: it is at most commodity, but not money yet.
+
 #### 3 . The Turnover of Variable Capital Considered from the Social Point of View ####
+
+In week one a Capital A and a Capital B advance money which their workers use to
+buy food. Say Capital A turns over in a week. Then the money it throws into
+circulation to hire its workers in week 2 is the equivalent of a value product
+it produced and sold. If Capital B turns over slower, it also throws money into
+circulation but without throwing a commodity equivalent into circulation at the
+same time.
+
+If the turnover is long there are periods where there is a surplus of money
+entering circulation compared with commodities entering circulation.
 
 ### Chapter 17: [The Circulation of Surplus-Value](chapter-17-commentary) ###
 
@@ -307,7 +461,7 @@ a limit which is overcome by the credit system.
 Yet, in absence of such a credit system, most extended reproduction requires
 hoarding until sufficient funds are available. Where does this hoarded money
 come from? If the hoard is accumulated by selling to money producers directly,
-there is no problem, additional money is produced and horded.
+there is no problem, additional money is produced and hoarded.
 
 However, if the hoard is accumulated by withdrawing money from circulation, this
 presupposes that not all capitalists engage in hoarding at the same time. The
