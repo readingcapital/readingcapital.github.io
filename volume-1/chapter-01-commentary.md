@@ -909,30 +909,25 @@ productivity is no reason to work less. Spare time which one can enjoy is not
 part of the programme of value. Value does not service the labourer, but the
 labourer has to service value, has to act in accordance to its demands.[^14]
 
-So abstract labour as the substance of value and socially necessary labour-time
-as the measure of value isn't just another way of saying that people produce
-stuff. These are statements how they produce. More precisely how they confront
-each other in this society and what that means for the labour they perform.
-Abstract labour is performed where commodities are produced. On the other hand,
-abstract labour does not mean nothing, i.e., one could be tempted to think that
-if abstract labour is something specific to this society it would have nothing
-to do with labour as performed under all kinds of different social conditions. A
-reading, which is perhaps aimed against a reading of abstract labour by
-Leninists who think of it as a condition of human existence, holds that abstract
-labour has no physiological side to it, that would be a naturalistic
-reading. Hence, one doesn't know much more about value by reducing it to
-abstract labour: one fairly empty social category is reduced to another. A
-meaningless reduction, one could drop the mention of “labour” from “abstract
-labour” and one is not any further in one’s analysis than before the
-reduction. Yet, it is one thing to explain that the physiological equality,
-i.e., that people do stuff, does not constitute value, it is another thing to
-claim value would have nothing to do with it. What is lost in this abstract
-account are the results about what abstract labour as a social rule does to
-concrete labour. That is, this way the critique of abstract labour is lost,
-i.e., the account what it does to concrete labour and the immediate producers if
-pure expenditure of labour-power, pure toil, something purely negative is what
-counts. Abstract labour asserts itself against the immediate producers because
-it turns a physiological quality of their activity against them, reduces their
+So congealed abstract labour as the substance of value and socially necessary labour-time as the
+measure of value isn't just another way of saying that people produce stuff. These are statements
+how they produce. More precisely how they confront each other in this society and what that means
+for the labour they perform.  Abstract labour is performed where commodities are produced. On the
+other hand, abstract labour does not mean nothing, i.e., one could be tempted to think that if
+abstract labour is something specific to this society it would have nothing to do with labour as
+performed under all kinds of different social conditions. A reading, which is perhaps aimed against
+a reading of abstract labour by Leninists who think of it as a condition of human existence, holds
+that abstract labour has no physiological side to it, that would be a naturalistic reading. Hence,
+one doesn't know much more about value by reducing it to abstract labour: one fairly empty social
+category is reduced to another. A meaningless reduction, one could drop the mention of “labour” from
+“abstract labour” and one is not any further in one’s analysis than before the reduction. Yet, it is
+one thing to explain that the physiological equality, i.e., that people do stuff, does not
+constitute value, it is another thing to claim value would have nothing to do with it. What is lost
+in this abstract account are the results about what abstract labour as a social rule does to
+concrete labour. That is, this way the critique of abstract labour is lost, i.e., the account what
+it does to concrete labour and the immediate producers if pure expenditure of labour-power, pure
+toil, something purely negative is what counts. Abstract labour asserts itself against the immediate
+producers because it turns a physiological quality of their activity against them, reduces their
 activity to it.
 
 Marx’ comment that diamonds probably never have been paid for at their full
