@@ -28,7 +28,7 @@ the reproduction and accumulation of total social capital.
 
 ### Chapter 8: Different Compositions of Capitals in Different Branches of Production, and Resulting Variations in Rates of Profit ###
 
-### Chapter 9: Formation of a General Rate of Profit (Average Rate of Profit) and Transformation of the Commodity Values into Prices of Production ###
+### Chapter 9: [Formation of a General Rate of Profit (Average Rate of Profit) and Transformation of the Commodity Values into Prices of Production](chapter-09-commentary) ###
 
 ### Chapter 10: Equalization of the General Rate of Profit Through Competition. Market-Prices and Market-Values. Surplus-Profit ###
 
