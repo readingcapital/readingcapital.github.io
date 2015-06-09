@@ -34,7 +34,7 @@ the reproduction and accumulation of total social capital.
 
 ### Chapter 11: Effects of General Fluctuations in Wages on Prices of Production ###
 
-### Chapter 12: Supplementary Remarks ###
+### Chapter 12: [Supplementary Remarks](chapter-12-commentary) ###
 
 ## Part Three: The Law of the Tendency of the Rate of Profit to Fall ##
 
