@@ -29,8 +29,8 @@ Since the rate of profit is related to a some time span anyway — typically a y
 
 An example. Assume the year has 50 weeks, all capital is circulating (fixed capital is treated later):
 
-$v = 200, c = 200, \frac{s}{v} = 100\%, \mbox{turnover}: 2 \mbox{wks}, S = 25·200 = 5000, \frac{S}{v} = 25, S/(v+c) = 12 1/2$  
-$v = 100, c = 100, \frac{s}{v} = 100\%, \mbox{turnover}: 1 \mbox{wks}, S = 50·100 = 5000, \frac{S}{v} = 50, S/(v+c) = 25$
+$v = 200$, $c = 200$, $\frac{s}{v} = 100\%$, turnover: $2 \mbox{wks}$, $S = 25·200 = 5,000$, $\frac{S}{v} = 25$, $S/(v+c) = 12 1/2$  
+$v = 100$, $c = 100$, $\frac{s}{v} = 100\%$, turnover: $1 \mbox{wks}$, $S = 50·100 = 5,000$, $\frac{S}{v} = 50$, $S/(v+c) = 25$
 
 In this example, $S’$ and $p’$ scaled by the same factor two. This holds if,
 
