@@ -1,6 +1,7 @@
 ---
 title: Chapter 18&#58; Introduction
 author: readingcapital.github.io
+layout: page
 ---
 
 ## The Object of the Inquiry ##
