@@ -9,14 +9,14 @@ then to use this money to bridge the gap between oneself and another
 commodity. Here, money is first of all a means (the facilitator between
 commodity and commodity) and not purpose of the whole operation.
 
-*Bob:* One is dependent on money. Of one has only one commodity one *cannot* only
+*Bob:* One is dependent on money. If one has only one commodity one *cannot* only
 exchange it for money, but one *must* convert it to money. Commodity against
 commodity does not work. The purpose of organising the social metabolism via
 C-M-C contains both: Money as the master of commodities, which one needs to get,
 in order to use it as a means for one’s needs and desires (which works because
 money subordinates commodities).
 
-> The price-form therefore implies the both the exchangeability of commodities
+> The price-form therefore implies both the exchangeability of commodities
 > for money and the necessity of exchanges. (198)
 
 > The servant becomes the master. The mere underling becomes the god of
@@ -30,7 +30,7 @@ Trivially this only means that whenever I choose a means for an ends then
 obtaining that means (if available) becomes my temporary end. If for example a
 state makes war in order to break the will of another sovereign, then it must be
 its temporary purpose to destroy the source of the other sovereignty, i.e.,
-destroy land and people. From that means no new ends do not arise permanently
+destroy land and people. From that means no new ends arise permanently
 for the warring state, because in times of peace it engages in negotiations and
 chooses between acknowledging and breaking another sovereign. Just because
 killing people is a means for governments, this does not imply that states have
@@ -64,15 +64,15 @@ referring to relative surplus-value production here, introduced in Chapter
 more money out of money. Also, only under these conditions it holds that more is
 better than a little more.
 
-*Bob*: On the one hand Alice is right, when she says that it is not follow that
-simple from money, that one cannot have enough of it since there are examples,
+*Bob*: On the one hand Alice is right when she says that simply from money it 
+does not follow that one cannot have enough of it, since there are examples
 where some people decide that they have enough. Not only rich people retire and
 eat up their capital, also some workers retire voluntarily early because their
 rent and savings suffice for them. One criterion for this decision can be for
-both: relative to the stress and hustle, which earning money brings about, I
+both: relative to the stress and hustle which earning money brings about, I
 think that the money I have already suffices for a decent retirement. This is
 btw. also something that Dave mentioned: such decisions exist and there people
-relate their money and their claims on money with their needs and desires and
+relate to their money and their claims on money with their needs and desires and
 decide: this is enough.
 
 The boundless purpose of money accumulation is thus imposed on everyone at any
@@ -82,17 +82,17 @@ took care of earning money beforehand. But so far no boundless nature can be
 detected.
 
 On the other hand, Alice is wrong when she thinks competition has to be added to
-moneymaking such hat the boundless nature of the purpose becomes valid. In the
-passage of Capital, where the quality-quantity argument is made which Alice
+moneymaking such that the boundless nature of the purpose becomes valid. In the
+passage of Capital where the quality-quantity argument is made which Alice
 labels metaphysical, Marx (C1, p.228) talks about the uncertainty of the selling
-commodities to explain why everyone has to be a hoarder to some extend. He
+commodities to explain why everyone has to be a hoarder to some extent. He
 talked about the variants of uncertainty before: The limits of the market for
-the producers, turns the sell of a commodity into a salto mortale (C1, p.200ff):
+the producers, turns the sale of a commodity into a salto mortale (C1, p.200ff):
 is there demand for my commodity, and if so is it effective? What are my
 colleagues doing? Are they producing a commodity which beats mine in quality and
 replaces it? Are they producing faster and thus cheaper, such that I cannot
 reproduce myself from my labour power? Or are we all getting faster, can produce
-more and have to sell off our stuff really cheap which is beneficial for no one
+more and have to sell off our stuff really cheap which is beneficial for none
 of us? A few more uncertainties can be added to this: what about my suppliers,
 are they increasing prices?  What about the stuff I want to buy, does that stuff
 become more expensive? How come that one cannot rely on buyers, sellers and
@@ -101,7 +101,7 @@ fellow producers? Because they are concerned with their own business which means
 demand”. Why are they doing this? Because they want to earn money. And in the
 same way, the person which has a problem with them. He acts in the same way and
 causes uncertainties for the others. Thus even before the end “make *more*
-money” one needs to note that the purpose “making money *at all** contains a
+money” one needs to note that the purpose “making money *at all*” contains
 having and producing a lot of uncertainty.
 
 The conflict is founded in the purpose “social access power” around which
@@ -127,14 +127,14 @@ everybody must make hoarding an end, because the use of private access power for
 consumption destroys this power [money is spent].  Separated from the permanent
 purpose to use the means for reproduction one needs to gain money for the
 worst-case scenario. And this worst-case scenario is quantitatively undefined
-just like the quality of the of the means: earning money without loosing it in
+just like the quality of the means: earning money without loosing it in
 consumption.
 
 The quantity of the quality of the means is undetermined:
 
 The means for the worst-case scenario, the social access power is undetermined
-in its quality quantitatively undetermined. “Social access power” is taken on
-its own quantitatively undetermined, because it is a totalitarian thing. For
+in its quality quantitatively undetermined. “Social access power” taken on
+its own is quantitatively undetermined, because it is a totalitarian thing. For
 comparison: “Every useful thing, for example, iron, aper, etc. may be looked at
 from the two points of view of quality and quantity.” (125) Why does Marx say
 this about use-values?  Because use-value is the property of a commodity which
@@ -147,11 +147,11 @@ desire, which as Alice pointed out is not infinite.  Money is for itself in its
 quality a claim to power on the results of someone else’s labour (even when I
 buy a pint for 3 quid, so not only for the capitalist). And as a claim to power
 there is no boundary in money itself. This determination/quality of money has to
-be appreciated on its own. Alice does not do that when she counters: Why, I can
-relate the quantity of money to my needs and I can thus say after this and that
-much money I have enough. Even if with this determination/quality of money it is
-not explained why a person who is after satisfaction of needs and desires, has
-the purpose to accumulate money without bounders, one has to characterise this
+be appreciated on its own. Alice does not do that when she counters: I can
+relate the quantity of money to my needs and I can then say that the money I 
+have is enough. Even if with this determination/quality of money it is
+not explained why a person who is after satisfaction of needs and desires has
+the purpose of accumulating money without bounds, one has to characterise this
 means first on its own/for itself.
 
 The worst-case scenario is undetermined:
@@ -173,7 +173,7 @@ Christmas dinner in New York for 10.000 Euro. I can own a flat in every
 important capital of the world. I can try to help people in the Third World and
 thus if I am Bono from U2 or Bill Gates I cannot have enough money because there
 is so much poverty – just to counter the accusation that I want to spread only
-negative judgements about the point of view of rich people. No they have
+negative judgements about the point of view of rich people. No, they have
 sometimes, often, maybe more often than workers, maybe less often than workers –
 I don’t know and don’t want to measure it – that what commonly is referred to as
 best intentions.
@@ -193,7 +193,7 @@ accumulation follows from the purpose of simple moneymaking necessarily.
 
 Accumulation as impersonal purpose of the capitalist economy:
 
-The purpose “making *more* money” (regardless of as hoarder or as capitalist)
+With the purpose “making *more* money” (regardless of as hoarder or as capitalist)
 all economic subjects deny each other, because the simple purpose “make money
 *at all*” is included in it – but in quantitatively exponentiated form – and the
 purpose of attracting social access power contains an antagonism. Competition
@@ -225,7 +225,7 @@ for them to exit their company, they are reliant on other capitalists who pay
 them and continue with production.  Their rents have to be produced by future
 wage labour or successful stock market operations. Also the stability of
 currency depends on successful capitalist growth. Eve said correctly: „Even if
-he retires with a certain size of heard, he does not exit competition but
+he retires with a certain size of hoard, he does not exit competition but
 remains dependent on it.“ But in order to relate this verdict to my prior
 statements one needs to note the following: because the dropouts from the
 purpose “money accumulation” live on the money they have, their purpose is
