@@ -66,4 +66,13 @@ They might be able to point you to good Capital reading groups in London.
 
 ### Recommended Reading ###
 
- * ["'Real' value: Comments on the 'labor theory of value' and the wealth of capitalist society"](http://www.ruthlesscriticism.com/realvalue.htm) discusses the *labour theory of value* (chapter&nbsp;1 of Volume&nbsp;1) and how it is usually misunderstood.
+* [“’Real’ value: Comments on the 'labor theory of value' and the wealth of capitalist society”](http://www.ruthlesscriticism.com/realvalue.htm) discusses the *labour theory of value* (chapter 1 of Volume&nbsp;1) and how it is usually misunderstood.
+
+## [Andrew Kliman](http://akliman.squarespace.com/) ##
+
+> [Andrew Kliman](https://en.wikipedia.org/wiki/Andrew_Kliman) is a professor of economics at Pace University and author of several publications on Marxian economics, including the book Reclaiming Marx’s “Capital”, which defends the Temporal Single System Interpretation of Marx's labor theory against various claims of its inconsistency from neoclassical, neo-Ricardian and other economists.
+
+### Recommended Reading ###
+
+* [“A value-theoretic critique of the Okishio theorem”](http://akliman.squarespace.com/writings/VTCOT.doc) is useful for understanding the *tendency of the rate of profit to fall* (chapter 13 of Volume&nbsp;3)
+* [“Reclaiming Marx's ’Capital’ — A Refutation of the Myth of Inconsistency” ](http://akliman.squarespace.com/reclaiming/) is a useful resource for understanding the *transformation of values into prices of production* (chapter&nbsp;9 of Volume&nbsp;13) and the law of the *tendency of the rate of profit to fall* (chapter&nbsp;13 of Volume&nbsp;3).
