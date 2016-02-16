@@ -221,21 +221,21 @@ Finally, “fact” four implies that prices do eventually drop to cancel a fall
 
 ## References ##
 
-**[Capital, Vol. I]** Karl Marx. Capital Volume I. Penguin, 1982.
-**[Capital, Vol. III]** Karl Marx. Capital: Volume III. Penguin Classics, 1991.
-**[CR13]** Guglielmo Carchedi and Michael Roberts. A Critique of Heinrich’s, ‘Crisis Theory, the Law of the Tendency of the Profit Rate to Fall, and Marx’s Studies in the 1870s’. In: Monthly Review (2013).
-**[Georg12]** Ed George. [Chapter 13: The Law Itself](https://readingmarx.files.wordpress.com/2013/05/capital_v3_ch13.pdf). 2012.
-**[Heinrich06]** Michael Heinrich. Die Wissenschaft vom Wert. Westfälisches Dampfboot, 2006.
-**[Heinrich12]** Michael Heinrich. An Introduction to the Three Volumes of Karl Marx’s Capital. Monthly Review Press, 2012.
+**[Capital, Vol. I]** Karl Marx. Capital Volume I. Penguin, 1982.  
+**[Capital, Vol. III]** Karl Marx. Capital: Volume III. Penguin Classics, 1991.  
+**[CR13]** Guglielmo Carchedi and Michael Roberts. A Critique of Heinrich’s, ‘Crisis Theory, the Law of the Tendency of the Profit Rate to Fall, and Marx’s Studies in the 1870s’. In: Monthly Review (2013).  
+**[Georg12]** Ed George. [Chapter 13: The Law Itself](https://readingmarx.files.wordpress.com/2013/05/capital_v3_ch13.pdf). 2012.  
+**[Heinrich06]** Michael Heinrich. Die Wissenschaft vom Wert. Westfälisches Dampfboot, 2006.  
+**[Heinrich12]** Michael Heinrich. An Introduction to the Three Volumes of Karl Marx’s Capital. Monthly Review Press, 2012.  
 **[Heinrich13a]** Michael Heinrich. [Crisis Theory, the Law of the Tendency of the Profit Rate
-to Fall, and Marx’s Studies in the 1870s](http://monthlyreview.org/2013/04/01/crisis-theory-the-law-of-the-tendency-of-the-profit-rate-to-fall-and-marxs-studies-in-the-1870s/). In: Monthly Review 64.11 (2013).
-**[Heinrich13b]** Michael Heinrich. [Heinrich Answers Critics](http://monthlyreview.org/commentary/heinrich-answers-critics/). Dec. 2013.
-**[Kaldor61]** Nicholas Kaldor. Capital accumulation and economic growth. Macmillan, 1961.
+to Fall, and Marx’s Studies in the 1870s](http://monthlyreview.org/2013/04/01/crisis-theory-the-law-of-the-tendency-of-the-profit-rate-to-fall-and-marxs-studies-in-the-1870s/). In: Monthly Review 64.11 (2013).  
+**[Heinrich13b]** Michael Heinrich. [Heinrich Answers Critics](http://monthlyreview.org/commentary/heinrich-answers-critics/). Dec. 2013.  
+**[Kaldor61]** Nicholas Kaldor. Capital accumulation and economic growth. Macmillan, 1961.  
 **[KFPGC13]** Andrew Kliman, Alan Freeman, Nick Potts, Alexey Gusev and Brendan Cooney. [The Unmaking of Marx’s Capital: Heinrich’s Attempt
-to Eliminate Marx’s Crisis Theory](http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=2294134). 2013.
-**[Kliman11]** Andrew Kliman. The Failure of Capitalist Production: Underlying Causes of the Great Recession. United Kingdom: Pluto Press, 2011. i s b n: 9781849646239.
-**[Kliman96]** Andrew Kliman. A value-theoretic critique of the Okishio theorem. In: Marx and non-equilibrium economics (1996), pp. 206–224.
-**[MECW 33]** Karl Marx. 1861-63, Economic Manuscripts. Marx/Engels Collected Works (MECW) 33. Lawrence & Wishart, 1991.
+to Eliminate Marx’s Crisis Theory](http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=2294134). 2013.  
+**[Kliman11]** Andrew Kliman. The Failure of Capitalist Production: Underlying Causes of the Great Recession. United Kingdom: Pluto Press, 2011. isbn: 9781849646239.  
+**[Kliman96]** Andrew Kliman. A value-theoretic critique of the Okishio theorem. In: Marx and non-equilibrium economics (1996), pp. 206–224.  
+**[MECW 33]** Karl Marx. 1861-63, Economic Manuscripts. Marx/Engels Collected Works (MECW) 33. Lawrence & Wishart, 1991.  
 **[Samol13]** Peter Samol. Michael Heinrichs Fehlkalkulationen der Profitrate. In: Krisis (Jan. 2013).
 
 ---
