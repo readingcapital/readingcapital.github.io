@@ -38,7 +38,7 @@ the reproduction and accumulation of total social capital.
 
 ## Part Three: The Law of the Tendency of the Rate of Profit to Fall ##
 
-### Chapter 13: The Law Itself ###
+### Chapter 13: [The Law Itself](chapter-13-commentary) ###
 
 ### Chapter 14: Counteracting Factors ###
 
