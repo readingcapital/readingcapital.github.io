@@ -5,7 +5,7 @@ layout: page
 
 The subject of Chapter 13 is the law of the tendency of the rate of profit to fall. This law is controversial. For example, Michael Heinrich rejects the law in [Heinrich12, Heinrich13]. Amongst others[^1], [KFPGC13] responded to this criticism. We will also comment on this debate insofar as it is helpful to understand the law.
 
-## The law as such <a name="sec:law"></a> ##
+## The Law as Such <a name="sec:law"></a> ##
 
 The starting point of [Capital, Vol. III, Chap. 13] is the *observation* that the profit rate has a tendency to fall.[^2] This observation was made by political economy before Marx, but it had failed to find the “puzzle’s solution” [Capital, Vol. III, p.320], i.e. it had failed to formulate the *law* which would *explain* the observed phenomenon. In [Capital, Vol. III, Chap. 13] the following explanation is offered.
 
@@ -23,7 +23,7 @@ It only falls as a tendency, because there are other causes which lead to a temp
 
 Note that, as established previously in [Capital, Vol. III, Chapter 9], different individual rates of profit exist in different branches of industry, i.e.  labour intensive spheres of production exist. The law concerns the general rate of profit which is the average rate of profit.
 
-## Organic composition <a name="sec:organic-composition"></a> ##
+## Organic Composition <a name="sec:organic-composition"></a> ##
 
 The law of the tendency of the rate of profit to fall is premised on rising organic composition of capital.[^5] In the pursuit of higher profits, (a typical individual) capital seeks to reduce the cost price of commodities. Besides techniques such as increased economy in the use of constant capital, this is accomplished by increases in the productivity of labour for producing commodities. Some such increases of productivity of labour come to capital essentially for free: cooperation [Capital, Vol. I, Chap. 13] and division of labour [Capital, Vol. I, Chap. 14]. These techniques have their limits, however.[^6] Hence, the main technique for increasing the productivity of labour is to employ (more) machines: new or more tools or machines are used to produce the same product faster. This, as a rule, requires additional outlays for these technologies in the first instance. At the same time, using these technologies allows to save labour, production is faster, which means less needs to be expended on wages per commodity.
 
@@ -47,13 +47,13 @@ Similarly, if we assume a general and uniform increase in the productivity of la
 
 As a consequence, productivity increases generally do increase the organic composition of capital even under value revolutions, i.e. these value revolutions do not offset the rising organic composition. Note, however, this is no verdict yet on how they affect the profit rate, which relates outlay to surplus-value and not constant capital outlay to variable capital outlay.
 
-## Relative surplus-value <a name="sec:relative-surplus-value"></a> ##
+## Relative Surplus-Value <a name="sec:relative-surplus-value"></a> ##
 
 If organic composition $c/v$ grows and the rate of surplus-value $s/v$ is unchanged, then outlay $c+v$ grows relatively to profit $s$ and the rate of profit falls.
 
 However, a rising organic composition of capital and a rising rate of surplus-value are both expressions of the same movement under the rule of capital: they both are expressions of the rising productivity of labour. In contrast to the counteracting causes discussion in [Capital, Vol. III, Chap. 14] — other causes which counteract the effects of rising value composition on the profit rate — a rising rate of surplus-value is the result of the movement itself. The same movement both produces a fall in the rate of profit (rising organic composition) and produces a rise in the rate of profit (rising rate of relative surplus-value). This does not prevent us from abstracting away a rising rate of surplus-value at some stage of the argument (as we have done above), but we must consider it eventually to actually understand the effect of rising productivity on the average rate of profit. Put differently, given that Marx explains a falling rate of profit from increased productivity, we have to study what the effect of rising productivity on the profit rate is and cannot abstract one of its effects away.[^10]
 
-### Heinrich’s criticism of the law ###
+### Heinrich’s Criticism of the Law ###
 
 On this basis, Heinrich argues against the law of the tendency of the rate of profit to fall in [Heinrich13]. He firstly observes that we can rewrite the rate of profit as
 
@@ -69,7 +69,7 @@ If the number of workers per advanced capital decrease then eventually the surpl
 
 In response, [KFPGC13] correctly point out that Heinrich’s argument fails if we make Marx’ assumptions explicit. That is, once we explicitly mention that we are considering 24 resp. two workers employed by the *same* capital. If we make this assumption by Marx explicit (that we are talking about the same advance to employ these workers), then the assertion that $C$ could also drop is not a valid response, as it would merely assert that organic composition did not rise as a fast as assumed in the example. That is, it does not argue about the example but rejects it.
 
-### The rate of surplus-value and the profit rate ###
+### The Rate of Surplus-Value and the Profit Rate ###
 
 In the example discussed above, Marx assumes that organic composition rises, that the rate of surplus-value rises and that a capital of a given size employs less workers over time. This last assumption holds if we assume that the rate of surplus-value rises without the value of constant capital being (sufficiently) revolutionised by increases in productivity. That is, increases in the productivity of labour decrease the value of labour-power, but they do not decrease the value of constant capital (to such an extent to make the number of workers employed on a given capital shrink). Clearly, the assumption that there is only a mild value revolution with respect to constant capital but that there is a strong value revolution with respect to variable capital is a violent abstraction, i.e. it is unrealistic to assume that this actually holds. We will come back to this point in the next section. Here, we only point out that under this assumption — which is the assumption of Marx’s argument above — the tendency of the rate of profit to fall follows.[^13]
 
@@ -77,7 +77,7 @@ This result can be restated by simply rescaling numerator and denominator of $p'
 
 Note that “outlay per worker increasing” is called “capital deepening” in bourgeois economics and it is assumed to be a stable feature of the capitalist economy. For example, that outlay for capital per worker tends to increase is one of the six “Kaldor facts”, cf. [Appendix: Kaldor facts](#app:kaldor).
 
-## Value revolutions <a name="sec:value-revolutions"></a> ##
+## Value Revolutions <a name="sec:value-revolutions"></a> ##
 
 Above, we assumed an ever increasing outlay in constant capital per worker and hence per mass of surplus-value. However, since the tendency of the rate of profit to fall is an expression of the rising productivity of labour, the elements of constant capital (and the means of subsistence) eventually become cheaper as a result of the same movement. This is effectively what Heinrich is pointing out when saying that the constant capital necessary to employ a worker can also fall.
 
@@ -101,7 +101,7 @@ Of course, other cases of increased productivity through increased outlay in con
 
 Hence, the price development Michael Heinrich anticipates to cancel the drop in the profit rate may as well be assumed to be the typical price development.
 
-### Value revolutions and turnover ###
+### Value Revolutions and Turnover ###
 
 However, the argument above about price development and profit rate only applies to *newly invested* capital *after prices dropped*. The *immediate* general result of the development of the productivity of labour under the rule of capital is a reduction in the rate of profit; *eventually*, the profit rate is restored for *newly invested capital*. Capitals which invested in new technology previous to this price drop are stuck with an old, reduced profit rate.
 
@@ -115,7 +115,7 @@ In other words, when capital accumulation is successful, i.e. when capital proc
 
 It is not (a one-off) *increased* productivity which suppresses the rate of profit, but the continuous process of *increasing* productivity. More precisely, we have to say that the profit rate is suppressed when the progressive development of the social productivity of labour proceeds at a pace which outruns the turnover of (fixed) capital. Put differently, it is the *accumulation* of capital which suppresses the profit rate, not *accumulated* capital.
 
-## Profit rate and mass <a name="sec:profit-rate-and-mass"></a> ##
+## Profit Rate and Mass <a name="sec:profit-rate-and-mass"></a> ##
 
 A falling *rate of profit* does not imply a falling *mass of profit*, if the mass to which the rate applies increases sufficiently fast. For example, $1\%$ of $2,000 = 20$ is more than $10\%$ of $100 = 10$.
 
@@ -145,7 +145,7 @@ Insofar a falling profit rate is caused by productivity increases through accumu
 
 ---
 
-## Appendix: Composition glossary <a name="app:composition"></a> ##
+## Appendix: Composition Glossary <a name="app:composition"></a> ##
 
 *Technical composition* is the relation of machinery to labourers in technical or use-value terms: how much machinery and raw material is needed for a certain amount of workers. The technical composition changes with more machinery and less workers needed. This is a qualitative relation, so the reference made in a few commentaries on the issue to a supposedly “rising” technical composition is not adequate.[^17] Yet, to express it as a quantitative relation seems to be obvious. For example, if a machine is replaced by one holding 20 instead of the formerly 2 spindles — and the new machine still only needs one worker to do the spinning — then the technical composition “rose”. However, there is a problem in comparing things on the use-value side. As much as the previous example suggests that this can be done, the problem becomes apparent with a technical revolution that completely changes how production is done and hence leads to the application of entirely *new* machinery in the capitalist production process. This new machine is not “more” or “less”, it is different and therefore not comparable.[^18]
 
@@ -153,7 +153,7 @@ Insofar a falling profit rate is caused by productivity increases through accumu
 
 *Organic composition* is simply the first case: any change in the value composition that is caused by a change in the technical composition. Note that the technical composition can change without it affecting the value composition (e.g. technical composition rises, yet workers managed to receive more $v$) — in that case, the changed technical composition will not show value-wise.[^19] Heinrich’s Heinrich06 [p.315] objection against the concept of the organic composition misses the point. He argues that the cause of a changing value composition cannot necessarily be detected. Anything could change the ratio between $c$ and $v$, he argues, so the organic composition cannot be an indicator of a particular change, i.e. of a change in the technical composition. Yet, the concept of the organic composition is simply that a change of the organic composition is caused by a change in the technical composition, i.e. we only use it when we know what changed value composition. Hence, the organic composition in itself does not say much as stressed by George Geo12 [p.8]. It is only meaningful in comparison with another (perhaps, earlier) organic composition: $c/v$ rose because more machinery is applied in to relation to the outlay in $v$ and that technical change reflects in a changing value relation of $c/v$.
 
-## Appendix: More Marx on organic composition <a name="app:marx-on-organic-composition"></a> ##
+## Appendix: More Marx on Organic Composition <a name="app:marx-on-organic-composition"></a> ##
 
 Marx on raw materials:
 
@@ -165,7 +165,7 @@ Marx seems to consider it unlikely that productivity increases are uniform acros
 
 This is clearly true for any particular increase, e.g. some new way of making plastic. It is another question of what happens over a longer period involving productivity increases in different sectors. There is no reason why this should favour the elements of constant capital over those of variable capital.
 
-## Appendix: Marx on relative surplus-value <a name="app:marx-on-relative-surplus-value"></a> ##
+## Appendix: Marx on Relative Surplus-Value <a name="app:marx-on-relative-surplus-value"></a> ##
 
 Heinrich [Heinrich12] considers a rising rate of relative surplus-value as part of the law as such, not as a counteracting cause, and also points out that Marx himself considered the law as such proven even when the rate of relative surplus-value rises. For example, Marx writes:
 
@@ -179,7 +179,7 @@ However, in this passage Marx is explicitly making a backward reference claiming
 
 A rising rate of relative surplus-value must be considered when discussing the law of the tendency of the rate of profit to fall and Marx did realise this necessity.
 
-## Appendix: Krisis criticism of Heinrich <a name="app:samol"></a> ##
+## Appendix: Krisis Criticism of Heinrich <a name="app:samol"></a> ##
 
 Peter Samol, writing for the journal “krisis”, aims to show that once a certain rate of surplus-value is reached ($v=s$), this rate would need to grow exponentially in order to make up for even a small change in the rate of profit [Samol13]. Hence, according to Samol, with an increase in the rate of surplus-value, it becomes ever harder for it to cancel out the fall of the rate of profit.
 
@@ -195,7 +195,7 @@ $$s/v = p' ⋅ (c/v + 1) = p' ⋅ c/v + p'.$$
 
 Hence, $s/v$ grows linearly in $c/v$. By assumption, $p'$ is to stay constant in order to find out what increase in $s/v$ is needed to cancel out the rise in $c/v$. If $c/v$ then is doubled, then $s/v$ must also be multiplied roughly by $2/p'$ in order to keep $p'$ constant. Since $p'$ is likely $< 1$ (i.e. a profit rate of less than 100%), the multiplier will be larger than $2$ (e.g. $2/0.1 = 2⋅10 = 20$). Yet, this does not imply at all that the demand against $s/v$ grows ever more. The factor stays the same, no matter how large $c/v$ becomes. Therefore, no exponential growth of $c/v$ is needed in order to cancel out a rising rate of profit.
 
-## Appendix: Kaldor facts <a name="app:kaldor"></a> ##
+## Appendix: Kaldor Facts <a name="app:kaldor"></a> ##
 
 In [Kaldor61] six “stylized facts” are put forward for economics to chew on. These “facts” have since been reportedly verified by many bourgeois economists and are widely considered to be true statements. They might hence provide some guidance what can be observed as a staple of the capitalist economy over the last few decades. The six “facts” are:
 
