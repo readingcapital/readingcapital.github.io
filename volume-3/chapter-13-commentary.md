@@ -193,7 +193,7 @@ We rearrange to express $s/v$ in $c/v$ and $p'$. That is, we isolate the rate of
 
 $$s/v = p' ⋅ (c/v + 1) = p' ⋅ c/v + p'.$$
 
-Hence, $s/v$ grows linearly in $c/v$. By assumption, $p'$ is to stay constant in order to find out what increase in $s/v$ is needed to cancel out the rise in $c/v$. If $c/v$ then is doubled, then $s/v$ must also be multiplied roughly by $2/p'$ in order to keep $p'$ constant. Since $p'$ is likely $< 1$ (i.e. a profit rate of less than 100%), the multiplier will be larger than $2$ (e.g. $2/0.1 = 2⋅10 = 20$). Yet, this does not imply at all that the demand against $s/v$ grows ever more. The factor stays the same, no matter how large $c/v$ becomes. Therefore, no exponential growth of $c/v$ is needed in order to cancel out a rising rate of profit.
+Hence, $s/v$ grows linearly in $c/v$. By assumption, $p'$ is to stay constant in order to find out what increase in $s/v$ is needed to cancel out the rise in $c/v$. If $c/v$ then is doubled, then $s/v$ must also be multiplied roughly by $2/p'$ in order to keep $p'$ constant. Since $p'$ is likely $< 1$ (i.e. a profit rate of less than 100%), the multiplier will be larger than $2$ (e.g. $2/0.1 = 2⋅10 = 20$). Yet, this does not imply at all that the demand against $s/v$ grows ever more. The factor stays the same, no matter how large $c/v$ becomes. Therefore, no exponential growth of $s/v$ is needed in order to cancel out a falling rate of profit.
 
 ## Appendix: Kaldor Facts <a name="app:kaldor"></a> ##
 
