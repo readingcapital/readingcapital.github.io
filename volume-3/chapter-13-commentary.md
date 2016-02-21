@@ -201,17 +201,17 @@ In [Kaldor61] six “stylized facts” are put forward for economics to chew on
 
 > As regards the process of economic change and development in capitalist societies, I suggest the following “stylized facts” as a startingpoint for the construction of theoretical models:
 >
-> 1.  The continued growth in the aggregate volume of production and in the productivity of labour at a steady trend rate; no recorded tendency for a falling rate of growth of productivity.
+> 1. The continued growth in the aggregate volume of production and in the productivity of labour at a steady trend rate; no recorded tendency for a falling rate of growth of productivity.
 >
-> 2.  A continued increase in the amount of capital per worker, whatever statistical measure of ‘capital’ is chosen in this connection.
+> 2. A continued increase in the amount of capital per worker, whatever statistical measure of ‘capital’ is chosen in this connection.
 >
-> 3.  A steady rate of profit on capital, at least in the “developed” capitalist societies; this rate of profit being substantially higher than the “pure” long-term rate of interest as shown by the yield of giltedged bonds. \[…\]
+> 3. A steady rate of profit on capital, at least in the “developed” capitalist societies; this rate of profit being substantially higher than the “pure” long-term rate of interest as shown by the yield of giltedged bonds. \[…\]
 >
-> 4.  Steady capital-output ratios over long periods; at least there are no clear long-term trends, either rising or falling, if differences in the degree of utilization of capacity are allowed for. This implies, or reflects, the near-identity in the percentage rates of growth of production and of the capital stock — i.e. that for the economy as a whole, and over longer periods, income and capital tend to grow at the same rate.
+> 4. Steady capital-output ratios over long periods; at least there are no clear long-term trends, either rising or falling, if differences in the degree of utilization of capacity are allowed for. This implies, or reflects, the near-identity in the percentage rates of growth of production and of the capital stock — i.e. that for the economy as a whole, and over longer periods, income and capital tend to grow at the same rate.
 >
-> 5.  A high correlation between the share of profits in income and the share of investment in output; a steady share of profits (and of wages) in societies and/or in periods in which the investment coefficient (the share of investment in output) is constant. \[…\]
+> 5. A high correlation between the share of profits in income and the share of investment in output; a steady share of profits (and of wages) in societies and/or in periods in which the investment coefficient (the share of investment in output) is constant. \[…\]
 >
-> 6.  Finally, there are appreciable differences in the rate of growth of labour productivity and of total output in different societies, the range of variation (in the fast-growing economies) being of the order of 2-5 per cent. These are associated with corresponding variations in the investment coefficient, and in the profit share, but the above propositions concerning the constancy of relative shares and of the capital-output ratio are applicable to countries with differing rates of growth.
+> 6. Finally, there are appreciable differences in the rate of growth of labour productivity and of total output in different societies, the range of variation (in the fast-growing economies) being of the order of 2-5 per cent. These are associated with corresponding variations in the investment coefficient, and in the profit share, but the above propositions concerning the constancy of relative shares and of the capital-output ratio are applicable to countries with differing rates of growth.
 
 The third “fact” can be read as contradicting the starting point of [Capital, Vol. III, Chap. 13]. However, it is not clear what rate of profit these facts are actually referring to.
 
