@@ -3,10 +3,10 @@ title: Chapter 12&#58; Supplementary Remarks
 layout: page
 ---
 
-I. The Causes of a Change in the Price of Production
+1. The Causes of a Change in the Price of Production
 ----------------------------------------------------
 
-II. The Production Price of Commodities of Average Composition
+2. The Production Price of Commodities of Average Composition
 -------------------------------------------------------------
 
 In this section Marx discusses the deviation of production prices of those commodities which are produced by capitals of medium composition. The claim is that these prices are not values but that it makes no difference. This claim is confusing since we learned in [Chapter 9](chapter-09-commentary), that the value of commodities is $k + s$, i.e. cost price + surplus-value. In the case of a capital of medium composition this coincides with $k + p$.
@@ -73,7 +73,7 @@ That “in practice” it holds that price of production = value for capitals of
 
 A variation of the wage does not affect the value of a commodity which is produced by a capital of medium composition. Newly created value is merely distributed differently between capital and labour. It is the same for the production prices of these commodities.
 
-III. The Capitalist’s Grounds for Compensation
+3. The Capitalist’s Grounds for Compensation
 --------------------------------------------
 
 
