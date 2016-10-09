@@ -1020,7 +1020,7 @@ with this purpose labour is divided up into tasks and related. Yet, in a factory
 workers do not exchange intermediate products, they are not commodities.
 
 > 132:4 Only the products of mutually independent self-directed private labors
-> face each other as commodities.[^2]
+> face each other as commodities.[^102]
 
 In capitalist societies, too, labours depend on each other. Intermediate
 products, like windscreen wipers and tyres are offered as commodities and
@@ -1067,7 +1067,7 @@ social labour through the process of competition.
 > i.e., in a society of commodity producers, this qualitative difference between
 > the useful labors that are carried on independently from each other as the
 > private businesses of self-directed producers, develops into a system with
-> many components, a social division of labor.[^3]
+> many components, a social division of labor.[^103]
 
 In capitalist societies there doesn't simply exist a social division of labour,
 it develops constantly with a tendency to smaller and smaller intermediate
@@ -1515,7 +1515,7 @@ value. Now the linen assigns the quality of being immediately value to all
 kinds of commodities in a row and hence doubts the immediate value character
 of the commodities in the particular equivalent forms. If it is not enough
 to express its value character in coat, well then coat is not the definite
-expression of value.[^4]
+expression of value.[^104]
 
 > 156:2 Similarly, the specific, concrete, useful kind of labour contained in
 > each particular commodity-equivalent is only a particular kind of labour and
@@ -1674,7 +1674,7 @@ only possible (contrary to the simple form of value) because all other
 commodities do the same.
 
 To finish the earlier analogy. Alice can now say “I am a Marxist like Karl
-Marx.”[^5] Karl Marx is universally recognised as immediately Marxist and by
+Marx.”[^105] Karl Marx is universally recognised as immediately Marxist and by
 declaring to be Karl-Marx-equal Alice expresses her quality to derive the price
 form etc.
 
@@ -1816,7 +1816,7 @@ subchapter emphasises the opposite: commodity producers have to live up to the
 standard of abstract labour which appears to them as an objective constraint.
 
 David Harvey talks about commodity fetishism as a lack of knowledge about the
-production chain.[^6] One does not know who produced the commodity under which
+production chain.[^106] One does not know who produced the commodity under which
 conditions. Harvey hence is exclusively concerned with the use-value side of the
 commodity and the problem he identifies exists in any reasonably complex
 society.  The issue talked about in this chapter, i.e., how our social relations
