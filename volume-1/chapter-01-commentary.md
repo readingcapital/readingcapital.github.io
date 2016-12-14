@@ -1,4 +1,3 @@
----
 author: 'readingcapital.github.io'
 layout: page
 title: 'Chapter 1: The Commodity — Commentary'
@@ -8,7 +7,7 @@ title: 'Chapter 1: The Commodity — Commentary'
 
 > 125:1 The wealth of societies in which the capitalist mode of production prevails appears as an ‘immense collection of commodities’;
 
-In the first sentence Marx defines the object of analysis. He studies wealth as it appears in capitalist societies. One might object that the wealth of societies actually presents itself as the GDP or as debt or as money or … However, here the starting point is much more simple: people need and want to eat, shelter, tools to fix and produce stuff etc. – that is the material wealth they need in any society. In this society, however, this material wealth appears in commodity form and this particularity is the starting point of the analysis. Hence, when Marx writes “appears” it expresses that the content “wealth” appears in a specific mode: as the commodity.
+In the first sentence Marx defines the object of analysis. He studies wealth as it appears in capitalist societies. One might object that the wealth of societies actually presents itself as the GDP or as debt or as money or … However, here the starting point is much more simple: people need and want to eat, shelter, tools to fix and produce stuff etc. – this is the material wealth they need in any society. In this society, however, this material wealth appears in commodity form and this particularity is the starting point of the analysis. Hence, when Marx writes “appears” it expresses that the content “wealth” confronts us in a specific mode: as the commodity.
 
 To avoid anticipating the remainder of this chapter, we must for now rely on a superficial dictionary style definition of what we mean when we say “commodity”. In economics, in particular around the time when Marx was writing, a commodity is something which is produced for sale or exchange.[^1]
 
@@ -16,13 +15,13 @@ This first definition of a commodity points to the attribute of the wealth under
 
 “Every child knows that any nation that stopped working, not for a year, but let us say, just for a few weeks, would perish. And every child knows, too, that the amounts of products corresponding to the differing amounts of needs demand differing and quantitatively determined amounts of society’s aggregate labour. It is self-evident that this necessity of the distribution of social labour in specific proportions is certainly not abolished by the specific form of social production; it can only change its form of manifestation. Natural laws cannot be abolished at all. The only thing that can change, under historically differing conditions, is the form in which those laws assert themselves.”[^3]
 
-How these laws assert themselves and what additional laws assert themselves if the wealth of societies appears in commodity form is the subject of investigation.
+How these laws assert themselves and what additional laws assert themselves if the wealth of societies appears in commodity form is the subject of this investigation.
 
 Marx’s starting point is rather different from modern economics. The starting point of modern economics is management of scarce resources in general: “Economics … studies the behavior of individuals, households, and organizations …, when they manage or use scarce resources, which have alternative uses, to achieve desired ends.”[^4]
 
 1.  Marx’s starting point is an immense collection of *wealth* not scarcity. The fundamental claim of current modern — i.e. neoclassical – economics is scarcity. We pick this up again below.
 
-2.  Marx’s starting point is the particularity of the capitalist mode production. The commodity form is a *particular* form in which wealth appears and is to be investigated as such: what is the commodity? Modern economics, on the other hand, claims to not to be specific to this society. It claims to study the use of scarce resources in general and posits that the market is the most efficient mechanism for dealing with scarcity. They do not investigate the particular social form that they deal with but posit from the beginning that it is best; they do not study what actually exists but start from a positive verdict which they want to justify. Therewith, these authors miss the observation with which Marx starts.
+2.  Marx’s starting point is the particularity of the capitalist mode of production. The commodity form is a *particular* form in which wealth appears and is to be investigated as such: what is the commodity? Modern economics, on the other hand, claims to not to be specific to this society. It claims to study the use of scarce resources in general and posits that the market is the most efficient mechanism for dealing with scarcity. They do not investigate the particular social form that they deal with but posit from the beginning that it is best; they do not study what actually exists but start from a positive verdict which they want to justify. Therewith, these authors miss the observation from which Marx starts.
 
 > 125:1 the individual commodity appears as its elementary form. Our investigation therefore begins with the analysis of the commodity.
 
