@@ -1,3 +1,4 @@
+---
 author: 'readingcapital.github.io'
 layout: page
 title: 'Chapter 1: The Commodity — Commentary'
