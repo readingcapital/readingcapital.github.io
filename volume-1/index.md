@@ -113,7 +113,7 @@ Commodity owners cannot cooperatively agree on a money as for each of them their
 own commodities count as immediately value and other commodities as particular
 use-values. The state fixes a money.
 
-### Chapter 3: Money, or the Circulation of Commodities ###
+### Chapter 3: [Money, or the Circulation of Commodities](chapter-03-commentary) ###
 
 #### The Measure of Values ####
 
