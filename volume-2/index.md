@@ -491,72 +491,64 @@ This section was intentionally left blank.
 
 ### Chapter 20: Simple Reproduction ###
 
-#### 1. Formulation of the Problem & 2. The Two Departments of Social Production ####
+#### 1. Formulation of the Problem ####
 
-The question and the scheme to answer this question are developed: commodity
-capital in each year must suffice to replace capital in value and material
-terms, otherwise there is no simple reproduction. Thus the distinction between
-capitals based on what they produce is introduced. Department I produces means
-of production for $c$ and department II produces means of subsistence for $v$
-and $s$.
+> 469:2	"The immediate form in which the problem presents itself is this. How 
+> is the capital consumed in production replaced in its value out of the annual product, and how is the movement of this replacement intertwined with the consumption of surplus-value by the capitalists and of wages by the workers?"
+
+The question and the scheme to answer it are developed: commodity capital in each year must suffice to replace capital in value and material terms, otherwise there is no simple reproduction.
+
+#### 2. The Two Departments of Social Production ####
+
+The distinction between capitals based on what they produce is introduced. *department I* produces means of production for $c$ and *department II* produces means of subsistence for $v$ and $s$.
 
 #### 3. Exchange Between the Two Departments: I(v+c) against IIc ####
 
-First new law: constant capital of department II must equal the sum of the $v$
-and $s$ components of department I.
+First new law: constant capital of department II must equal the sum of the $v$ and $s$ components of department I: $I_{v +s} = II_c$.
 
 #### 4. Exchange Within Department II. Necessary Means of Subsistence and Luxury Items ####
 
-Second new law: the realisation of the value components $v$ and $s$ of
-department II must happen within that department. The class opposition which
-restricts workers to necessary means of subsistence necessitates a conceptual
-distinction of capitals which produce ordinary means of subsistence (IIa) and
-those which produce luxury items (IIb). The consumption of luxury items by
-capitalists from department IIa is the condition for the reproduction of workers
-in department IIb. The realisation of surplus-value of department IIa is also
-determined by this relationship.
+Second new law: the realisation of the value components $v$ and $s$ of department II must happen within that department. The class opposition which restricts workers to necessary means of subsistence necessitates a conceptual distinction of capitals which produce *ordinary means of subsistence (IIa)* and those which produce *luxury items (IIb)*. The consumption of luxury items by capitalists from department IIa is the condition for the reproduction of workers in department IIb. The realisation of surplus-value of department IIa is also determined by this relationship.
 
 #### 5. The Mediation of t he Exchanges by Monetary Circulation ####
 
-Rejections, relationships and a third law: the reciprocal value realisation of
-the departments is dependent on money expenditures which happen before value
-realisation and return through it. Capitalists speculating on their success and
-their positive verdict about the course of business is a necessary condition for
-this success.
+Rejections, relationships and a third law. Money returns to its origin: capitalists are paid with money they themselves throw into circulation (partially mediated by wage payments) either as an advance or as personal spending.
+
+The reciprocal value realisation of the departments is dependent on money expenditures which happen before value realisation. Capitalists speculating on their success and their positive verdict about the course of business is a necessary condition for this success.
 
 #### 6. The Constant Capital in Department I ####
 
-No new problem for the material and value reproduction of constant capital of
-producers of means of production.  Constant capital in department I is realised
-and reproduced within this department.
+No new problem for the material and value reproduction of constant capital of producers of means of production. Constant capital in department I is realised and reproduced within this department.
 
-#### 7. Variable Capital and Surplus-Value in the Two Departments, 8. The Constant Capital in Both Departments, 9. A Look Back at Adam Smith, Storch and Ramsay & 10. Capital and Revenue: Variable Capital and Wages ####
+#### 7. Variable Capital and Surplus-Value in the Two Departments, 8. The Constant Capital in Both Departments, 9. A Look Back at Adam Smith, Storch and Ramsay ####
 
-A riddle which concerned economists, a solution and critique of ideology. A
-cause for potential frictions: if the working class lives hand to mouth, then
-capitalists can indulge in luxury spending or save up. This might assert itself
-against the necessary relationship of exchanges between the departments.
+A riddle which concerned economists, a solution and critique of ideology. It can look like Smith had a point when he said all values decompose into revenue if you consider that $II_{c+v+s}$ can be considered as $I_{v+s} + II_{v+s}$ because $II_c = I_{v+s}$.
+
+> 501:2 On the premise of simple reproduction, therefore, the total value of the means of consumption annually produced is equal to the annual value product, i.e. equal to the total value produced by the labour of the society in the course of the year, and the reason why this must be the case is that with simple reproduction this entire value is consumed.
+
+However, this equality in magnitudes is not the same as the equivalence in substance. Both departments produce fresh value and the value of constant capital reappears in their products. Expressed for department I:
+
+> 509:1 Socially considered, however, the portion of the social working day that produces means of production, both adding new value to them and transferring to them the value of the means of production consumed while they were being produced, produces nothing but new *constant capital*, destined to replace that consumed in the form of the old means of production, the constant capital consumed in both departments I and II.
+
+#### 10. Capital and Revenue: Variable Capital and Wages ####
+
+It is wrong to say that what is capital for one is revenue for another, as this (a) identifies the value of the product with the value product and (b) confuses what becomes of money after it left the circuit of capital with the function of value within the circuit.
+
+A cause for potential frictions: while the working class lives hand to mouth, the capitalist class can indulge in luxury spending or save up. This might assert itself against the necessary relationship of exchanges between the departments.
 
 #### 11. Replacement of the Fixed Capital ####
 
-A fourth law: simple reproduction can only happen if department II wants to buy
-new machinery to the same extend as it hoards in order to buy fixed capital
-later. Such a balance would have to exist in every year which is unlikely due to
-the anarchy of the market. If every year the same is produced in terms of value
-and material then this means crisis.
+A fourth law: simple reproduction can only happen if department II wants to buy new machinery to the same extend as it hoards in order to buy fixed capital later. That is, for there to be a part of department II that only buys means of production without selling an equivalent in this year (section 1), there must be an equally big part of department II that sells without buying means of production (section 2).
 
-Simple reproduction only exists under constant overproduction, i.e. expanded
-reproduction, which means accumulation must take place. This is the transition
-to the next chapter.
+Such a balance would have to exist in every year which is unlikely due to the anarchy of the market. If every year the same is produced in terms of value and material then this means crisis. Simple reproduction only exists under constant overproduction, i.e. expanded reproduction, which means accumulation must take place. This is the transition to the next chapter.
 
 #### 12. The Reproduction of the Money Material ####
 
-Money material is replaced and the possibility of hoarding without disturbing
-the reproduction process exists.
+Money material is replaced and the possibility of hoarding without disturbing the reproduction process exists.
 
 #### 13. Destutt de Tracy's Theory of Reproduction ####
 
-Critique of ideology.
+> 563:2 [Destutt de Tracy held] that it is not the capitalists who are fed by the workers, but the workers by the capitalists, and moreover for the brilliant reason that the money with which the workers are paid does not remain in their hands, but always returns to the capitalists in payment for the goods that the workers produced.
 
 ### Chapter 21: Accumulation and Reproduction on an Expanded Scale ###
 
