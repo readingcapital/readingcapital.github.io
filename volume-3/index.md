@@ -42,7 +42,7 @@ the reproduction and accumulation of total social capital.
 
 ### Chapter 14: Counteracting Factors ###
 
-### Chapter 15: Development of the Law's Internal Contradictions ###
+### Chapter 15: [Development of the Law's Internal Contradictions](chapter-15-commentary) ###
 
 ## Part Four: The Transformation of Commodity-Capital and Money-Capital into Commercial Capital and Money-Dealing Capital (Merchant's Capital) ##
 
