@@ -548,7 +548,7 @@ Money material is replaced and the possibility of hoarding without disturbing th
 
 #### 13. Destutt de Tracy's Theory of Reproduction ####
 
-> 563:2 [Destutt de Tracy held] that it is not the capitalists who are fed by the workers, but the workers by the capitalists, and moreover for the brilliant reason that the money with which the workers are paid does not remain in their hands, but always returns to the capitalists in payment for the goods that the workers produced.
+Destutt de Tracy held that profits are the result of uneven exchange i.e. that surplus was generated in the distribution of the annual product. While this might account for individual capitalists getting richer at the expense of each other or the workers they sell to, it cannot explain the presence of increased wealth in the whole of society.
 
 ### Chapter 21: Accumulation and Reproduction on an Expanded Scale ###
 
