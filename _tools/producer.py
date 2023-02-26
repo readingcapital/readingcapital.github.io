@@ -60,8 +60,7 @@ def produce_odt(output_filename, input_filename, template_filename=None):
 def produce_pdf(output_filename, input_filename, template_filename=None):
     output_filename = fix_filename(output_filename, "pdf")
 
-    pandoc_args = ["-S",
-                   "--latex-engine=xelatex",
+    pandoc_args = ["--pdf-engine=xelatex",
                    "-V geometry:a4paper",
                    "-V geometry:margin=1in",
                    "-V mainfont=Georgia"]

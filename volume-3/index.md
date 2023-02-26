@@ -108,7 +108,7 @@ the reproduction and accumulation of total social capital.
 
 ### Chapter 44: Differential Rent Even on the Poorest Land Cultivated ###
 
-### Chapter 45: Absolute Ground-Rent ###
+### Chapter 45: [Absolute Ground-Rent](chapter-45-commentary) ###
 
 ### Chapter 46: Rent of Buildings. Rent of Mines. Price of Land ###
 
