@@ -23,7 +23,7 @@ This means that the societal pot of surplus value, from which all spheres get th
 
 > 898:1 In any case, this absolute rent, arising from the excess value over and above the price of production, is simply a part of the agricultural surplus-value, the transformation of this surplus-value into rent, its seizure by the landowner; just as differential rent arises from the transformation of surplus profit into rent, its seizure by landed property, at the general governing price of production. These two forms of rent are the only normal ones. Apart from this, rent can derive only from a genuine monopoly price, which is determined neither by the price of production of the commodities nor by their value, but rather by the demand of the purchasers and their ability to pay, consideration of which therefore belongs to the theory of competition, where the actual movement of market prices is investigated.
 
-There is an **absolute ground-rent** which results from the surplus of the value of the commodities put into society relatively to what is taken out of society in exchange according to prices of production. But if this difference does not exist then the ground-rent on the worst land is a pure **monopoly price**.
+There is an *absolute ground-rent* which results from the surplus of the value of the commodities put into society relatively to what is taken out of society in exchange according to prices of production. But if this difference does not exist then the ground-rent on the worst land is a pure *monopoly price*.
 
 This is perhaps a bit of an underwhelming result. Put differently, why should we care much? Marx answer seems to be “because people got it wrong in the past”:
 
@@ -37,9 +37,9 @@ That would indeed be the case if the price that comes about thanks to absolute r
 
 Put differently:
 
--   *Assumption 1* price of production + rent is more than value: then the newly cultivated land extracts more wealth from society than it puts in.
+-   **Assumption 1** price of production + rent is more than value: then the newly cultivated land extracts more wealth from society than it puts in.
 
--   *Assumption 2* price of production + rent is less than value: the additional cultivation of the land has not made society poorer, the landowners are extracting, but what happens on their land is not purely negative in value terms.
+-   **Assumption 2** price of production + rent is less than value: the additional cultivation of the land has not made society poorer, the landowners are extracting, but what happens on their land is not purely negative in value terms.
 
 ---
 
