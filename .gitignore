@@ -1,3 +1,6 @@
 _site/
 _upstream/
 _disconnected/
+/vendor/
+/Gemfile.lock
+/.bundle/
