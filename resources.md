@@ -50,7 +50,7 @@ They might be able to point you to good Capital reading groups in London.
 ### Recommended Reading ###
 
 * “Finance Capital” [I](http://www.gegenstandpunkt.com/english/fin-cap/fin-cap-I.html), [II](http://www.gegenstandpunkt.com/english/fin-cap/fin-cap-II.html), and [III](http://www.gegenstandpunkt.com/english/fin-cap/fin-cap-III.html) are a systematic account of *finance capital* (part five of Volume&nbsp;3).
-* [“Currency and its Value”](http://www.gegenstandpunkt.com/english/currency.html) explains modern *credit money* (cf. chapter 3 of Volume&nbsp;1 which assumes gold money).
+* [“Currency and its Value”](https://en.gegenstandpunkt.com/article/currency-and-its-value) explains modern *credit money* (cf. chapter 3 of Volume&nbsp;1 which assumes gold money).
 
 ## [Ruthless Criticism](http://www.ruthlesscriticism.com) ##
 
