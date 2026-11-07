@@ -193,7 +193,9 @@ We rearrange to express $s/v$ in $c/v$ and $p'$. That is, we isolate the rate of
 
 $$s/v = p' ⋅ (c/v + 1) = p' ⋅ c/v + p'.$$
 
-Hence, $s/v$ grows linearly in $c/v$. By assumption, $p'$ is to stay constant in order to find out what increase in $s/v$ is needed to cancel out the rise in $c/v$. If $c/v$ then is doubled, then $s/v$ must also be multiplied roughly by $2/p'$ in order to keep $p'$ constant. Since $p'$ is likely $< 1$ (i.e. a profit rate of less than 100%), the multiplier will be larger than $2$ (e.g. $2/0.1 = 2⋅10 = 20$). Yet, this does not imply at all that the demand against $s/v$ grows ever more. The factor stays the same, no matter how large $c/v$ becomes. Therefore, no exponential growth of $s/v$ is needed in order to cancel out a falling rate of profit.
+Hence, $s/v$ grows linearly in $c/v$. By assumption, $p'$ is to stay constant in order to find out what increase in $s/v$ is needed to cancel out the rise in $c/v$. 
+
+If $c/v$ then is doubled, then $s/v$ must also be multiplied by $(2·c/v + 1)/(c/v + 1)$, i.e. roughly by 2, in order to keep $p'$ constant.  Therefore, no exponential growth of $s/v$ is needed in order to cancel out a falling rate of profit.
 
 ## Appendix: Kaldor Facts <a name="app:kaldor"></a> ##
 
@@ -264,7 +266,7 @@ to Eliminate Marx’s Crisis Theory](http://papers.ssrn.com/sol3/papers.cfm?abst
 
 [^13]: In [Samol13] Samol attempts to show more generally that a rising rate of surplus-value cannot cancel a fall of the rate of profit because the demand against the former by the latter would be ever increasing. This is not correct, cf. [Krisis criticism of Heinrich](#app:samol).
 
-[^14]: For example, assume $c_0 = 500$ and $v_0 = 1$ and $s_0 = 10$. Then, $p'_0 = 1/(500+1) ≈ 1.99\%$. Now, $p'_1 = 1/(1000 + 1) ≈ 0.99\%$ and $p'_1/p'_0 ≈ 1.99 ≈ 2$.
+[^14]: For example, assume $c_0 = 500$ and $v_0 = 1$ and $s_0 = 10$. Then, $p'_0 = 10/(500+1) ≈ 1.99\%$. Now, $p'_1 = 10/(1000 + 1) ≈ 0.99\%$ and $p'_0/p'_1 ≈ 1.99 ≈ 2$.
 
 [^15]: According to [Kliman96] this is one of the mistaken assumptions used to prove the Okishio theorem which ostensibly disproves the tendency of the rate of profit to fall.
 
