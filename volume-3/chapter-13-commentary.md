@@ -97,9 +97,9 @@ Hence, if the outlay in constant capital is, say, doubled then the rate of profi
 
 This begs the question if this condition is typically satisfied. As discussed in [Organic Composition](#sec:organic-composition), a typical case of increased productivity is simply the application of bigger, but not fundamentally different, machines. A worker operates two machines instead of one. In this case, a doubled outlay in constant capital translates into buying twice as many machines and raw materials which are used to produce the same commodity in half the time. Hence, here a generalised doubled outlay in $c$ leads to the kind of price revolution which eventually produces a drop in price offsetting the increased outlay.
 
-Of course, other cases of increased productivity through increased outlay in constant capital also take place, such as complete revolutions in how a certain commodity is produced. While for this case it is impossible to give a systematic argument about the relation of increased outlay in constant capital and increased productivity (and hence price drop), bourgeois economics maintains that the identity stated above — outlay increase by a factor of $x$, prices eventually drop by a factor of $x$ — observably holds. More precisely, it is one of the six “Kaldor facts” (cf. [Appendix: Kaldor facts](#app:kaldor)) that the capital-output ratio remains constant over long periods of time. The capital-output ratio is a relation of use-values: “output stuff” divided by “means of production stuff”. Assuming that the kludges used in bourgeois economics to make division of some stuff by some other stuff meaningful are sound, this would imply that a doubled outlay in constant capital in some hand-waving use-value sense typically also produces a doubled product of stuff in some equally hand-waving use-value sense.
+Of course, other cases of increased productivity through increased outlay in constant capital also take place, such as complete revolutions in how a certain commodity is produced. For this case it is impossible to give a systematic argument about the relation of increased outlay in constant capital and increased productivity (and hence price drop).
 
-Hence, the price development Michael Heinrich anticipates to cancel the drop in the profit rate may as well be assumed to be the typical price development.
+Still, overall, it appears that the price development Michael Heinrich anticipates to cancel the drop in the profit rate may as well be assumed to be the typical price development.
 
 ### Value Revolutions and Turnover ###
 
@@ -202,24 +202,22 @@ If $c/v$ then is doubled, then $s/v$ must also be multiplied by $(2·c/v + 1)/(c
 In [Kaldor61] six “stylized facts” are put forward for economics to chew on. These “facts” have since been reportedly verified by many bourgeois economists and are widely considered to be true statements. They might hence provide some guidance what can be observed as a staple of the capitalist economy over the last few decades. The six “facts” are:
 
 > As regards the process of economic change and development in capitalist societies, I suggest the following “stylized facts” as a startingpoint for the construction of theoretical models:
->
+> 
 > 1. The continued growth in the aggregate volume of production and in the productivity of labour at a steady trend rate; no recorded tendency for a falling rate of growth of productivity.
->
+> 
 > 2. A continued increase in the amount of capital per worker, whatever statistical measure of ‘capital’ is chosen in this connection.
->
+>  
 > 3. A steady rate of profit on capital, at least in the “developed” capitalist societies; this rate of profit being substantially higher than the “pure” long-term rate of interest as shown by the yield of giltedged bonds. \[…\]
->
+> 
 > 4. Steady capital-output ratios over long periods; at least there are no clear long-term trends, either rising or falling, if differences in the degree of utilization of capacity are allowed for. This implies, or reflects, the near-identity in the percentage rates of growth of production and of the capital stock — i.e. that for the economy as a whole, and over longer periods, income and capital tend to grow at the same rate.
->
+> 
 > 5. A high correlation between the share of profits in income and the share of investment in output; a steady share of profits (and of wages) in societies and/or in periods in which the investment coefficient (the share of investment in output) is constant. \[…\]
->
+> 
 > 6. Finally, there are appreciable differences in the rate of growth of labour productivity and of total output in different societies, the range of variation (in the fast-growing economies) being of the order of 2-5 per cent. These are associated with corresponding variations in the investment coefficient, and in the profit share, but the above propositions concerning the constancy of relative shares and of the capital-output ratio are applicable to countries with differing rates of growth.
 
-The third “fact” can be read as contradicting the starting point of [Capital, Vol. III, Chap. 13]. However, it is not clear what rate of profit these facts are actually referring to.
+It is not clear if "fact 2" would be an expression of $c/v$ rising or $c/(s+v)$ rising, i.e. rising organic composition or falling rate of profit. That is, what is the unit of "a worker" here: the wage bill per worker or literally an individual. The second reading would assert the conditions under which — in the long term — the profit rate must fall.
 
-The second “fact” asserts the conditions under which — in the long term — the profit rate must fall (see [Relative surplus-value](#sec:relative-surplus-value)).
-
-Finally, “fact” four implies that prices do eventually drop to cancel a fall in the profit rate for newly invested capital if productivity does not increase further.
+"Fact" 3 states that the rate of profit does not fall long term. This can be read as contradicting the starting point of [Capital, Vol. III, Chap. 13]. However, it is not clear what rate of profit these facts are actually referring to.
 
 ## References ##
 
