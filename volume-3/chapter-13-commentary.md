@@ -75,7 +75,7 @@ In the example discussed above, Marx assumes that organic composition rises, tha
 
 This result can be restated by simply rescaling numerator and denominator of $p' = s/C$ such that the rate of profit is expressed per worker. That is, we can equivalently state Marx’s result by considering one worker (per day, say), instead of one capital of a given size. Now, if the constant capital required to put one worker to work grows indefinitely *absolutely*, the surplus value produced by a worker will not be able to offset the drop in the rate of profit: the maximal amount of value produced by one worker is finite, say, 24 hours worth of labour-time. As a consequence, the rate of profit must eventually fall: *when the outlay of constant capital per worker grows indefinitely, the profit rate falls indefinitely*.
 
-Note that “outlay per worker increasing” is called “capital deepening” in bourgeois economics and it is assumed to be a stable feature of the capitalist economy. For example, that outlay for capital per worker tends to increase is one of the six “Kaldor facts”, cf. [Appendix: Kaldor facts](#app:kaldor).
+Note that “outlay per worker increasing” is called “capital deepening” in bourgeois economics and it is assumed to be a stable feature of the capitalist economy.
 
 ## Value Revolutions <a name="sec:value-revolutions"></a> ##
 
